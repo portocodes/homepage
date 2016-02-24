@@ -5,4 +5,4 @@ before_install:
 install: go get github.com/spf13/hugo
 script: hugo
 after_success:
-  - surge --project ./public --domain portocodes.surge.sh
+  - surge --project ./public --domain porto.codes.surge.sh
