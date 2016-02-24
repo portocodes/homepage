@@ -1,4 +1,12 @@
-baseurl = "http://portocodes.surge.sh"
+baseurl = "http://195.200.253.136:1313"
 languageCode = "pt-PT"
 title = "Porto Codes"
 theme = "herring-cove"
+
+[params]
+ProfilePicture = "http://photos4.meetupstatic.com/photos/event/1/b/0/1/highres_446106913.jpeg"
+Description = "Software engineering enthusiasts meeting every month to share experiences."
+github = "https://github.com/portorb"
+meetup = "https://www.meetup.com/portocodes"
+slack = "https://portorb.herokuapp.com"
+youtube = "https://www.youtube.com/channel/UC1zSOKJl5DhQmlxtEfPGrvw"
