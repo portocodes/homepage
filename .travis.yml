@@ -2,7 +2,10 @@ sudo: required
 language: node_js
 before_install:
   sudo apt-get -y install golang
-install: go get github.com/spf13/hugo
+install:
+  - export GOPATH="$TRAVIS_BUILD_DIR"
+  - export PATH="$GOPATH/bin:$PATH"
+  - go get github.com/spf13/hugo
 script: hugo
 after_success:
   - surge --project ./public --domain porto.codes.surge.sh
