@@ -1,0 +1,8 @@
+sudo: required
+language: node_js
+before_install:
+  sudo apt-get -y install golang
+install: go get github.com/spf13/hugo
+script: hugo
+after_success:
+  - surge --project ./public --domain portocodes.surge.sh
