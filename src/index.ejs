@@ -1,0 +1,15 @@
+<ul class="posts">
+  <% for (slug in public.blog._data) {
+    var article = public.blog._data[slug];
+    %>
+  <li>
+    <span>
+      <h2><a href="/blog/<%= slug %>"><%= article.title %></a></h2>
+      <time class="pull-right post-list"><%= article.date %></time>
+
+      <%- partial('blog/'+ slug) %>
+
+    </span>
+  </li>
+  <% } %>
+</ul>

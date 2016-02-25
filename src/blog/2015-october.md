@@ -1,12 +1,3 @@
-+++
-Categories = []
-Description = ""
-Tags = []
-date = "2015-10-22T12:00:00Z"
-title = "October 2015 meetup"
-
-+++
-
 On this edition of [Porto Codes](https://www.meetup.com/portocodes/events/224338469/), we had the following talks:
 
 * "Cassandro, o exótico", by Paulo Brito
