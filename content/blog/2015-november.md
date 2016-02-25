@@ -7,6 +7,6 @@ title = "November 2015 meetup"
 
 +++
 
-On this edition of [Porto.codes](https://www.meetup.com/portocodes/events/224338469/), we had the following talk:
+On this edition of [Porto Codes](https://www.meetup.com/portocodes/events/224338469/), we had the following talk:
 
 * "Personal engine vs other tools", by Miguel Mendes
