@@ -2,7 +2,7 @@
   <div id="article">
     <h1>{{.Title}}</h1>
     <ul class="posts">
-      {{ range .Data.Pages }}
+      {{ range where .Data.Pages "Type" "blog" }}
       <li>
         <span>
           <a href="{{ .Permalink }}">{{ .Title }}</a>
