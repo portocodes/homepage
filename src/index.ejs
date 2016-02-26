@@ -4,7 +4,7 @@
     %>
   <li>
     <h2><a href="/blog/<%= slug %>"><%= article.title %></a></h2>
-    <time class="pull-right post-list"><%= article.date %></time>
+    <time><%= article.date %></time>
 
     <%- partial('blog/'+ slug) %>
   </li>

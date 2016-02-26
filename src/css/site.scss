@@ -114,8 +114,8 @@ a {
   position: fixed;
   display: none;
   color: white;
-  right: 20px;
-  top: 20px;
+  right: 40px;
+  top: 40px;
   width: 30px;
   height: 30px;
   font-size: 40px;
@@ -151,7 +151,8 @@ a {
         margin-bottom: 0px;
       }
       time {
-        line-height:20px;
+        line-height:40px;
+        height: 40px;
         display: block;
         text-align: right;
         max-width: 700px
@@ -212,5 +213,9 @@ h2 {
 
   #article {
     padding: 40px 20px 20px 20px;
+  }
+
+  .content h1 {
+    padding: 20px 80px 20px 40px;
   }
 }
