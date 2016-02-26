@@ -6,6 +6,7 @@
       <%- partial("_sidebar") %>
 
       <div class="content">
+        <a id="toggle-menu" href="#" onclick="toggleMenu()">&#9776;</a>
         <h1><%= title %></h1>
         <div id='article'>
           <%- partial("_speakers") %>
@@ -13,5 +14,12 @@
         </div>
       </div>
     </div>
+
+    <script type='text/javascript'>
+      var toggleMenu = function() {
+        var e = document.getElementById('sidebar');
+        e.dataset.collapsed = (e.dataset.collapsed != "true");
+      }
+    </script>
   </body>
 </html>
