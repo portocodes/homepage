@@ -3,12 +3,13 @@
     "title": "Porto Codes",
     "site_title": "Porto Codes",
     "base_url": "http://porto.codes/",
-    "profile_url": "http://photos4.meetupstatic.com/photos/event/1/b/0/1/highres_446106913.jpeg",
+    "profile_url": "/images/ponte-luis-i.jpg",
     "description": "Software engineering enthusiasts meeting every month to share experiences.",
 
     "meetup_url": "https://www.meetup.com/portocodes",
     "github_url": "https://github.com/portocodes",
     "slack_url": "https://portorb.herokuapp.com",
-    "youtube_url": "https://www.youtube.com/channel/UC1zSOKJl5DhQmlxtEfPGrvw"
+    "youtube_url": "https://www.youtube.com/channel/UC1zSOKJl5DhQmlxtEfPGrvw",
+    "speakers": []
   }
 }
