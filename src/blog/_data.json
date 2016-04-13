@@ -1,7 +1,14 @@
 {
+  "2016-march": {
+    "title": "March 2016 meetup",
+    "date": "2016-03-23",
+    "speakers": [
+      "/images/acascalheira.jpg"
+    ]
+  },
   "2016-february": {
     "title": "February 2016 meetup",
-    "date": "2016-11-19",
+    "date": "2016-02-17",
     "speakers": [
       "http://photos3.meetupstatic.com/photos/member/a/b/3/thumb_242102739.jpeg",
       "https://avatars2.githubusercontent.com/u/283819?v=3&s=80",
