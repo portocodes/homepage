@@ -6,4 +6,4 @@ before_script:
   - npm install -g surge
 script: harp compile src public
 after_success:
-  - surge --project public --domain porto.codes
+  - test $TRAVIS_PULL_REQUEST == "false" && test $TRAVIS_BRANCH == "master" && surge --project public --domain porto.codes
