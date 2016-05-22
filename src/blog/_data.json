@@ -1,72 +1,152 @@
 {
   "2016-may": {
-    "title": "May 2016 meetup",
-    "date": "2016-05-10",
-    "speakers": [
-      "/images/acascalheira.jpg"
+    "id": "227936762",
+    "title": "Encontro de Maio, 2016",
+    "date": "2016-05-18",
+    "talks": [
+      {
+        "title": "Good ol' PHP",
+        "slides": "https://speakerdeck.com/portocodes/good-ol-php",
+        "video": "https://youtube.com/watch?v=Z6tkrA1JvoE",
+        "speakers": ["Rui Lima"]
+      }
     ]
   },
   "2016-april": {
-    "title": "April 2016 meetup",
+    "id": "228895584",
+    "title": "Encontro de Abril, 2016",
     "date": "2016-04-20",
-    "speakers": [
-      "/images/hugopeixoto.jpg",
-      "/images/paulofreitas.jpg"
+    "talks": [
+      {
+        "title": "Demonstração Let's Encrypt",
+        "slides": "https://speakerdeck.com/portocodes/lets-encrypt",
+        "speakers": ["Hugo Peixoto"]
+      },
+      {
+        "title": "Indigo World",
+        "speakers": ["Paulo Freitas"]
+      }
     ]
   },
   "2016-march": {
-    "title": "March 2016 meetup",
+    "id": "227739316",
+    "title": "Encontro de Março, 2016",
     "date": "2016-03-23",
-    "speakers": [
-      "/images/acascalheira.jpg"
+    "talks": [
+      {
+        "title": "Elixir and Phoenix",
+        "video": "https://www.youtube.com/watch?v=4eqOlU_UOlQ",
+        "speakers": ["António Cascalheira"]
+      },
+      {
+        "title": "Cassandro: Conclusão",
+        "speakers": ["Paulo Brito"]
+      }
     ]
   },
   "2016-february": {
-    "title": "February 2016 meetup",
+    "id": "228396049",
+    "title": "Encontro de Fevereiro, 2016",
     "date": "2016-02-17",
-    "speakers": [
-      "http://photos3.meetupstatic.com/photos/member/a/b/3/thumb_242102739.jpeg",
-      "https://avatars2.githubusercontent.com/u/283819?v=3&s=80",
-      "https://avatars2.githubusercontent.com/u/1141870?v=3&s=80"
+    "talks": [
+      {
+        "title": "React On Rails",
+        "video": "https://www.youtube.com/watch?v=gXClAD7_w6g",
+        "speakers": ["Pedro Brochado"]
+      },
+      {
+        "title": "More React, and probably less Rails",
+        "video": "https://www.youtube.com/watch?v=h1hw5AYRngs",
+        "speakers": ["Miguel Palhas"]
+      },
+      {
+        "title": "Mutation Testing",
+        "video": "https://www.youtube.com/watch?v=qsuDFXFiqcA",
+        "speakers": ["Pedro Costa"]
+      }
     ]
   },
   "2015-november": {
-    "speakers": [
-      "https://avatars3.githubusercontent.com/u/772409?v=3&s=80"
-    ],
-    "title": "November 2015 meetup",
-    "date": "2015-11-19"
+    "id": "224338469",
+    "title": "Encontro de Novembro, 2015",
+    "date": "2015-11-19",
+    "talks": [
+      {
+        "title": "Personal engine vs other tools",
+        "speakers": ["Miguel Mendes"]
+      }
+    ]
   },
   "2015-october": {
-    "speakers": [
-      "https://pbs.twimg.com/profile_images/532940125945073664/gYuuXAAZ.jpeg"
-    ],
-    "title": "October 2015 meetup",
-    "date": "2015-10-22"
+    "id": "224338469",
+    "title": "Encontro de Outubro, 2015",
+    "date": "2015-10-22",
+    "talks": [
+      {
+        "title": "Cassandro, o exótico",
+        "speakers": ["Paulo Brito"]
+      },
+      {
+        "title": "Developers & Designers",
+        "video": "https://www.youtube.com/watch?v=nhs-s-UDsvI",
+        "speakers": ["Maria Monteiro"]
+      }
+    ]
   },
   "2015-june": {
-    "speakers": [
-      "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/07f/2cd/35015d6.jpg",
-      "https://pbs.twimg.com/profile_images/1816334122/198791_2294763489568_1263506802_2874076_1387587_n_400x400.jpg",
-      "https://avatars1.githubusercontent.com/u/166304?v=3&s=80"
-    ],
-    "title": "June 2015 meetup",
-    "date": "2015-06-18"
+    "id": "223116626",
+    "title": "Encontro de Junho, 2015",
+    "date": "2015-06-18",
+    "talks": [
+      {
+        "title": "Apey-eye",
+        "video": "https://www.youtube.com/watch?v=j6Ytn5o1uEk",
+        "speakers": ["Filipe Sousa"]
+      },
+      {
+        "title": "Polymer/hoodie",
+        "video": "https://www.youtube.com/watch?v=tHLlK7Hzxvo",
+        "speakers": ["Rui Monteiro"]
+      },
+      {
+        "title": "a11y for the uninitiated",
+        "video": "https://www.youtube.com/watch?v=Cx2j98Rfnn8",
+        "speakers": ["Luis Zamith Ferreira"]
+      }
+    ]
   },
   "2015-may": {
-    "speakers": [
-      "https://avatars1.githubusercontent.com/u/492663?v=3&s=80",
-      "https://avatars2.githubusercontent.com/u/234036?v=3&s=80"
-    ],
-    "title": "May 2015 meetup",
-    "date": "2015-05-28"
+    "id": "223116626",
+    "title": "Encontro de Maio, 2015",
+    "date": "2015-05-28",
+    "talks": [
+      {
+        "title": "Introduction to Elixir",
+        "video": "https://www.youtube.com/watch?v=wTJZCspA-wU",
+        "speakers": ["Ismael Abreu"]
+      },
+      {
+        "title": "A taste of integration with Apache Camel",
+        "video": "https://www.youtube.com/watch?v=X36jYzMY8Zk",
+        "speakers": ["Rui Salgado"]
+      }
+    ]
   },
   "2015-february": {
-    "speakers": [
-      "/images/gpereira.jpg",
-      "https://avatars1.githubusercontent.com/u/166304?v=3&s=80"
-    ],
-    "title": "February 2015 meetup",
-    "date": "2015-02-04"
+    "id": "220087634",
+    "title": "Encontro de Fevereiro, 2015",
+    "date": "2015-02-04",
+    "talks": [
+      {
+        "title": "Rails Performance",
+        "video": "https://www.youtube.com/watch?v=YxzPtevYrCI",
+        "speakers": ["Guilherme Pereira"]
+      },
+      {
+        "title": "Crystal programming language",
+        "video": "https://www.youtube.com/watch?v=FuvfNLQgUKA",
+        "speakers": ["Luis Zamith Ferreira"]
+      }
+    ]
   }
 }

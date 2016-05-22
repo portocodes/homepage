@@ -159,8 +159,8 @@ a {
         max-width: 700px
       }
       p {
-        line-height: 40px;
-        margin: 0px;
+        line-height: 20px;
+        margin: 10px 0px;
       }
     }
   }
@@ -187,6 +187,11 @@ h2 {
   font-weight: 300;
   font-size: 50px;
   font-smoothing: antialiased;
+}
+
+em {
+  font-style: normal;
+  font-weight: bold;
 }
 
 #wrapper {

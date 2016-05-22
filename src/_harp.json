@@ -11,6 +11,26 @@
     "slack_url": "https://portorb.herokuapp.com",
     "youtube_url": "https://www.youtube.com/channel/UC1zSOKJl5DhQmlxtEfPGrvw",
     "podcast_url": "https://conversas.simplecast.fm/",
-    "speakers": []
+
+    "talks": [],
+    "speakers": {
+      "António Cascalheira": "https://www.gravatar.com/avatar/0020362af7824bf77042faccf237ba66",
+      "Filipe Sousa": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/4/005/07f/2cd/35015d6.jpg",
+      "Guilherme Pereira": "/images/gpereira.jpg",
+      "Hugo Peixoto": "https://www.gravatar.com/avatar/9877b8aead736d33145d6e76bc7a9abf",
+      "Ismael Abreu": "https://avatars1.githubusercontent.com/u/492663?v=3&s=80",
+      "Luis Zamith Ferreira": "https://avatars1.githubusercontent.com/u/166304?v=3&s=80",
+      "Maria Monteiro": "https://pbs.twimg.com/profile_images/532940125945073664/gYuuXAAZ.jpeg",
+      "Miguel Mendes": "https://avatars3.githubusercontent.com/u/772409?v=3&s=80",
+      "Miguel Palhas": "https://avatars2.githubusercontent.com/u/283819?v=3&s=80",
+      "Pedro Brochado": "http://photos3.meetupstatic.com/photos/member/a/b/3/thumb_242102739.jpeg",
+      "Pedro Costa": "https://avatars2.githubusercontent.com/u/1141870?v=3&s=80",
+      "Paulo Brito": null,
+      "Paulo Freitas": "/images/paulofreitas.jpg",
+      "Rui Lima": "https://www.gravatar.com/avatar/a082195f76abf783dc97e9769a20d4d5",
+      "Rui Monteiro": "https://pbs.twimg.com/profile_images/1816334122/198791_2294763489568_1263506802_2874076_1387587_n_400x400.jpg",
+      "Rui Salgado": "https://avatars2.githubusercontent.com/u/234036?v=3&s=80",
+      "": null
+    }
   }
 }

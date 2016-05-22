@@ -1,9 +1,11 @@
-On this edition of [Porto Codes](http://www.meetup.com/portocodes/events/228895584/), we had the following talks:
+Devido a dificuldades técnicas, o vídeo da apresentação "Demonstração Let's
+Encrypt" ficou sem áudio. Iremos posteriormente gravar um screencast para
+substituir a apresentação. Entretanto, os slides estão disponíveis no link acima.
 
-* Demonstração Let's Encrypt, by Hugo Peixoto
-* Indigo World, by Paulo Freitas
+O Hugo Peixoto comecou por explicar HTTPS. De seguida, introduziu Let's
+Encrypt, e quais as suas vantagens em relação a outros provedores de
+certificados. A apresentação concluiu com uma demonstração práctica de como
+configurar HTTPS usando Let's Encrypt.
 
-Devido a dificuldades técnicas, o vídeo da primeira apresentação, "Demonstração Let's Encrypt", ficou sem áudio.
-Iremos posteriormente gravar um screencast para substituir a apresentação. TDK(breve descrição). Podem consultar os slides em TDK(link slides)
-
-Segunda não tem vídeo. Apresentação do conceito Indigo World, não tão técnica, etc
+O Paulo Freitas apresentou o conceito Indigo World, uma rede social de
+mutua ajuda.

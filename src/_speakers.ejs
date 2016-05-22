@@ -1,7 +1,28 @@
-<% if (speakers.length > 0) { %>
+<% if (talks.length > 0) { %>
 <div class='speaker-deck'>
-  <% speakers.forEach(function(pic) { %>
-  <img src="<%= pic %>">
+  <% talks.forEach(function(talk) { %>
+    <% talk.speakers.forEach(function(speaker) { %>
+      <% if (speakers[speaker]) { %>
+  <img src="<%= speakers[speaker] %>">
+      <% } %>
+    <% }) %>
   <% }) %>
 </div>
+
+<p>Nesta edição do <a href="http://www.meetup.com/portocodes/events/<%= id %>/">Porto Codes</a>, tivemos as seguintes apresentações:</p>
+
+<ul>
+<% talks.forEach(function(talk) { %>
+<li>
+  <em><%= talk.title %></em>, por <%= talk.speakers.join(", ") %>
+  <% if (talk.slides) { %>
+  [<a href="<%= talk.slides %>">slides</a>]
+  <% } %>
+  <% if (talk.video) { %>
+  [<a href="<%= talk.video %>">video</a>]
+  <% } %>
+</li>
+<% }) %>
+</ul>
+
 <% } %>

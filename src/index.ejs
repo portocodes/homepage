@@ -6,6 +6,14 @@
     <h2><a href="/blog/<%= slug %>"><%= article.title %></a></h2>
     <time><%= article.date %></time>
 
+    <% if (article.talks) { %>
+    <ul>
+      <% article.talks.forEach(function(talk) { %>
+      <li><em><%= talk.title %></em>, por <%= talk.speakers[0] %></li>
+      <% }) %>
+    </ul>
+    <% } %>
+
     <%- partial('blog/'+ slug) %>
   </li>
   <% } %>
