@@ -1,4 +1,43 @@
 {
+  "2016-november": {
+    "id": "235182984",
+    "title": "Encontro de Novembro, 2016",
+    "date": "2016-11-17",
+    "talks": [
+      {
+        "title": "Moving from PostgreSQL to RethinkDB",
+        "video": "https://www.youtube.com/watch?v=JI09SzESW3A",
+        "slides": "http://slides.com/guiferrpereira/deck-2#/",
+        "speakers": ["Guilherme Pereira"]
+      }
+    ]
+  },
+  "2016-september": {
+    "id": "233981664",
+    "title": "Encontro de Setembro, 2016",
+    "date": "2016-09-21",
+    "talks": [
+      {
+        "title": "Real-time Desktop Capture",
+        "video": "https://www.youtube.com/watch?v=ez0P14Lk3No",
+        "slides": "https://speakerdeck.com/portocodes/real-time-desktop-capture",
+        "speakers": ["João Portela"]
+      }
+    ]
+  },
+  "2016-july": {
+    "id": "232428165",
+    "title": "Encontro de Julho, 2016",
+    "date": "2016-07-20",
+    "talks": [
+      {
+        "title": "Introduction to Swift",
+        "video": "https://www.youtube.com/watch?v=G80JHxJ_YZ8",
+        "slides": "https://speakerdeck.com/portocodes/introduction-to-swift",
+        "speakers": ["Jaime Azevedo"]
+      }
+    ]
+  },
   "2016-may": {
     "id": "227936762",
     "title": "Encontro de Maio, 2016",
