@@ -1,4 +1,17 @@
 {
+  "2016-december": {
+    "id": "235930769",
+    "title": "Encontro de Dezembro, 2016",
+    "date": "2016-12-21",
+    "talks": [
+      {
+        "title": "What is a Digital Nomad",
+        "video": "https://www.youtube.com/watch?v=bwjvthKsB18",
+        "slides": "https://speakerdeck.com/portocodes/what-is-a-digital-nomad",
+        "speakers": ["Daniel Carneiro"]
+      }
+    ]
+  },
   "2016-november": {
     "id": "235182984",
     "title": "Encontro de Novembro, 2016",
