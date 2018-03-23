@@ -1,4 +1,205 @@
 {
+  "2018-march": {
+    "id": "246639941",
+    "title": "Encontro de Março, 2018",
+    "date": "2018-03-08",
+    "talks": [
+      {
+        "title": "An Introduction to Smart Contracts",
+        "speakers": ["Miguel Palhas"]
+      }
+    ]
+  },
+  "2018-february": {
+    "id": "246590149",
+    "title": "Encontro de Fevereiro, 2018",
+    "date": "2018-02-08",
+    "talks": [
+      {
+        "title": "Laravel, PHP for Artisans",
+        "speakers": ["Francisco Carvalho"]
+      },
+      {
+        "title": "Let's Go - Por que e quando você deveria considerar usar",
+        "speakers": ["Renato Suero"]
+      }
+    ]
+  },
+  "2018-january": {
+    "id": "246515606",
+    "title": "Encontro de Janeiro, 2018",
+    "date": "2018-01-11",
+    "talks": [
+      {
+        "title": "Getting Started with Spring Boot",
+        "speakers": ["Jorge Martins"]
+      }
+    ]
+  },
+  "2017-december": {
+    "id": "245727845",
+    "title": "Encontro de Dezembro, 2017",
+    "date": "2017-12-21",
+    "talks": [
+      {
+        "title": "Elegant OOP and Cactoos",
+        "speakers": ["Filipe Freire"]
+      }
+    ]
+  },
+  "2017-november": {
+    "id": "244523592",
+    "title": "Encontro de Novembro, 2017",
+    "date": "2017-11-23",
+    "talks": [
+      {
+        "title": "Vue js - The whole picture",
+        "speakers": ["Bruno Teixeira"]
+      },
+      {
+        "title": "The Dream of Styleguide Driven Development",
+        "speakers": ["Sara Vieira"]
+      },
+      {
+        "title": "Up and running with ReasonML",
+        "speakers": ["José Nogueira"]
+      }
+    ]
+  },
+  "2017-october": {
+    "id": "243675088",
+    "title": "Encontro de Outubro, 2017 - Hacktoberfest edition",
+    "date": "2017-11-19",
+    "talks": [
+      {
+        "title": "Tacit",
+        "speakers": ["Filipe Freire"]
+      },
+      {
+        "title": "Introduction to Open Source contributing",
+        "speakers": ["Porto Codes"]
+      }
+    ]
+  },
+  "2017-september": {
+    "id": "242820154",
+    "title": "Encontro de Setembro, 2017 - Lightning talks",
+    "date": "2017-09-21",
+    "talks": [
+      {
+        "title": "Rust",
+        "speakers": ["Ricardo Mendes"]
+      },
+      {
+        "title": "Java",
+        "speakers": ["Pedro Tavares"]
+      },
+      {
+        "title": "Julia",
+        "speakers": ["Ricardo Cruz"]
+      },
+      {
+        "title": "Writing a compiler with Ruby with LLVM",
+        "speakers": ["Hugo Peixoto"]
+      }
+    ]
+  },
+  "2017-august": {
+    "id": "242192769",
+    "title": "Encontro de Agosto, 2017",
+    "date": "2017-08-24",
+    "talks": [
+      {
+        "title": "React Native",
+        "speakers": ["João Anes"]
+      }
+    ]
+  },
+  "2017-july": {
+    "id": "241082457",
+    "title": "Encontro de Julho, 2017",
+    "date": "2017-07-20",
+    "talks": [
+      {
+        "title": "Concurrent Python made (near) painless using gevent",
+        "speakers": ["Rui Teixeira"]
+      }
+    ]
+  },
+  "2017-june": {
+    "id": "239324104",
+    "title": "Encontro de Junho, 2017",
+    "date": "2017-06-22",
+    "talks": [
+      {
+        "title": "BDD, Why Not?",
+        "speakers": ["Jorge Machado"]
+      },
+      {
+        "title": "Cinder, creative coding with C++",
+        "speakers": ["Rodrigo Torres"]
+      }
+    ]
+  },
+  "2017-may": {
+    "id": "239323934",
+    "title": "Encontro de Maio, 2017",
+    "date": "2017-05-25",
+    "talks": [
+      {
+        "title": "Dealing with Timezones and Daylight Savings",
+        "speakers": ["James Cutajar"]
+      },
+      {
+        "title": "Functional Programming in Modern C++",
+        "speakers": ["Miguel Poeira"]
+      }
+    ]
+  },
+  "2017-april": {
+    "id": "239092740",
+    "title": "Encontro de Abril, 2017",
+    "date": "2017-04-18",
+    "talks": [
+      {
+        "title": "OutSystems",
+        "speakers": ["Nuno Reis"]
+      }
+    ]
+  },
+  "2017-march": {
+    "id": "236665047",
+    "title": "Encontro de Março, 2017",
+    "date": "2017-03-23",
+    "talks": [
+      {
+        "title": "Ansible",
+        "speakers": ["Rui Salgado"]
+      }
+    ]
+  },
+  "2017-february": {
+    "id": "236665320",
+    "title": "Encontro de Fevereiro, 2017",
+    "date": "2017-02-16",
+    "talks": [
+      {
+        "title": "Scala",
+        "speakers": ["Rodrigo Lima"]
+      }
+    ]
+  },
+  "2017-january": {
+    "id": "236664800",
+    "title": "Encontro de Janeiro, 2017",
+    "date": "2017-01-19",
+    "talks": [
+      {
+        "title": "Building static websites with Ember.js",
+        "speakers": ["Ricardo Mendes"]
+      }
+    ]
+  },
   "2016-december": {
     "id": "235930769",
     "title": "Encontro de Dezembro, 2016",
