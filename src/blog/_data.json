@@ -1,4 +1,101 @@
 {
+  "2018-september": {
+    "id": "1538518336",
+    "title": "Encontro de Setembro, 2018",
+    "date": "2018-09-13",
+    "talks": [
+      {
+        "title": "Open source governance in Ember.js",
+        "speakers": [
+          "Ricardo Mendes"
+        ]
+      }
+    ]
+  },
+  "2018-august": {
+    "id": "1538518301",
+    "title": "Encontro de Agosto, 2018",
+    "date": "2018-08-09",
+    "talks": [
+      {
+        "title": "MEAN-stack",
+        "speakers": [
+          "João Neto"
+        ]
+      }
+    ]
+  },
+  "2018-july": {
+    "id": "1538518232",
+    "title": "Encontro de Julho, 2018",
+    "date": "2018-07-12",
+    "talks": [
+      {
+        "title": "Ethereum 101",
+        "speakers": [
+          "Júlio Santos"
+        ]
+      }
+    ]
+  },
+  "2018-june": {
+    "id": "1538518112",
+    "title": "Encontro de Junho, 2018",
+    "date": "2018-06-10",
+    "talks": [
+      {
+        "title": "Knee Deep Into P2P",
+        "speakers": [
+          "Fernando Mendes"
+        ]
+      }
+    ]
+  },
+  "2018-may": {
+    "id": "1538517942",
+    "title": "Encontro de Maio, 2018",
+    "date": "2018-05-10",
+    "talks": [
+      {
+        "title": "Building a Testing Culture",
+        "speakers": [
+          "Pedro Tavares"
+        ]
+      }
+    ]
+  },
+  "2018-april": {
+    "id": "1538517618",
+    "title": "Encontro de Abril, 2018",
+    "date": "2018-04-12",
+    "talks": [
+      {
+        "title": "Not talking about Polymer",
+        "speakers": [
+          "Eurico Inocêncio"
+        ]
+      },
+      {
+        "title": "WordPress de um fork a 30% da internet",
+        "speakers": [
+          "Marco Pereirinha"
+        ]
+      }
+    ]
+  },
+  "2018-april-workshop": {
+    "id": "1538517457",
+    "title": "Workshop de Abril, 2018",
+    "date": "2018-04-05",
+    "talks": [
+      {
+        "title": "Front-end Checklist",
+        "speakers": [
+          "David Dias"
+        ]
+      }
+    ]
+  },
   "2018-march": {
     "id": "246639941",
     "title": "Encontro de Março, 2018",
@@ -6,7 +103,9 @@
     "talks": [
       {
         "title": "An Introduction to Smart Contracts",
-        "speakers": ["Miguel Palhas"]
+        "speakers": [
+          "Miguel Palhas"
+        ]
       }
     ]
   },
@@ -17,11 +116,15 @@
     "talks": [
       {
         "title": "Laravel, PHP for Artisans",
-        "speakers": ["Francisco Carvalho"]
+        "speakers": [
+          "Francisco Carvalho"
+        ]
       },
       {
         "title": "Let's Go - Por que e quando você deveria considerar usar",
-        "speakers": ["Renato Suero"]
+        "speakers": [
+          "Renato Suero"
+        ]
       }
     ]
   },
@@ -32,7 +135,9 @@
     "talks": [
       {
         "title": "Getting Started with Spring Boot",
-        "speakers": ["Jorge Martins"]
+        "speakers": [
+          "Jorge Martins"
+        ]
       }
     ]
   },
@@ -43,7 +148,9 @@
     "talks": [
       {
         "title": "Elegant OOP and Cactoos",
-        "speakers": ["Filipe Freire"]
+        "speakers": [
+          "Filipe Freire"
+        ]
       }
     ]
   },
@@ -54,15 +161,21 @@
     "talks": [
       {
         "title": "Vue js - The whole picture",
-        "speakers": ["Bruno Teixeira"]
+        "speakers": [
+          "Bruno Teixeira"
+        ]
       },
       {
         "title": "The Dream of Styleguide Driven Development",
-        "speakers": ["Sara Vieira"]
+        "speakers": [
+          "Sara Vieira"
+        ]
       },
       {
         "title": "Up and running with ReasonML",
-        "speakers": ["José Nogueira"]
+        "speakers": [
+          "José Nogueira"
+        ]
       }
     ]
   },
@@ -73,11 +186,15 @@
     "talks": [
       {
         "title": "Tacit",
-        "speakers": ["Filipe Freire"]
+        "speakers": [
+          "Filipe Freire"
+        ]
       },
       {
         "title": "Introduction to Open Source contributing",
-        "speakers": ["Porto Codes"]
+        "speakers": [
+          "Porto Codes"
+        ]
       }
     ]
   },
@@ -88,19 +205,27 @@
     "talks": [
       {
         "title": "Rust",
-        "speakers": ["Ricardo Mendes"]
+        "speakers": [
+          "Ricardo Mendes"
+        ]
       },
       {
         "title": "Java",
-        "speakers": ["Pedro Tavares"]
+        "speakers": [
+          "Pedro Tavares"
+        ]
       },
       {
         "title": "Julia",
-        "speakers": ["Ricardo Cruz"]
+        "speakers": [
+          "Ricardo Cruz"
+        ]
       },
       {
         "title": "Writing a compiler with Ruby with LLVM",
-        "speakers": ["Hugo Peixoto"]
+        "speakers": [
+          "Hugo Peixoto"
+        ]
       }
     ]
   },
@@ -111,7 +236,9 @@
     "talks": [
       {
         "title": "React Native",
-        "speakers": ["João Anes"]
+        "speakers": [
+          "João Anes"
+        ]
       }
     ]
   },
@@ -122,7 +249,9 @@
     "talks": [
       {
         "title": "Concurrent Python made (near) painless using gevent",
-        "speakers": ["Rui Teixeira"]
+        "speakers": [
+          "Rui Teixeira"
+        ]
       }
     ]
   },
@@ -133,11 +262,15 @@
     "talks": [
       {
         "title": "BDD, Why Not?",
-        "speakers": ["Jorge Machado"]
+        "speakers": [
+          "Jorge Machado"
+        ]
       },
       {
         "title": "Cinder, creative coding with C++",
-        "speakers": ["Rodrigo Torres"]
+        "speakers": [
+          "Rodrigo Torres"
+        ]
       }
     ]
   },
@@ -148,11 +281,15 @@
     "talks": [
       {
         "title": "Dealing with Timezones and Daylight Savings",
-        "speakers": ["James Cutajar"]
+        "speakers": [
+          "James Cutajar"
+        ]
       },
       {
         "title": "Functional Programming in Modern C++",
-        "speakers": ["Miguel Poeira"]
+        "speakers": [
+          "Miguel Poeira"
+        ]
       }
     ]
   },
@@ -163,7 +300,9 @@
     "talks": [
       {
         "title": "OutSystems",
-        "speakers": ["Nuno Reis"]
+        "speakers": [
+          "Nuno Reis"
+        ]
       }
     ]
   },
@@ -174,7 +313,9 @@
     "talks": [
       {
         "title": "Ansible",
-        "speakers": ["Rui Salgado"]
+        "speakers": [
+          "Rui Salgado"
+        ]
       }
     ]
   },
@@ -185,7 +326,9 @@
     "talks": [
       {
         "title": "Scala",
-        "speakers": ["Rodrigo Lima"]
+        "speakers": [
+          "Rodrigo Lima"
+        ]
       }
     ]
   },
@@ -196,7 +339,9 @@
     "talks": [
       {
         "title": "Building static websites with Ember.js",
-        "speakers": ["Ricardo Mendes"]
+        "speakers": [
+          "Ricardo Mendes"
+        ]
       }
     ]
   },
@@ -209,7 +354,9 @@
         "title": "What is a Digital Nomad",
         "video": "https://www.youtube.com/watch?v=bwjvthKsB18",
         "slides": "https://speakerdeck.com/portocodes/what-is-a-digital-nomad",
-        "speakers": ["Daniel Carneiro"]
+        "speakers": [
+          "Daniel Carneiro"
+        ]
       }
     ]
   },
@@ -222,7 +369,9 @@
         "title": "Moving from PostgreSQL to RethinkDB",
         "video": "https://www.youtube.com/watch?v=JI09SzESW3A",
         "slides": "http://slides.com/guiferrpereira/deck-2#/",
-        "speakers": ["Guilherme Pereira"]
+        "speakers": [
+          "Guilherme Pereira"
+        ]
       }
     ]
   },
@@ -235,7 +384,9 @@
         "title": "Real-time Desktop Capture",
         "video": "https://www.youtube.com/watch?v=ez0P14Lk3No",
         "slides": "https://speakerdeck.com/portocodes/real-time-desktop-capture",
-        "speakers": ["João Portela"]
+        "speakers": [
+          "João Portela"
+        ]
       }
     ]
   },
@@ -248,7 +399,9 @@
         "title": "Introduction to Swift",
         "video": "https://www.youtube.com/watch?v=G80JHxJ_YZ8",
         "slides": "https://speakerdeck.com/portocodes/introduction-to-swift",
-        "speakers": ["Jaime Azevedo"]
+        "speakers": [
+          "Jaime Azevedo"
+        ]
       }
     ]
   },
@@ -261,7 +414,9 @@
         "title": "Good ol' PHP",
         "slides": "https://speakerdeck.com/portocodes/good-ol-php",
         "video": "https://youtube.com/watch?v=Z6tkrA1JvoE",
-        "speakers": ["Rui Lima"]
+        "speakers": [
+          "Rui Lima"
+        ]
       }
     ]
   },
@@ -273,11 +428,15 @@
       {
         "title": "Demonstração Let's Encrypt",
         "slides": "https://speakerdeck.com/portocodes/lets-encrypt",
-        "speakers": ["Hugo Peixoto"]
+        "speakers": [
+          "Hugo Peixoto"
+        ]
       },
       {
         "title": "Indigo World",
-        "speakers": ["Paulo Freitas"]
+        "speakers": [
+          "Paulo Freitas"
+        ]
       }
     ]
   },
@@ -289,11 +448,15 @@
       {
         "title": "Elixir and Phoenix",
         "video": "https://www.youtube.com/watch?v=4eqOlU_UOlQ",
-        "speakers": ["António Cascalheira"]
+        "speakers": [
+          "António Cascalheira"
+        ]
       },
       {
         "title": "Cassandro: Conclusão",
-        "speakers": ["Paulo Brito"]
+        "speakers": [
+          "Paulo Brito"
+        ]
       }
     ]
   },
@@ -305,17 +468,23 @@
       {
         "title": "React On Rails",
         "video": "https://www.youtube.com/watch?v=gXClAD7_w6g",
-        "speakers": ["Pedro Brochado"]
+        "speakers": [
+          "Pedro Brochado"
+        ]
       },
       {
         "title": "More React, and probably less Rails",
         "video": "https://www.youtube.com/watch?v=h1hw5AYRngs",
-        "speakers": ["Miguel Palhas"]
+        "speakers": [
+          "Miguel Palhas"
+        ]
       },
       {
         "title": "Mutation Testing",
         "video": "https://www.youtube.com/watch?v=qsuDFXFiqcA",
-        "speakers": ["Pedro Costa"]
+        "speakers": [
+          "Pedro Costa"
+        ]
       }
     ]
   },
@@ -326,7 +495,9 @@
     "talks": [
       {
         "title": "Personal engine vs other tools",
-        "speakers": ["Miguel Mendes"]
+        "speakers": [
+          "Miguel Mendes"
+        ]
       }
     ]
   },
@@ -337,12 +508,16 @@
     "talks": [
       {
         "title": "Cassandro, o exótico",
-        "speakers": ["Paulo Brito"]
+        "speakers": [
+          "Paulo Brito"
+        ]
       },
       {
         "title": "Developers & Designers",
         "video": "https://www.youtube.com/watch?v=nhs-s-UDsvI",
-        "speakers": ["Maria Monteiro"]
+        "speakers": [
+          "Maria Monteiro"
+        ]
       }
     ]
   },
@@ -354,17 +529,23 @@
       {
         "title": "Apey-eye",
         "video": "https://www.youtube.com/watch?v=j6Ytn5o1uEk",
-        "speakers": ["Filipe Sousa"]
+        "speakers": [
+          "Filipe Sousa"
+        ]
       },
       {
         "title": "Polymer/hoodie",
         "video": "https://www.youtube.com/watch?v=tHLlK7Hzxvo",
-        "speakers": ["Rui Monteiro"]
+        "speakers": [
+          "Rui Monteiro"
+        ]
       },
       {
         "title": "a11y for the uninitiated",
         "video": "https://www.youtube.com/watch?v=Cx2j98Rfnn8",
-        "speakers": ["Luis Zamith Ferreira"]
+        "speakers": [
+          "Luis Zamith Ferreira"
+        ]
       }
     ]
   },
@@ -376,12 +557,16 @@
       {
         "title": "Introduction to Elixir",
         "video": "https://www.youtube.com/watch?v=wTJZCspA-wU",
-        "speakers": ["Ismael Abreu"]
+        "speakers": [
+          "Ismael Abreu"
+        ]
       },
       {
         "title": "A taste of integration with Apache Camel",
         "video": "https://www.youtube.com/watch?v=X36jYzMY8Zk",
-        "speakers": ["Rui Salgado"]
+        "speakers": [
+          "Rui Salgado"
+        ]
       }
     ]
   },
@@ -393,12 +578,16 @@
       {
         "title": "Rails Performance",
         "video": "https://www.youtube.com/watch?v=YxzPtevYrCI",
-        "speakers": ["Guilherme Pereira"]
+        "speakers": [
+          "Guilherme Pereira"
+        ]
       },
       {
         "title": "Crystal programming language",
         "video": "https://www.youtube.com/watch?v=FuvfNLQgUKA",
-        "speakers": ["Luis Zamith Ferreira"]
+        "speakers": [
+          "Luis Zamith Ferreira"
+        ]
       }
     ]
   }
