@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "harp": "^0.25.0",
-    "surge": "^0.20.1"
+    "netlify-cli": "^2.8.0"
   }
 }
