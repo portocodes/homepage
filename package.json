@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "harp": "^0.25.0",
-    "netlify-cli": "^2.8.0"
+    "harp": "^0.25.0"
   }
 }
