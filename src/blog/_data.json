@@ -1,4 +1,76 @@
 {
+  "2019-february": {
+    "id": "1550937118",
+    "title": "Encontro de Fevereiro, 2019",
+    "date": "2019-02-21",
+    "talks": [
+      {
+        "title": "React Best Practices",
+        "slides": "https://docs.google.com/presentation/d/1ynnEYb3APaYOrkn-QhBbV9XEx1TkOa27wI7DxEjMjUk/edit#slide=id.g4604bf8a18_0_0",
+        "speakers": [
+          "Luís Cardoso"
+        ]
+      }
+    ]
+  },
+  "2019-january": {
+    "id": "1550937105",
+    "title": "Encontro de Janeiro, 2019",
+    "date": "2019-01-10",
+    "talks": [
+      {
+        "title": "Encrypted vs Private communications",
+        "speakers": [
+          "Artur Goulão"
+        ]
+      }
+    ]
+  },
+  "2018-december": {
+    "id": "1550937097",
+    "title": "Encontro de Dezembro, 2018",
+    "date": "2018-12-13",
+    "talks": [
+      {
+        "title": "Building a command line tool in Rust",
+        "speakers": [
+          "Ricardo Mendes"
+        ]
+      },
+      {
+        "title": "OpenPGP technical details",
+        "speakers": [
+          "Hugo Peixoto"
+        ]
+      }
+    ]
+  },
+  "2018-november": {
+    "id": "1550937089",
+    "title": "Encontro de Novembro, 2018",
+    "date": "2018-11-08",
+    "talks": [
+      {
+        "title": "How to push data to Frontends with SSE",
+        "speakers": [
+          "André Freitas"
+        ]
+      }
+    ]
+  },
+  "2018-october": {
+    "id": "1550937071",
+    "title": "Encontro de Outobro, 2018",
+    "date": "2018-10-11",
+    "talks": [
+      {
+        "title": "Go 2 Draft Designs",
+        "speakers": [
+          "Diogo Pinela"
+        ]
+      }
+    ]
+  },
   "2018-september": {
     "id": "1538518336",
     "title": "Encontro de Setembro, 2018",
