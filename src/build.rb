@@ -3,6 +3,8 @@ require_relative './speaker.rb'
 Dir['data/speakers/*.yml']
   .each { |filename| speaker(filename) }
 
+`mkdir -p build/`
+
 %w[
   index
   podcast
