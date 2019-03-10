@@ -1,4 +1,5 @@
 all:
+	bundle
 	sh -c 'env $$(cat .env) ruby src/build.rb'
 
 desc:
