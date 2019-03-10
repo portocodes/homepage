@@ -1,0 +1,227 @@
+:root {
+  --pink: #c5395a;
+  --beige: #f6d5c5;
+  --light-blue: #8bd5ee;
+  --medium-blue: #0883a4;
+  --dark-blue: #085a73;
+
+  --base-font-size: 20px;
+  --logo-font-size: 72px;
+  --header-font-size: 24px;
+
+  --header-font-family: Fredoka One;
+  --logo-font-family: Fredoka One;
+  --base-font-family: Open Sans;
+
+  --parent-bg-color: var(--pink);
+  --bg-color: white;
+  --fg-color: black;
+
+  --logo-color: white;
+  --logo-highlight-color: var(--beige);
+
+  --cta-fg-color: black;
+  --cta-bg-color: var(--light-blue);
+
+  --nav-fg-color: black;
+  --nav-bg-color: var(--light-blue);
+  --nav-border-color: var(--dark-blue);
+  --nav-hover-color: var(--medium-blue);
+}
+
+@font-face {
+  font-family: 'Fredoka One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fredoka One'), local('FredokaOne-Regular'),
+    url('./fonts/fredoka-one-v6-latin-regular.woff2') format('woff2'),
+    url('./fonts/fredoka-one-v6-latin-regular.woff') format('woff');
+}
+
+html {
+  font-size: 24px;
+}
+
+h1, h2, h3 {
+  font-size: var(--header-font-size);
+}
+
+
+body {
+  background-color: var(--parent-bg-color);
+  color: var(--fg-color);
+  margin: 0px;
+  padding: 0px;
+  font-family: var(--base-font-family);
+}
+
+header, nav, main {
+  max-width: 42rem;
+  margin: 0px auto;
+}
+
+header {
+  text-align: center;
+  font-family: var(--logo-font-family);
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+header a {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+a {
+  color: var(--parent-bg-color);
+}
+
+header a span {
+  color: var(--logo-color);
+  display: block;
+}
+header a span::first-letter {
+  color: var(--logo-highlight-color);
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  border: 5px solid var(--nav-border-color);
+  border-width: 4px 0px;
+  background-color: var(--nav-bg-color);
+  flex-wrap: wrap;
+}
+
+nav a {
+  flex: 1;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 0.75em;
+  color: var(--nav-fg-color);
+  white-space: nowrap;
+}
+
+nav:last-child {
+  flex: 2;
+}
+
+nav a:hover {
+  background-color: var(--nav-hover-color);
+  color: white;
+}
+
+nav a:hover:last-child {
+  border-left: 1px solid var(--nav-hover-color);
+}
+
+section {
+  background-color: var(--bg-color);
+  padding: 2.0rem 1.7rem;
+}
+
+section h1 {
+  margin: 0px;
+  font-family: var(--header-font-family);
+  font-weight: 100;
+}
+
+section h2 {
+  font-family: var(--header-font-family);
+  font-size: 1.0em;
+  font-weight: normal;
+}
+
+section h3 {
+  font-family: var(--base-font-family);
+  font-size: 1.0em;
+  font-weight: normal;
+}
+
+section * + h2 {  margin-top: 2em; }
+section *:first-child { margin-top: 0px; }
+section *:last-child { margin-bottom: 0px; }
+
+section#upcoming p.date {
+  color: #666;
+  font-size: 0.75em;
+}
+
+section + section {
+  border-top: 5px solid var(--nav-border-color);
+}
+
+section ol {
+  list-style-type: none;
+  padding: 0px;
+}
+
+section#schedule li {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section#schedule li time {
+  text-align: center;
+  display: block;
+  width: 4rem;
+  margin: 1em 0em;
+  min-width: 4rem;
+}
+
+section#schedule li .p-title {
+  flex: 1;
+}
+
+section#schedule li .p-summary {
+  flex: 100%;
+  padding-left: calc(2.0rem - 3px);
+  border-left: 5px solid var(--parent-bg-color);
+  margin-left: calc(2.0rem + 2px);
+  margin-right: 2rem;
+}
+
+.cta {
+  display: table;
+  margin: 2rem auto 0rem auto;
+  background-color: var(--cta-bg-color);
+  color: var(--cta-fg-color);
+  padding: 0.5em 2em;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.cta:hover {
+  background-color: var(--nav-hover-color);
+  color: white;
+}
+
+.p-summary {
+  font-size: var(--base-font-size);
+}
+
+@media (max-width: 670px) {
+  nav a {
+    border: 1px solid white;
+  }
+
+  section#schedule li time {
+    text-align: left;
+  }
+
+  section#schedule li .p-summary {
+    margin-left: 0rem;
+    margin-right: 0rem;
+    padding-left: 0rem;
+    border-left: none;
+  }
+}
+
+.handle {
+  color: var(--nav-border-color);
+  font-family: var(--header-font-family);
+  font-weight: 100;
+}

@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://rss.simplecast.com/podcasts/1418/rss" title="MP3 Audio"/>
+    <title>Conversas em Código</title>
+    <generator>https://simplecast.com</generator>
+    <description>De uma parceria entre três programadores, surge um podcast em português sobre programação. 
+
+Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos temas relacionados com a área de programação, desde linguagens e bibliotecas, a metodologias e comunidades.</description>
+    <copyright>© 2017 Conversas em Código</copyright>
+    <language>pt-pt</language>
+    <pubDate>Mon, 21 Jan 2019 20:35:00 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 21:02:47 +0000</lastBuildDate>
+    <link>http://porto.codes</link>
+    <image>
+      <url>https://media.simplecast.com/podcast/image/1418/1459351089-artwork.jpg</url>
+      <title>Conversas em Código</title>
+      <link>http://porto.codes</link>
+    </image>
+    <itunes:new-feed-url>https://rss.simplecast.com/podcasts/1418/rss</itunes:new-feed-url>
+    <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+    <itunes:image href="https://media.simplecast.com/podcast/image/1418/1459351089-artwork.jpg"/>
+    <itunes:summary>De uma parceria entre três programadores, surge um podcast em português sobre programação. 
+
+Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos temas relacionados com a área de programação, desde linguagens e bibliotecas, a metodologias e comunidades.</itunes:summary>
+    <itunes:subtitle>De uma parceria entre três programadores, surge um podcast em português sobre programação.</itunes:subtitle>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>programação</itunes:keywords>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Ricardo Mendes</itunes:name>
+      <itunes:email>rokusu@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting"/>
+    </itunes:category>
+    <item>
+      <title>Ep. 16 - mustache</title>
+      <guid isPermaLink="false">a5bde5c6-9cbb-4d7b-9a0a-d8ff14eea166</guid>
+      <link>http://conversas.porto.codes/69422ecf</link>
+      <description>Neste episódio falamos um pouco sobre mustache, uma linguagem de templating
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li>Entrada na wikipedia: <a href="https://en.wikipedia.org/wiki/Mustache_">https://en.wikipedia.org/wiki/Mustache_</a>(template_system)</li>
+<li>Website: <a href="https://mustache.github.io">https://mustache.github.io</a></li>
+<li>Implementação ruby: <a href="https://github.com/mustache/mustache">https://github.com/mustache/mustache</a></li>
+<li>Especificação: <a href="https://github.com/mustache/spec">https://github.com/mustache/spec</a></li>
+<li>PR para implementar <code>Mustache#escape</code> <a href="https://github.com/mustache/mustache/pull/245">https://github.com/mustache/mustache/pull/245</a></li>
+<li>Handlebars.js: <a href="https://handlebarsjs.com/">https://handlebarsjs.com/</a></li>
+<li>ERB: <a href="https://ruby-doc.org/stdlib-2.6/libdoc/erb/rdoc/ERB.html">https://ruby-doc.org/stdlib-2.6/libdoc/erb/rdoc/ERB.html</a></li>
+<li>Leah Culver: <a href="https://twitter.com/leahculver">https://twitter.com/leahculver</a></li>
+<li>Convore: <a href="https://en.wikipedia.org/wiki/Convore">https://en.wikipedia.org/wiki/Convore</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 21 Jan 2019 20:35:00 +0000</pubDate>
+      <author>rokusu@gmail.com (RIcardo Mendes, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/ab45eca6.mp3" length="30433535" type="audio/mpeg"/>
+      <itunes:author>RIcardo Mendes, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/215144/1547910164-artwork.jpg"/>
+      <itunes:duration>00:36:12</itunes:duration>
+      <itunes:summary>Neste episódio falamos um pouco sobre mustache, uma linguagem de templating
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos um pouco sobre mustache, uma linguagem de templating
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>29</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 15 - Hacktoberfest: blueprinter</title>
+      <guid isPermaLink="false">c3286f6c-c38a-4b97-87ae-0eab07beaaa1</guid>
+      <link>http://conversas.porto.codes/e5288e56</link>
+      <description>Neste episódio falamos sobre uma aventura no mundo do open source e do Hacktoberfest.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a></li>
+<li><a href="https://github.com/rails-api/active_model_serializers">active_model_serializers</a></li>
+<li><a href="https://github.com/rails-api/active_model_serializers">Alternativas ao active_model_serializers</a></li>
+<li><a href="http://jsonapi.org/">jsonapi</a></li>
+<li><a href="https://github.com/procore/blueprinter">blueprinter</a></li>
+<li><a href="https://circleci.com/">Circle CI</a></li>
+<li><a href="https://github.com/seattlerb/minitest#benchmarks">Minitest::Benchmark</a></li>
+<li>PRs
+
+<ul>
+<li><a href="https://github.com/procore/blueprinter/pull/97">Remove Gemfile.lock and move dependencies to gemspec</a></li>
+<li><a href="https://github.com/procore/blueprinter/pull/99">Upgrade to circleci 2.0 </a></li>
+</ul>
+</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 11 Oct 2018 08:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/f9aec153.mp3" length="10217947" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/210612/1539210000-artwork.jpg"/>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre uma aventura no mundo do open source e do Hacktoberfest.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre uma aventura no mundo do open source e do Hacktoberfest.
+</itunes:subtitle>
+      <itunes:keywords>hacktoberfest, open source, open source software, github, digital ocean, blueprinter, ruby</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>28</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 14 - Hacktoberfest</title>
+      <guid isPermaLink="false">6df5df7d-bf57-4cfb-ac56-16796dd3502a</guid>
+      <link>http://conversas.porto.codes/d4326275</link>
+      <description>Neste episódio falamos um pouco sobre a iniciativa Hacktoberfest.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://hacktoberfest.digitalocean.com">Hacktoberfest</a></li>
+<li><a href="https://docs.google.com/spreadsheets/d/1yjPG_WoF_6ZkrJF7pHZjAdr0ztt-23fNK9DFgNZvB80/edit#gid=0">Eventos locais</a>
+
+<ul>
+<li>Lisboa: <a href="https://www.eventbrite.pt/e/bilhetes-machine-learning-ai-meetup-sky-technology-centre-hacktoberfest-2018-50745104975">Machine Learning &amp; AI Meetup @ Sky Technology - Centre (Hacktoberfest 2018)</a></li>
+</ul>
+</li>
+<li><a href="https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/">Join our #Hacktoberfest 2018 celebration! (Microsoft)</a></li>
+<li><a href="https://ember-help-wanted.netlify.com">Ember Help Wanted</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 05 Oct 2018 20:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/e3eacbc5.mp3" length="4593625" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/205667/1538763124-artwork.jpg"/>
+      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:summary>Neste episódio falamos um pouco sobre a iniciativa Hacktoberfest.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos um pouco sobre a iniciativa Hacktoberfest.
+</itunes:subtitle>
+      <itunes:keywords>hacktoberfest, open source, open source software, github, digital ocean</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>27</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 13 - UTRUST</title>
+      <guid isPermaLink="false">febd889d-1ad9-4db3-afb8-e81df5c80654</guid>
+      <link>http://conversas.porto.codes/3d70c3b3</link>
+      <description>Neste episódio recebemos o Miguel Palhas para nos falar dos desafios tecnológicos encontrados durante uma Initial Coin Offering (ICO).
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><p><a href="https://utrust.io">UTRUST</a></p></li>
+<li><p><a href="https://en.wikipedia.org/wiki/Initial_coin_offering">ICO</a></p></li>
+<li><a href="https://www.ethereum.org/">Ethereum</a></li>
+<li><a href="https://bitcoin.org/">Bitcoin</a></li>
+<li><a href="https://www.coinbase.com">Coinbase</a></li>
+<li><a href="https://en.bitcoin.it/wiki/Deterministic_wallet">Deterministic wallet</a></li>
+<li><p><a href="https://www.blockcypher.com/">Blockcypher</a></p></li>
+<li><p><a href="https://en.wikipedia.org/wiki/Know_your_customer">KYC</a></p></li>
+<li><p><a href="https://www.idnow.eu/">ID now</a></p></li>
+<li><p><a href="https://elixir-lang.org/">Elixir</a></p></li>
+<li><a href="http://phoenixframework.org">Phoenix</a></li>
+<li><a href="https://www.mandrill.com/">Mandrill</a>, bought by <a href="https://mailchimp.com/">Mailchimp</a></li>
+<li><a href="https://sendgrid.com/">Sendgrid</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 19 Feb 2018 13:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/bf8f509c.mp3" length="41436808" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/114905/1518911106-artwork.jpg"/>
+      <itunes:duration>00:49:18</itunes:duration>
+      <itunes:summary>Neste episódio recebemos o Miguel Palhas para nos falar dos desafios tecnológicos encontrados durante uma Initial Coin Offering (ICO).
+</itunes:summary>
+      <itunes:subtitle>Neste episódio recebemos o Miguel Palhas para nos falar dos desafios tecnológicos encontrados durante uma Initial Coin Offering (ICO).
+</itunes:subtitle>
+      <itunes:keywords>ico, utrust, subvisual</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>26</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 12 - Elixir</title>
+      <guid isPermaLink="false">b65d64db-59b7-4fb2-b1b9-893b0ad32310</guid>
+      <link>http://conversas.porto.codes/69365ba6</link>
+      <description>Neste episódio abordamos a linguagem de programação Elixir e o seu ecossistema.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://elixir-lang.org">Elixir</a></li>
+<li><a href="https://phoenixframework.org">Phoenix</a></li>
+<li><a href="https://hex.pm">Hex Package Manager</a></li>
+<li><a href="https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html">Mix</a></li>
+<li><a href="https://elixir-lang.org/getting-started/mix-otp/docs-tests-and-with.html">Doctest</a></li>
+<li><a href="https://elixir-lang.org/getting-started/enumerables-and-streams.html#the-pipe-operator">Pipe operator</a></li>
+<li><a href="https://medium.com/blackode/when-and-where-to-use-cast-cal-info-messages-in-elixir-erlang-genserver-9baf937b6494">Gen Server</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 30 Oct 2017 08:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/69365ba6.mp3" length="56036925" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/78124/1500980898-artwork.jpg"/>
+      <itunes:duration>00:58:21</itunes:duration>
+      <itunes:summary>Neste episódio abordamos a linguagem de programação Elixir e o seu ecossistema.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio abordamos a linguagem de programação Elixir e o seu ecossistema.
+</itunes:subtitle>
+      <itunes:keywords>elixir, phoenix, erlang</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>25</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 11 - Glimmer.js</title>
+      <guid isPermaLink="false">b6cb1913-a8ca-4d67-8840-ba14b5b4720b</guid>
+      <link>http://conversas.porto.codes/0e3052a5</link>
+      <description>Neste episódio falamos sobre Glimmer.js, uma nova biblioteca de componentes JavaScript para a web.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://glimmerjs.com/">Glimmer.js</a></li>
+<li><a href="https://www.youtube.com/watch?v=A5k2u7AZf6g">An Animated Guide to Ember Internals</a></li>
+<li><a href="http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/">The Glimmer VM: Boots Fast and Stays Fast</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 14 Aug 2017 08:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/0e3052a5.mp3" length="19093095" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/78121/1500978906-artwork.jpg"/>
+      <itunes:duration>00:19:52</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre Glimmer.js, uma nova biblioteca de componentes JavaScript para a web.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre Glimmer.js, uma nova biblioteca de componentes JavaScript para a web.
+</itunes:subtitle>
+      <itunes:keywords>glimmerjs, web framework, javascript, emberjs</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>24</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 10 - GitMerge e FOSDEM</title>
+      <guid isPermaLink="false">f443e78f-75f8-4407-b225-86faacdc4b05</guid>
+      <link>http://conversas.porto.codes/d31508a4</link>
+      <description>Neste episódio contamos as nossas experiências das conferências GitMerge e FOSDEM.
+</description>
+      <content:encoded>
+        <![CDATA[<ul>
+<li><a href="https://git-merge.com/">GitMerge 2017</a>
+
+<ul>
+<li><a href="https://git-lfs.github.com/">GIT LFS</a></li>
+<li><a href="http://schacon.github.io/git/git-read-tree.html">git sparse checkout</a></li>
+<li><a href="https://github.com/Microsoft/GVFS">GVFS</a></li>
+</ul>
+</li>
+<li><a href="https://fosdem.org/2017/">FOSDEM 2017</a>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Key_signing_party">Key signing party</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/dashboardlaravelvuepusher/">Creating a dashboard with Laravel, Vue and Pusher</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/osd_accessibility_in_os/">Léonie Watson - Accessibility in Open Source</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/mozilla_firefox_puppet_show/">Firefox: The Puppet Show</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/mozilla_http2_whats_next/">So that was HTTP/2, what's next?</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/homebrew_getting_to_1/">Homebrew: getting to 1.0.0</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/building_a_distro_with_musl_libc/">Building a distro with musl libc</a></li>
+<li><a href="https://alpinelinux.org/about/">Alpine Linux</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/keccak/">Portfolio of optimized cryptographic functions based on Keccak</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/password_keeper/">The Making of a Secure Open Source Password Keeper</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/encrypting_matrix/">Building a universal end-to-end encrypted communication ecosystem with Matrix and Olm</a></li>
+<li><a href="https://fosdem.org/2017/schedule/event/mozilla_root_program/">Reflections on Adjusting Trust: The Mozilla Root Program</a></li>
+</ul>
+</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 20 Apr 2017 08:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/d31508a4.mp3" length="52284906" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/65758/1491817796-artwork.jpg"/>
+      <itunes:duration>00:54:26</itunes:duration>
+      <itunes:summary>Neste episódio contamos as nossas experiências das conferências GitMerge e FOSDEM.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio contamos as nossas experiências das conferências GitMerge e FOSDEM.
+</itunes:subtitle>
+      <itunes:keywords>fosdem, gitmerge, conference, git, open source</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>23</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 9 - Subresource Integrity</title>
+      <guid isPermaLink="false">61618b6e-517a-4579-be41-c591ce301aa2</guid>
+      <link>http://conversas.porto.codes/fd8236de</link>
+      <description>Neste episódio falamos de Subresource Integrity, uma funcionalidade para garantir que os recursos externos nao sofreram manipulacao
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity">Subresource Integrity (MDN)</a></li>
+<li><a href="https://www.w3.org/TR/SRI/">Subresource Integrity (W3C)</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy/require-sri-for">Content Security Policy - require-sri-for</a></li>
+<li><a href="https://www.srihash.org/">SRI Hash Generator</a></li>
+<li><a href="https://github.com/jonathanKingston/ember-cli-sri">ember-cli-sri</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 02 Feb 2017 08:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
+      <enclosure url="https://audio.simplecast.com/fd8236de.mp3" length="3833028" type="audio/mpeg"/>
+      <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/59292/1485998827-artwork.jpg"/>
+      <itunes:duration>00:05:46</itunes:duration>
+      <itunes:summary>Neste episódio falamos de Subresource Integrity, uma funcionalidade para garantir que os recursos externos nao sofreram manipulacao
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos de Subresource Integrity, uma funcionalidade para garantir que os recursos externos nao sofreram manipulacao
+</itunes:subtitle>
+      <itunes:keywords>subresource integrity, sri, csp</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>22</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 8 - Ruby 2.4</title>
+      <guid isPermaLink="false">89fbca75-e66d-4c5d-bee5-ac433ec19df2</guid>
+      <link>http://conversas.porto.codes/984a4ad3</link>
+      <description>Neste episódio abordamos as novas funcionalidades e mudanças planeadas para o Ruby 2.4.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://blog.blockscore.com/new-features-in-ruby-2-4/">New Features in Ruby 2.4</a>, John Backus</li>
+<li><a href="https://www.ruby-lang.org/en/news/2016/11/09/ruby-2-4-0-preview3-released/">2.4.0-preview3</a></li>
+<li><a href="https://www.ruby-lang.org/en/news/2016/09/08/ruby-2-4-0-preview2-released/">2.4.0-preview2</a></li>
+<li><a href="https://www.ruby-lang.org/en/news/2016/06/20/ruby-2-4-0-preview1-released/">2.4.0-preview1</a></li>
+<li><a href="https://bugs.ruby-lang.org/issues/10085">non-ASCII case conversion to String#upcase/downcase/swapcase/capitalize</a></li>
+<li><a href="https://bugs.ruby-lang.org/issues/12005">Unify Fixnum and Bignum into Integer</a></li>
+<li><a href="https://bugs.ruby-lang.org/issues/6647">Exceptions raised in threads should be logged</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Thu, 01 Dec 2016 08:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
+      <enclosure url="https://audio.simplecast.com/984a4ad3.mp3" length="21271746" type="audio/mpeg"/>
+      <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/53476/1480382713-artwork.jpg"/>
+      <itunes:duration>00:24:16</itunes:duration>
+      <itunes:summary>Neste episódio abordamos as novas funcionalidades e mudanças planeadas para o Ruby 2.4.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio abordamos as novas funcionalidades e mudanças planeadas para o Ruby 2.4.
+</itunes:subtitle>
+      <itunes:keywords>ruby, ruby 2.4</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>20</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 7 - Dicas SSH</title>
+      <guid isPermaLink="false">281bff7b-f4cc-4dc6-a209-289fb97c49bf</guid>
+      <link>http://conversas.porto.codes/759fccbc</link>
+      <description>Neste episódio falamos sobre algumas funcionalidades menos conhecidas relacionadas com SSH.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<a name="SSH.client.escape.sequences"></a>
+<h2>SSH client escape sequences</h2>
+
+<ul>
+<li><a href="https://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/">https://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/</a></li>
+</ul>
+
+
+<a name="connection.multiplexing"></a>
+<h2>connection multiplexing</h2>
+
+<ul>
+<li><a href="http://man.openbsd.org/ssh_config">http://man.openbsd.org/ssh_config</a></li>
+<li><a href="https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing#Setting_Up_Multiplexing">https://en.wikibooks.org/wiki/OpenSSH/Cookbook/Multiplexing#Setting_Up_Multiplexing</a></li>
+<li><a href="http://blog.scottlowe.org/2015/12/11/using-ssh-multiplexing/">http://blog.scottlowe.org/2015/12/11/using-ssh-multiplexing/</a></li>
+</ul>
+
+
+<a name="authorized_keys"></a>
+<h2>authorized_keys</h2>
+
+<ul>
+<li><a href="http://man.openbsd.org/OpenBSD-current/man8/sshd.8">http://man.openbsd.org/OpenBSD-current/man8/sshd.8</a></li>
+<li><a href="http://gitolite.com/gitolite/glssh.html#how-does-gitolite-use-all-this-ssh-magic">http://gitolite.com/gitolite/glssh.html#how-does-gitolite-use-all-this-ssh-magic</a></li>
+</ul>
+
+
+<a name="SSH.Tunnels"></a>
+<h2>SSH Tunnels</h2>
+
+<ul>
+<li><a href="http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html">http://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html</a></li>
+<li><a href="http://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work">http://unix.stackexchange.com/questions/46235/how-does-reverse-ssh-tunneling-work</a></li>
+</ul>
+
+
+<a name="sshuttle"></a>
+<h2>sshuttle</h2>
+
+<ul>
+<li><a href="http://sshuttle.readthedocs.io/en/stable/">http://sshuttle.readthedocs.io/en/stable/</a></li>
+<li><a href="https://github.com/sshuttle/sshuttle.git">https://github.com/sshuttle/sshuttle.git</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 22 Nov 2016 08:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
+      <enclosure url="https://audio.simplecast.com/759fccbc.mp3" length="15203122" type="audio/mpeg"/>
+      <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/45598/1479769811-artwork.jpg"/>
+      <itunes:duration>00:17:45</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre algumas funcionalidades menos conhecidas relacionadas com SSH.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre algumas funcionalidades menos conhecidas relacionadas com SSH.
+</itunes:subtitle>
+      <itunes:keywords>ssh, openssh, sshuttle, authorized_keys, tunnel, multiplexing</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>19</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 6 - HTTP/2</title>
+      <guid isPermaLink="false">03621d72-016a-48b7-8b9b-ff06671d1397</guid>
+      <link>http://conversas.porto.codes/2137fd36</link>
+      <description>Neste episódio falamos sobre as mudanças que o HTTP/2 traz, e divagamos também um pouco sobre conferências.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<a name="HTTP.2"></a>
+<h2>HTTP/2</h2>
+
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol">HTTP</a></li>
+<li><a href="https://http2.github.io/">HTTP/2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Netcat">Netcat</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Text-based_protocol">Text Based Protocols (ftp, smtp, pop3)</a></li>
+<li><a href="https://curl.haxx.se/">curl</a></li>
+<li><a href="https://tools.ietf.org/html/rfc7540#section-8.1.2.1">HTTP/2.0 Pseudo-Header Fields</a></li>
+<li><a href="https://http2.github.io/http2-spec/compression.html">HPACK: Header Compression for HTTP/2</a></li>
+<li><a href="https://www.maxcdn.com/one/visual-glossary/domain-sharding-2/">Domain sharding</a></li>
+<li><a href="https://www.youtube.com/watch?v=yURLTwZ3ehk">Yesterday's perf best-practices are today's HTTP/2 anti-patterns - Velocity 2015 (Santa Clara) - Ilya Grigorik</a></li>
+<li><a href="https://www.polymer-project.org/1.0/toolbox/">Polymer App Toolbox</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Application-Layer_Protocol_Negotiation">ALPN</a></li>
+<li><a href="https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html">HTTPS as a Ranking Signal</a></li>
+<li><a href="https://www.chromium.org/Home/chromium-security/marking-http-as-non-secure">Chromium/Chrome - Marking HTTP As Non-Secure</a></li>
+<li><a href="https://blog.mozilla.org/security/2015/04/30/deprecating-non-secure-http/">Firefox - Deprecating Non-Secure HTTP</a></li>
+<li><a href="https://github.com/letsencrypt/acme-spec/issues/64">Let's Encrypt - Wildcard discussion</a></li>
+<li><a href="https://nghttp2.org/">nghttp2 - HTTP/2 C Library</a></li>
+<li><a href="https://github.com/tenderlove/ds9">ds9 - Ruby wrapper around nghttp2</a></li>
+<li><a href="https://github.com/tenderlove/the_metal">Rack 2</a></li>
+<li><a href="https://www.youtube.com/watch?v=1EeWXojdqvU">Full Stack Fest 2015: Request and Response, by Aaron Patterson</a></li>
+<li><a href="http://expressjs.com/">express.js</a></li>
+<li><a href="https://www.nginx.com/blog/nginx-1-9-5/">Open Source NGINX 1.9.5 Released with HTTP/2 Support</a></li>
+<li><a href="https://httpd.apache.org/docs/2.4/mod/mod_http2.html">Apache module mod_http2</a></li>
+</ul>
+
+
+<a name="Misc"></a>
+<h2>Misc</h2>
+
+<ul>
+<li><a href="http://emberjs.com/blog/2013/09/06/new-ember-release-process.html">The Ember.js post-1.0 release cycle</a></li>
+<li><a href="http://rubyconf.pt/">RubyConf PT</a></li>
+<li><a href="http://emberconf.com/">EmberConf 2016</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fear_of_missing_out">FOMO (Fear Of Missing out)</a></li>
+<li><a href="https://fosdem.org">FOSDEM</a></li>
+<li><a href="https://medium.com/@wifelette/emberconf-2016-the-morning-after-post-mortem-b37d195b916b#.vogzii7tg">EmberConf 2016: The Morning-After Post-Mortem</a></li>
+<li><a href="http://www.railspacific.com/">Rails Pacific</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Wed, 01 Jun 2016 08:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/2137fd36.mp3" length="35786318" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/38909/1465064517-artwork.jpg"/>
+      <itunes:duration>00:42:17</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre as mudanças que o HTTP/2 traz, e divagamos também um pouco sobre conferências.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre as mudanças que o HTTP/2 traz, e divagamos também um pouco sobre conferências.
+</itunes:subtitle>
+      <itunes:keywords>https, http2, rubyconf, ember, rails, rack, curl, nginx</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>18</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 5.5 - RubyConf Portugal</title>
+      <guid isPermaLink="false">876edfef-99cf-4107-b594-389ea32ccd07</guid>
+      <link>http://conversas.porto.codes/523e63dc</link>
+      <description>Neste episódio falamos sobre a RubyConf Portugal, que irá acontecer novamente este ano.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="http://rubyconf.pt/">RubyConf Portugal</a>
+
+<ul>
+<li>Outubro, 28-29</li>
+<li>Braga, Portugal</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/wycats">Yehuda Katz</a></li>
+<li><a href="https://www.papercall.io/rubyconfpt-2016">CFP </a>
+
+<ul>
+<li>Julho, 15</li>
+</ul>
+</li>
+<li><a href="https://ti.to/subvisual/rubyconfpt-2016/discount/conversasemcodigo">Promo code</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Sun, 15 May 2016 08:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira)</author>
+      <enclosure url="https://audio.simplecast.com/523e63dc.mp3" length="5657668" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/37688/1463380739-artwork.jpg"/>
+      <itunes:duration>00:06:20</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre a RubyConf Portugal, que irá acontecer novamente este ano.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre a RubyConf Portugal, que irá acontecer novamente este ano.
+</itunes:subtitle>
+      <itunes:keywords>conference, rubyconf, portugal, braga, ruby</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>17</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 5 - Meteor</title>
+      <guid isPermaLink="false">5dc4021e-de30-46ef-8576-d8a70cbc115c</guid>
+      <link>http://conversas.porto.codes/44381a9d</link>
+      <description>Este mês damos o salto para o web development em Meteor com o nosso convidado Gabriel Poça.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://www.meteor.com/">Meteor</a></li>
+<li><a href="https://www.meteor.com/blaze">Blaze</a></li>
+<li>Integração front-end
+
+<ul>
+<li><a href="https://react-in-meteor.readthedocs.io/en/latest/">Reach in Meteor</a></li>
+<li><a href="https://www.meteor.com/tutorials/angular/creating-an-app">Angular</a></li>
+</ul>
+</li>
+<li><a href="http://info.meteor.com/blog/introducing-ddp">Introducing DDP (Distributed Data Protocol)</a></li>
+<li><a href="https://dockyard.com/blog/2016/03/25/what-makes-phoenix-presence-special-sneak-peek">What makes Phoenix Presence special, and a sneak peek
+</a></li>
+<li><a href="http://horizon.io/">Horizon</a></li>
+<li>Facebook
+
+<ul>
+<li><a href="http://graphql.org/docs/getting-started/">GraphQL</a></li>
+<li><a href="https://facebook.github.io/relay/">Relay</a></li>
+</ul>
+</li>
+<li><a href="https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern">Publish-subscribe pattern</a></li>
+<li><a href="https://www.youtube.com/watch?v=9sc8Pyc51uU">Data fetching for React applications at Facebook</a></li>
+<li><a href="http://joshowens.me/">Josh Owens</a></li>
+<li><a href="https://www.rethinkdb.com/">RethinkDB</a></li>
+</ul>
+
+
+<a name="Participantes"></a>
+<h1>Participantes</h1>
+
+<ul>
+<li><a href="https://twitter.com/gabrielgpoca">Gabriel Poça</a></li>
+<li><a href="https://twitter.com/zamith">Luís Ferreira</a></li>
+<li><a href="https://twitter.com/locks">Ricardo Mendes</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Sun, 01 May 2016 08:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Luís Ferreira, Ricardo Mendes)</author>
+      <enclosure url="https://audio.simplecast.com/44381a9d.mp3" length="21803798" type="audio/mpeg"/>
+      <itunes:author>Luís Ferreira, Ricardo Mendes</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/36786/1462236232-artwork.jpg"/>
+      <itunes:duration>00:39:18</itunes:duration>
+      <itunes:summary>Este mês damos o salto para o web development em Meteor com o nosso convidado Gabriel Poça.
+</itunes:summary>
+      <itunes:subtitle>Este mês damos o salto para o web development em Meteor com o nosso convidado Gabriel Poça.
+</itunes:subtitle>
+      <itunes:keywords>Meteor</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>16</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 4.5 - Let's Encrypt</title>
+      <guid isPermaLink="false">c5330624-be9a-428d-b7d4-6453d5c2e950</guid>
+      <link>http://conversas.porto.codes/8b8cf4ae</link>
+      <description>Neste episódio falamos de Let's Encrypt, uma nova autoridade de certificação SSL/TLS.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://letsencrypt.org/">Let's Encrypt</a></li>
+<li><a href="https://letsencrypt.github.io/acme-spec/">Especifícação do protocolo de obtenção de certificados</a></li>
+<li><a href="https://community.letsencrypt.org/t/which-browsers-and-operating-systems-support-lets-encrypt/4394">Lista de compatibilidade de browsers e sistemas operativos</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04">Tutorial de Let's Encrypt da Digital Ocean</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 15 Apr 2016 20:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
+      <enclosure url="https://audio.simplecast.com/8b8cf4ae.mp3" length="5602935" type="audio/mpeg"/>
+      <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/35611/1460914284-artwork.jpg"/>
+      <itunes:duration>00:09:08</itunes:duration>
+      <itunes:summary>Neste episódio falamos de Let's Encrypt, uma nova autoridade de certificação SSL/TLS.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos de Let's Encrypt, uma nova autoridade de certificação SSL/TLS.
+</itunes:subtitle>
+      <itunes:keywords>ssl, tls, encrypt, https</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>15</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 4 - TypeScript</title>
+      <guid isPermaLink="false">f0114a2a-53b2-4371-a8c3-71183e3f659f</guid>
+      <link>http://conversas.porto.codes/eb4051f3</link>
+      <description>Neste episódio falamos sobre TypeScript, uma variante tipada de JavaScript.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="http://www.typescriptlang.org/">TypeScript</a></li>
+<li><a href="http://definitelytyped.org/">DefinitelyTyped</a></li>
+<li><a href="https://angular.io/docs/ts/latest/index.html">Angular 2 for TypeScript</a></li>
+<li><a href="https://github.com/locks/ember-cli-typescript">ember-cli-typescript</a></li>
+<li><a href="https://github.com/tildeio/glimmer">Glimmer</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 01 Apr 2016 20:00:00 +0100</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/eb4051f3.mp3" length="5934538" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/35608/1460912789-artwork.jpg"/>
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre TypeScript, uma variante tipada de JavaScript.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre TypeScript, uma variante tipada de JavaScript.
+</itunes:subtitle>
+      <itunes:keywords>typescript, angular, ember, glimmer</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>12</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 3.14 - Goad</title>
+      <guid isPermaLink="false">1a6c49a0-1a92-4a02-a19c-56888ee9f8ff</guid>
+      <link>http://conversas.porto.codes/f2709ea2</link>
+      <description>Neste episódio falamos de Goad, uma ferramenta para testes de carga distribuídos
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://goad.io/">Goad</a></li>
+<li><a href="http://aws.amazon.com/documentation/lambda/">AWS Lambda</a></li>
+<li><a href="http://gophergala.com/">Gopher Gala</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 14 Mar 2016 20:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
+      <enclosure url="https://audio.simplecast.com/f2709ea2.mp3" length="4077401" type="audio/mpeg"/>
+      <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/35610/1460912862-artwork.jpg"/>
+      <itunes:duration>00:06:37</itunes:duration>
+      <itunes:summary>Neste episódio falamos de Goad, uma ferramenta para testes de carga distribuídos
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos de Goad, uma ferramenta para testes de carga distribuídos
+</itunes:subtitle>
+      <itunes:keywords>goad, go, aws, aws lambda</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>14</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 3 - Electron</title>
+      <guid isPermaLink="false">9505e717-4c10-4c02-a1b1-e24c342ecb3b</guid>
+      <link>http://conversas.porto.codes/368eebdf</link>
+      <description>Neste episódio falamos sobre Electron, uma tecnologia para desenvolver aplicações desktop multi-plaforma (OS X, Win, Linux).
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="http://electron.atom.io/">Electron</a></li>
+<li><a href="https://atom.io/">Atom</a></li>
+<li><a href="https://ember-hearth.readme.io/">Ember Hearth</a></li>
+<li><a href="https://github.com/felixrieseberg/ember-electron">Ember Electron</a> (<a href="http://confreaks.tv/videos/emberconf2016-building-desktop-apps-with-ember-and-electron">EmberConf 2016</a>)</li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Mar 2016 20:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/368eebdf.mp3" length="6667788" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/35609/1460912848-artwork.jpg"/>
+      <itunes:duration>00:11:47</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre Electron, uma tecnologia para desenvolver aplicações desktop multi-plaforma (OS X, Win, Linux).
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre Electron, uma tecnologia para desenvolver aplicações desktop multi-plaforma (OS X, Win, Linux).
+</itunes:subtitle>
+      <itunes:keywords>electron, github, atom, ember, ember hearth</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>13</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 2.5 - No Estimates</title>
+      <guid isPermaLink="false">824d53aa-898a-4495-9b89-7f601ff1a5c8</guid>
+      <link>http://conversas.porto.codes/b2ed3eb8</link>
+      <description>No estimates
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="http://zuill.us/WoodyZuill/beyond-estimates/">Beyond estimates</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 15 Feb 2016 19:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Luís Ferreira, Ricardo Mendes)</author>
+      <enclosure url="https://audio.simplecast.com/b2ed3eb8.mp3" length="4850318" type="audio/mpeg"/>
+      <itunes:author>Luís Ferreira, Ricardo Mendes</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/27380/1459351157-artwork.jpg"/>
+      <itunes:duration>00:05:18</itunes:duration>
+      <itunes:summary>No estimates
+</itunes:summary>
+      <itunes:subtitle>No estimates
+</itunes:subtitle>
+      <itunes:keywords>no estimates</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>9</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 2 - Wax On Wax Off</title>
+      <guid isPermaLink="false">b365fb24-6b76-400a-9e87-f475ca20e098</guid>
+      <link>http://conversas.porto.codes/d5f5d9e6</link>
+      <description>Neste episódio abordamos técnicas e exercícios para melhorar capacidades de programação.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="http://exercism.io/">Exercism</a></li>
+<li><a href="http://codekata.com/">Code Kata</a></li>
+<li><a href="https://www.youtube.com/watch?v=97npZkcS58Y">Jim Weirich, Gilded Rose</a></li>
+<li><a href="https://www.youtube.com/watch?v=vX-Yym7166Y">Corey Haynes, Roman Numerals</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mob_programming">Mob programming</a></li>
+<li><a href="http://rubykoans.com/">Ruby Koans</a></li>
+<li><p><a href="https://changelog.com/108/">The Changelog, Exercism.io with Katrina Owen</a></p></li>
+<li><p><a href="http://www.codewars.com/">Codewars</a></p></li>
+<li><a href="https://www.hackerrank.com/">HackerRank</a></li>
+<li><a href="https://projecteuler.net/">Project Euler</a></li>
+<li><a href="http://www.puzzlenode.com/">Puzzlenode</a></li>
+<li><a href="http://adventofcode.com/">Advent of Code</a></li>
+<li><a href="http://js1k.com/">js1k</a></li>
+<li><a href="http://www.vimgolf.com/">vimgolf</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quine_(computing">Quine</a>)</li>
+<li><a href="http://www.ioccc.org/">ioccc</a></li>
+<li><a href="https://code.google.com/codejam">Code Jam</a></li>
+<li><a href="http://aichallenge.org/">A.I. Challenge</a></li>
+<li><a href="http://robocode.sourceforge.net/">Robocode</a></li>
+<li><a href="http://starfighters.io/">Star Fighters</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Mon, 01 Feb 2016 08:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/d5f5d9e6.mp3" length="21476737" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/23232/1460912697-artwork.jpg"/>
+      <itunes:duration>00:35:28</itunes:duration>
+      <itunes:summary>Neste episódio abordamos técnicas e exercícios para melhorar capacidades de programação.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio abordamos técnicas e exercícios para melhorar capacidades de programação.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 1.5 - Administrate</title>
+      <guid isPermaLink="false">f47272cf-e9dd-40dd-9408-8b7dba824e69</guid>
+      <link>http://conversas.porto.codes/4ae51953</link>
+      <description>Neste episódio falamos sobre a gem administrate.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Show.notes"></a>
+<h1>Show notes</h1>
+
+<ul>
+<li><a href="https://github.com/thoughtbot/administrate">administrate</a></li>
+<li><a href="https://github.com/sferik/rails_admin">rails_admin</a></li>
+<li><a href="http://activeadmin.info/">activeadmin</a></li>
+<li><a href="https://github.com/activescaffold/active_scaffold">active_scaffold</a></li>
+<li><a href="https://github.com/plataformatec/simple_form">simple_form</a></li>
+</ul>
+
+
+<a name="Links.b..nus"></a>
+<h1>Links bónus</h1>
+
+<ul>
+<li><a href="http://guides.rubyonrails.org/generators.html">Ruby on Rails Guides - Generators</a></li>
+<li><a href="http://guides.rubyonrails.org/engines.html">Ruby on Rails Guides - Engines</a></li>
+<li><a href="https://robots.thoughtbot.com/writing-a-domain-specific-language-in-ruby">Writing a Domain Specific Language in Ruby</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 15 Jan 2016 08:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira)</author>
+      <enclosure url="https://audio.simplecast.com/4ae51953.mp3" length="5375113" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/24578/1459351052-artwork.jpg"/>
+      <itunes:duration>00:08:44</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre a gem administrate.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre a gem administrate.
+</itunes:subtitle>
+      <itunes:keywords>ruby, ruby on rails, administrate</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 1 - Rust, uma linguagem de sistemas para os tempos modernos</title>
+      <guid isPermaLink="false">fc27fd1f-966c-42c6-87f7-14f15161c07a</guid>
+      <link>http://conversas.porto.codes/03fdf01c</link>
+      <description>Neste episódio inaugural decidimos abordar a linguagem de programação Rust.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Neste episódio inaugural decidimos abordar a linguagem de programação Rust.
+Vamos explicar um pouco da história desta linguagem, algumas das suas características, e partilhar algumas experiências que já tivemos com a linguagem.</p>
+
+<a name="Shownotes"></a>
+<h1>Shownotes</h1>
+
+<ul>
+<li><a href="https://www.rust-lang.org/">Rust</a></li>
+<li><a href="https://doc.rust-lang.org/book/">Rust Book</a></li>
+<li><a href="http://rustbyexample.com/">Rust by Example</a></li>
+<li><a href="http://www.newrustacean.com/">New Rustacean</a></li>
+<li><a href="https://users.rust-lang.org/t/lets-talk-about-ecosystem-documentation/2791">Let's talk about ecosystem documentation</a></li>
+<li><a href="https://www.rust-lang.org/team.html">Rust team</a></li>
+<li><a href="http://arewewebyet.com/">Are We Web Yet?</a></li>
+<li><a href="http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html">Fearless Concurrency</a></li>
+</ul>
+
+
+<a name="Participantes"></a>
+<h1>Participantes</h1>
+
+<ul>
+<li><a href="https://hugopeixoto.net">Hugo Peixoto</a></li>
+<li><a href="https://twitter.com/zamith">Luís Ferreira</a></li>
+<li><a href="https://twitter.com/locks">Ricardo Mendes</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Fri, 01 Jan 2016 19:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/03fdf01c.mp3" length="35022999" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/18101/1459351120-artwork.jpg"/>
+      <itunes:duration>00:59:16</itunes:duration>
+      <itunes:summary>Neste episódio inaugural decidimos abordar a linguagem de programação Rust.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio inaugural decidimos abordar a linguagem de programação Rust.
+</itunes:subtitle>
+      <itunes:keywords>rust, programação, porto, braga, porto codes</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Ep. 0 - Uma breve introdução</title>
+      <guid isPermaLink="false">ab5a7fd0-1321-4b8e-b72c-867fe3ff1248</guid>
+      <link>http://conversas.porto.codes/2032f541</link>
+      <description>Neste episódio inaugural falamos um pouco do porquê do projeto, e conhecemos os três anfitriões.
+</description>
+      <content:encoded>
+        <![CDATA[<p>Neste episódio inaugural falamos um pouco do porquê do projeto, e conhecemos os três anfitriões.</p>
+]]>
+      </content:encoded>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/2032f541.mp3" length="5087770" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:duration>00:07:03</itunes:duration>
+      <itunes:summary>Neste episódio inaugural falamos um pouco do porquê do projeto, e conhecemos os três anfitriões.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio inaugural falamos um pouco do porquê do projeto, e conhecemos os três anfitriões.
+</itunes:subtitle>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+    </item>
+  </channel>
+</rss>

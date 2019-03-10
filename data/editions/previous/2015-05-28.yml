@@ -1,0 +1,9 @@
+id: '223116626'
+date: 2015-05-28
+talks:
+- title: Introduction to Elixir
+  video: https://www.youtube.com/watch?v=wTJZCspA-wU
+  speaker: ismaelga
+- title: A taste of integration with Apache Camel
+  video: https://www.youtube.com/watch?v=X36jYzMY8Zk
+  speaker: ruisalgado

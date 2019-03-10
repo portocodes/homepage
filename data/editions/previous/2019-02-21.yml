@@ -1,0 +1,12 @@
+id: '1550937118'
+date: 2019-02-21
+talks:
+- title: React Best Practices
+  slides: https://docs.google.com/presentation/d/1ynnEYb3APaYOrkn-QhBbV9XEx1TkOa27wI7DxEjMjUk/edit#slide=id.g4604bf8a18_0_0
+  speaker: luiscardoso
+  summary: |
+    React is one of the most used libraries for web development. However,
+    because it's so widely used, the library evolves fast and sometimes we
+    don't get the most out of it or we are not familiar with new patterns and
+    best practices. This talk gives an overview of the current best practices
+    and caveats to watch out for.

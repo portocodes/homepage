@@ -1,0 +1,16 @@
+meetup_id: '220087634'
+date: 2015-02-04
+talks:
+- title: Rails performance
+  video: https://www.youtube.com/watch?v=YxzPtevYrCI
+  speaker: guiferrpereira
+  summary: |
+    This will be the first presentation by Guilherme to the group. He will talk
+    about performance in Rails applications.
+- title: Crystal programming language
+  video: https://www.youtube.com/watch?v=FuvfNLQgUKA
+  speaker: zamith
+  summary: |
+    Minho.rb organizer, Zamith is no stranger to presentations. He will reprise
+    his role from last week's Minho.rb where he presented the Ruby-inspired
+    programming language, Crystal.
