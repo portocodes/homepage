@@ -19,3 +19,4 @@ Dir['data/speakers/*.yml']
 end
 
 `cp src/main.css build/main.css`
+`cp -r src/fonts build/fonts`
