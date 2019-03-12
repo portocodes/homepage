@@ -5,13 +5,13 @@
   --medium-blue: #0883a4;
   --dark-blue: #085a73;
 
-  --base-font-size: 20px;
-  --logo-font-size: 72px;
-  --header-font-size: 24px;
+  --base-font-size: 1em;
+  --logo-font-size: 3em;
+  --header-font-size: 1.5em;
 
-  --header-font-family: Fredoka One;
+  --header-font-family: Fredoka One, Arial, sans-serif;
   --logo-font-family: Fredoka One;
-  --base-font-family: Open Sans;
+  --base-font-family: Open Sans, Droid Sans, Arial, sans-serif;
 
   --parent-bg-color: var(--pink);
   --bg-color: white;
@@ -38,10 +38,6 @@
     url('./fonts/fredoka-one-v6-latin-regular.woff') format('woff');
 }
 
-html {
-  font-size: 24px;
-}
-
 h1, h2, h3 {
   font-size: var(--header-font-size);
 }
@@ -63,7 +59,7 @@ header, nav, main {
 header {
   text-align: center;
   font-family: var(--logo-font-family);
-  font-size: 3rem;
+  font-size: var(--logo-font-size);
   text-transform: uppercase;
 }
 
@@ -120,7 +116,7 @@ nav a:hover:last-child {
 
 section {
   background-color: var(--bg-color);
-  padding: 2.0rem 1.7rem;
+  padding: 2.0rem 2.0rem;
 }
 
 section h1 {
