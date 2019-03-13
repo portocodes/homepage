@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>porto.codes</title>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <header role="banner">
+      <a href="./index.html"><span>Porto</span> <span>Codes</span></a>
+    </header>
+
+    <nav role="navigation">
+      <a href="./index.html">home</a>
+      <a href="./speak.html">speak</a>
+      <a href="./previous.html">past events</a>
+      <a href="./podcast.html">podcast</a>
+    </nav>
+
+    <main>
+      <section id="podcast">
+        <h1>Past editions</h1>
+
+        <p>
+          When available, here you will find links to the video and slides of
+          previous talks.
+        </p>
+
+      </section>
+
+      {{#editions}}
+      <section>
+        <h2>{{human_date}}</h2>
+
+        {{#summary}}
+        <p class="p-summary">{{.}}</p>
+        {{/summary}}
+
+        {{#talks}}
+        <h3>{{title}}, by <a href="{{speaker.url}}">{{speaker.name}}</a></h3>
+
+        <div>
+          {{#video}}<a href="{{.}}">video</a>{{/video}}
+          {{#slides}}<a href="{{.}}">slides</a>{{/slides}}
+        </div>
+
+        {{#summary}}<p class="p-summary">{{{.}}}</p>{{/summary}}
+        {{/talks}}
+      </section>
+
+      {{/editions}}
+    </main>
+  </body>
+</html>

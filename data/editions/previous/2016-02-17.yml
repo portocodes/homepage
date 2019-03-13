@@ -1,0 +1,12 @@
+id: '228396049'
+date: 2016-02-17
+talks:
+- title: React On Rails
+  video: https://www.youtube.com/watch?v=gXClAD7_w6g
+  speaker: PedroBrochado
+- title: More React, and probably less Rails
+  video: https://www.youtube.com/watch?v=h1hw5AYRngs
+  speaker: naps62
+- title: Mutation Testing
+  video: https://www.youtube.com/watch?v=qsuDFXFiqcA
+  speaker: pfac

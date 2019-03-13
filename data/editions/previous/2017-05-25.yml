@@ -1,0 +1,7 @@
+id: '239323934'
+date: 2017-05-25
+talks:
+- title: Dealing with Timezones and Daylight Savings
+  speaker: cutajarj
+- title: Functional Programming in Modern C++
+  speaker: miguelpoeira
