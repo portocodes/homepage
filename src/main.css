@@ -163,9 +163,9 @@ section#schedule li {
 section#schedule li time {
   text-align: center;
   display: block;
-  width: 4rem;
+  width: 4em;
   margin: 1em 0em;
-  min-width: 4rem;
+  min-width: 4em;
 }
 
 section#schedule li .p-title {
@@ -221,3 +221,10 @@ section#schedule li .p-summary {
   font-family: var(--header-font-family);
   font-weight: 100;
 }
+
+.projection { font-size: 2em; }
+.projection header { height: 100vh; display: flex; align-items: center; justify-content: center; }
+.projection nav { display: none; }
+.projection section { height: calc(100vh - 20px - 4rem); }
+.projection header, .projection main { max-width: none; }
+.projection .cta a { color: var(--cta-fg-color); }
