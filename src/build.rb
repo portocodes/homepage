@@ -10,6 +10,7 @@ Dir['data/speakers/*.yml']
   podcast
   previous
   speak
+  slides
 ].each do |page|
   if File.exists?("src/pages/#{page}.rb")
     `ruby src/pages/#{page}.rb`

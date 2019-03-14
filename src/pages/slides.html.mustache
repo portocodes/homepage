@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>porto.codes</title>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body class="projection">
+    <header role="banner">
+      <a href="./index.html"><span>Porto</span> <span>Codes</span></a>
+    </header>
+
+    <nav role="navigation">
+      <a href="./index.html">home</a>
+      <a href="./speak.html">speak</a>
+      <a href="./previous.html">past events</a>
+      <a href="./podcast.html">podcast</a>
+    </nav>
+
+    <main>
+      <section id="introduction">
+        <h2>Porto Codes</h2>
+        <p><a href="">https://porto.codes</a></p>
+        <p>Meet-up on the second Thursday of each month</p>
+        </p>
+
+        <h2>Conversas em Código</h2>
+        <p><a href="">https://conversas.porto.codes</a></p>
+        <p>Podcast in portuguese about programming</p>
+
+        <h2>Slack</h2>
+        <p><a href="">https://invite.porto.codes</a></p>
+        <p>Let's talk about programming</p>
+
+      </section>
+
+      <section id="schedule">
+        {{#current}}
+        <h1>Schedule</h1>
+
+        <ol>
+          {{#schedule}}
+          <li>
+            <time class="dt-start" datetime="{{date}} {{start}}">{{start}}</time>
+            <p>{{title}}{{#speaker}}, by {{.}}{{/speaker}}</p>
+          </li>
+          {{/schedule}}
+        </ol>
+        {{/current}}
+      </section>
+
+      <section id="upcoming">
+        <h1>Upcoming events</h1>
+
+        {{#editions}}
+          <h2>{{title}}</h2>
+          <p><b>{{human_date}}</b></p>
+
+          {{#talks}}
+          <p>{{title}}, by <a href="{{speaker.github_url}}">{{speaker.name}}</a></p>
+          {{/talks}}
+
+        {{/editions}}
+      </section>
+
+      <section id="speak">
+        <h1>Speak at Porto Codes</h1>
+
+        <p>
+          We're always looking for someone to speak at Porto Codes. We're
+          pretty flexible when it comes to the topic, and we welcome all levels
+          of expertise.
+        </p>
+
+        <p>Lightning talks are welcome.</p>
+
+        <p>If you do speak at Porto Codes, dinner and ice cream is on us!</p>
+
+
+        <p class="cta"><a href="">https://porto.codes</a></p>
+
+      </section>
+    </main>
+  </body>
+</html>
