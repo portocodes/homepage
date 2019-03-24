@@ -9,8 +9,8 @@
 Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos temas relacionados com a área de programação, desde linguagens e bibliotecas, a metodologias e comunidades.</description>
     <copyright>© 2017 Conversas em Código</copyright>
     <language>pt-pt</language>
-    <pubDate>Mon, 21 Jan 2019 20:35:00 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Mar 2019 18:51:25 +0000</lastBuildDate>
+    <pubDate>Sat, 16 Mar 2019 12:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Mar 2019 22:33:03 +0000</lastBuildDate>
     <link>http://porto.codes</link>
     <image>
       <url>https://media.simplecast.com/podcast/image/1418/1459351089-artwork.jpg</url>
@@ -35,6 +35,70 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    <item>
+      <title>Ep. 17 - ActivityPub</title>
+      <guid isPermaLink="false">882eb4fc-597e-475e-9404-2d525f23a1f6</guid>
+      <link>http://conversas.porto.codes/e1639edb</link>
+      <description>Neste episódio falamos sobre protocolos de federação, e sobre as dores de cabeça de gravar multimédia.
+</description>
+      <content:encoded>
+        <![CDATA[<a name="Shownotes"></a>
+<h2>Shownotes</h2>
+
+<ul>
+<li><a href="https://porto.codes/">Porto Codes</a></li>
+<li><a href="https://fosdem.org/2019/">FOSDEM</a>
+
+<ul>
+<li><a href="https://fosdem.org/2019/schedule/track/decentralized_internet_and_privacy/">Decentralized Internet and Privacy</a></li>
+</ul>
+</li>
+<li><a href="https://diasporafoundation.org">Diaspora</a></li>
+<li><a href="https://mastodon.social/about">Mastodon</a></li>
+<li><a href="https://www.scuttlebutt.nz">Scuttlebutt</a></li>
+<li><a href="https://fediverse.party/">Fediverse</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ActivityPub">ActivityPub</a></li>
+<li><a href="https://www.w3.org/TR/activitystreams-core/">ActivityStreams</a></li>
+<li><a href="https://www.w3.org/TR/activitystreams-core/">WebFinger</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenID_Connect">OpenID Connect</a></li>
+<li><a href="https://indieweb.org/">IndieWeb</a> (<a href="https://en.wikipedia.org/wiki/IndieWeb">wikipedia</a>)</li>
+<li><a href="https://en.wikipedia.org/wiki/IndieWebCamp">IndieWebCamp</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Micropub_(protocol">Micropub</a>)</li>
+<li><a href="https://indieweb.org/Microsub">Microsub</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OStatus">OStatus</a></li>
+<li><a href="https://feedly.com/">Feedly</a></li>
+<li><a href="https://theoldreader.com/">TheOldReader</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_Reader">Google reader</a></li>
+<li><a href="https://rachelbythebay.com/w/2013/07/03/service/">It’s gone gone gone and it’s not coming back</a></li>
+<li><a href="https://en.wikipedia.org/wiki/IndieWeb">PeerTube</a></li>
+<li><a href="https://ipfs.io/">IPFS</a></li>
+<li><a href="https://www.meetup.com/">Meetup</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a></li>
+<li><a href="https://gettogether.community/">Get Together</a></li>
+<li><a href="https://github.com/portocodes/homepage">Porto Codes website</a></li>
+<li><a href="http://harpjs.com/">Harp</a></li>
+<li><a href="http://jade-lang.com/">Jade Language</a></li>
+<li><a href="https://en.wikipedia.org/wiki/IPv6">IPv6</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SRV_record">SRV record</a></li>
+</ul>
+
+]]>
+      </content:encoded>
+      <pubDate>Sat, 16 Mar 2019 12:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <enclosure url="https://audio.simplecast.com/a4784fd5.mp3" length="35433933" type="audio/mpeg"/>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:image href="https://media.simplecast.com/episode/image/284996/1552665716-artwork.jpg"/>
+      <itunes:duration>00:42:09</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre protocolos de federação, e sobre as dores de cabeça de gravar multimédia.
+</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre protocolos de federação, e sobre as dores de cabeça de gravar multimédia.
+</itunes:subtitle>
+      <itunes:keywords>activitypub, porto codes, fosdem, webfinger</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>30</itunes:episode>
+    </item>
     <item>
       <title>Ep. 16 - mustache</title>
       <guid isPermaLink="false">a5bde5c6-9cbb-4d7b-9a0a-d8ff14eea166</guid>

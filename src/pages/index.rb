@@ -22,7 +22,13 @@ current = File
   .yield_self(&YAML.method(:load))
   .yield_self do |current|
     current.merge(
-      schedule: current["schedule"].map { |i| i.merge(summary: Kramdown::Document.new(i["summary"]).to_html) },
+      schedule: current["schedule"].map do |i|
+        i.merge(
+          summary: Kramdown::Document.new(i["summary"]).to_html,
+          speaker: speakers[i["speaker"]],
+        )
+      end,
+      human_date: fmt_date(current["date"]),
     )
   end
 
