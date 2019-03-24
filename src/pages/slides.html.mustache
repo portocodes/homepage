@@ -8,19 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body class="projection">
-    <header role="banner">
+    <header role="banner" tabindex="1">
       <a href="./index.html"><span>Porto</span> <span>Codes</span></a>
     </header>
 
-    <nav role="navigation">
-      <a href="./index.html">home</a>
-      <a href="./speak.html">speak</a>
-      <a href="./previous.html">past events</a>
-      <a href="./podcast.html">podcast</a>
-    </nav>
-
     <main>
-      <section id="introduction">
+      <section id="introduction" tabindex="2">
         <h2>Porto Codes</h2>
         <p><a href="">https://porto.codes</a></p>
         <p>Meet-up on the second Thursday of each month</p>
@@ -36,7 +29,7 @@
 
       </section>
 
-      <section id="schedule">
+      <section id="schedule" tabindex="3">
         {{#current}}
         <h1>Schedule</h1>
 
@@ -51,7 +44,7 @@
         {{/current}}
       </section>
 
-      <section id="upcoming">
+      <section id="upcoming" tabindex="4">
         <h1>Upcoming events</h1>
 
         {{#editions}}
@@ -59,13 +52,13 @@
           <p><b>{{human_date}}</b></p>
 
           {{#talks}}
-          <p>{{title}}, by <a href="{{speaker.github_url}}">{{speaker.name}}</a></p>
+          <p>{{title}}, by <a href="{{speaker.url}}">{{speaker.name}}</a></p>
           {{/talks}}
 
         {{/editions}}
       </section>
 
-      <section id="speak">
+      <section id="speak" tabindex="5">
         <h1>Speak at Porto Codes</h1>
 
         <p>
@@ -80,7 +73,6 @@
 
 
         <p class="cta"><a href="">https://porto.codes</a></p>
-
       </section>
     </main>
   </body>
