@@ -1,4 +1,5 @@
-date: 2019-03-14
+date: 2019-04-11
+id: 'rsjhnqyzgbpb'
 schedule:
 - start: "19:00"
   title: Doors open
@@ -9,26 +10,12 @@ schedule:
   summary: |
     Short introduction to the Porto Codes project.
 - start: "19:30"
-  title: Home automation for tinkerers
-  speaker: Abílio Costa
+  title: Playing around with Flutter
+  speaker: rapzo
   summary: |
-    Home Automation seems to finally be spreading and growing, with
-    a lot of new products getting to the market with affordable
-    prices. Unfortunately, many of those products use their own
-    proprietary interfaces, so we end up with isolated products
-    that don't talk to each other, and that rely on cloud-based
-    services (which may be unreliable or slow due to network
-    conditions).
-
-    Fortunately, there are many ways to make some of these
-    proprietary products work locally, interact with each other and
-    centralize them, allowing us to control and manage them from a
-    single service, instead of using a different app for each
-    device. In this talk, we will discuss some of the ways to do
-    that using open-source software like Home Assistant. We will
-    also take a look at some of the most common technologies used
-    in Home Automation, and even how to get rid of proprietary
-    firmware and use open-source ones!
+    What is this new [flutter](https://flutter.dev/) thing?
+    What is [Dart](https://www.dartlang.org) and where has it been all my life?
+    Let's check this things out while building a tiny project.
 - start: "20:30"
   title: Dinner
   summary: |
