@@ -22,3 +22,4 @@ end
 `cp src/main.css build/main.css`
 `cp -r src/fonts build/fonts`
 `cp -r data/slides build/slides`
+`cp -r data/sponsors build/sponsors`

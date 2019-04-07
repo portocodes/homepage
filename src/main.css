@@ -222,9 +222,10 @@ section#schedule li .p-summary {
   font-weight: 100;
 }
 
-.projection { font-size: 2em; }
+.projection { font-size: 2em; -webkit-print-color-adjust: exact; }
 .projection header { height: 100vh; display: flex; align-items: center; justify-content: center; }
 .projection nav { display: none; }
-.projection section { height: calc(100vh - 20px - 4rem); }
+.projection section { height: calc(100vh - 4rem); border-top: 0; }
 .projection header, .projection main { max-width: none; }
 .projection .cta a { color: var(--cta-fg-color); }
+.projection section.sponsors img { max-width: 100%; max-height: 100%; }
