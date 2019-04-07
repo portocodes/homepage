@@ -13,6 +13,12 @@
     </header>
 
     <main>
+      {{#current.sponsors}}
+      <section class="sponsors" id="sponsor-{{.}}" tabindex="1">
+        <img src="/sponsors/{{.}}.png" />
+      </section>
+      {{/current.sponsors}}
+
       <section id="introduction" tabindex="2">
         <h2>Porto Codes</h2>
         <p><a href="">https://porto.codes</a></p>

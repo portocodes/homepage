@@ -16,6 +16,7 @@ end
 def feed
   open("https://rss.simplecast.com/podcasts/1418/rss")
     .read
+    .force_encoding("UTF-8")
     .tap { |body| File.write("cache/rss", body) }
 rescue
   open("cache/rss")
