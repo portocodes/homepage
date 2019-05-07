@@ -13,7 +13,7 @@ Dir['data/speakers/*.yml']
   slides
 ].each do |page|
   if File.exists?("src/pages/#{page}.rb")
-    `ruby src/pages/#{page}.rb`
+    print `ruby src/pages/#{page}.rb`
   else
     `cp src/pages/#{page}.html build/#{page}.html`
   end
