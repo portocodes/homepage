@@ -1,7 +1,7 @@
 date: 2019-04-11
-id: 'rsjhnqyzgbpb'
+id: 'rsjhnqyzhbmb'
 sponsors:
-  - portoio
+  - significa
 schedule:
 - start: "19:00"
   title: Doors open
@@ -12,12 +12,14 @@ schedule:
   summary: |
     Short introduction to the Porto Codes project.
 - start: "19:30"
-  title: Playing around with Flutter
-  speaker: rapzo
+  title: Email me maybe
+  speaker: punnie
   summary: |
-    What is this new [flutter](https://flutter.dev/) thing?
-    What is [Dart](https://www.dartlang.org) and where has it been all my life?
-    Let's check this things out while building a tiny project.
+    Build your own email server! First we'll see how email works both in theory
+    and in practice, and the stuff you'll need before building your own server.
+    We'll then go through the steps to build one ourselves, hopefully see it in
+    action, and in the end we'll discuss a bit whether this is a good idea and
+    some peculiarities you may find along the way.
 - start: "20:30"
   title: Dinner
   summary: |
