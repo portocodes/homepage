@@ -7,3 +7,6 @@ desc:
 
 dates:
 	ruby src/dates.rb
+
+advance:
+	ruby src/advance-edition.rb
