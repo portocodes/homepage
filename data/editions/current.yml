@@ -1,30 +1,33 @@
-date: 2019-05-09
-id: 'rsjhnqyzhbmb'
+---
+date: 2019-06-13
+id: rsjhnqyzjbrb
+location: Porto i/o Santa Catarina
 sponsors:
-  - significa
+- portoio
 schedule:
-- start: "19:00"
+- start: '19:00'
   title: Doors open
-  summary: |
-    Come and hang out while we struggle with our A/V setup.
-- start: "19:25"
+  summary: Come and hang out while we struggle with our A/V setup.
+- start: '19:25'
   title: Opening remarks
+  summary: Short introduction to the Porto Codes project.
+- start: '19:30'
+  title: 'Thriving through the hype cycle: an Ember.js story'
+  speaker: locks
   summary: |
-    Short introduction to the Porto Codes project.
-- start: "19:30"
-  title: Email me maybe
-  speaker: punnie
-  summary: |
-    Build your own email server! First we'll see how email works both in theory
-    and in practice, and the stuff you'll need before building your own server.
-    We'll then go through the steps to build one ourselves, hopefully see it in
-    action, and in the end we'll discuss a bit whether this is a good idea and
-    some peculiarities you may find along the way.
-- start: "20:30"
+    The front-end development community has been through a fair share of hype
+    cycles in the last ten years. In this time, we have seen libraries and
+    frameworks come and go, sometimes even disappearing completely like
+    batman.js.
+
+    In this talk we will cover how the Ember.js project has managed not only
+    to keep up with the hype cycles, but to continually push the framework
+    and the web forward and bring its users along. We will close off the
+    presentation by talking how this culminates in the concept of editions,
+    the first of which is Ember Octane.
+- start: '20:30'
   title: Dinner
-  summary: |
-    Join us for dinner, usually at Estambul Doner Kebap.
-- start: "22:00"
+  summary: Join us for dinner, usually at Estambul Doner Kebap.
+- start: '22:00'
   title: Ice cream!
-  summary: |
-    Come rain or shine, we go for ice cream at Santini.
+  summary: Come rain or shine, we go for ice cream at Santini.

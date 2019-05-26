@@ -58,7 +58,7 @@
           <p><b>{{human_date}}</b></p>
 
           {{#talks}}
-          <p>{{title}}, by <a href="{{speaker.url}}">{{speaker.name}}</a></p>
+          <p>{{title}}{{#speaker}}, by <a href="{{speaker.url}}">{{speaker.name}}</a>{{/speaker}}</p>
           {{/talks}}
 
         {{/editions}}

@@ -11,12 +11,12 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
     <copyright>© 2017 Conversas em Código</copyright>
     <language>pt-pt</language>
     <link>https://porto.codes</link>
-    <pubDate>Mon, 5 Oct 2015 18:10:12 +0000</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2019 07:00:14 +0000</lastBuildDate>
+    <pubDate>Sun, 19 May 2019 07:00:00 +0000</pubDate>
+    <lastBuildDate>Sat, 25 May 2019 14:59:34 +0000</lastBuildDate>
     <image>
       <link>https://porto.codes</link>
       <title>Conversas em Código</title>
-      <url>https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/1400x1400/1459351089artwork.jpg?aid=rss_feed</url>
+      <url>https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/3000x3000/1459351089artwork.jpg?aid=rss_feed</url>
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:summary>De uma parceria entre três programadores, surge um podcast em português sobre programação. 
@@ -24,7 +24,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos temas relacionados com a área de programação, desde linguagens e bibliotecas, a metodologias e comunidades.</itunes:summary>
     <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/1400x1400/1459351089artwork.jpg?aid=rss_feed"/>
+    <itunes:image href="https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/3000x3000/1459351089artwork.jpg?aid=rss_feed"/>
     <itunes:new-feed-url>https://feeds.simplecast.com/lc7MGv1u</itunes:new-feed-url>
     <itunes:keywords>programação</itunes:keywords>
     <itunes:owner>
@@ -35,6 +35,35 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
     <itunes:category text="Technology">
       <itunes:category text="Podcasting"/>
     </itunes:category>
+    <item>
+      <guid isPermalink="false">952eb783-68f8-4296-b6f0-a78f84a8d197</guid>
+      <title>Ep. 20 - Internacionalização, bandeiras, e inputs</title>
+      <description>Neste episódio falamos sobre os desafios em ter produtos disponíveis em várias línguas.</description>
+      <pubDate>Sun, 19 May 2019 07:00:00 +0000</pubDate>
+      <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
+      <link>https://conversas.simplecast.com/episodes/ep-20-internacionaliza-o-afiIQdcq</link>
+      <content:encoded>
+        <![CDATA[<ul>
+<li><a href="http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/">Why Flags do not represent languages</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Language_Icon">Language icon</a></li>
+<li><a href="https://www.ctrl.blog/entry/html5-input-number-localization.html">HTML5 input number localization</a></li>
+<li><a href="https://momentjs.com/">Momentjs</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString">Date.prototype.toLocaleDateString</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl">Intl</a></li>
+</ul>
+]]>
+      </content:encoded>
+      <enclosure length="20355684" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/da9c8ae2-97c1-4665-8f20-cb53da311bab/internacional_tc.mp3?aid=rss_feed"/>
+      <itunes:title>Ep. 20 - Internacionalização, bandeiras, e inputs</itunes:title>
+      <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
+      <itunes:duration>00:24:14</itunes:duration>
+      <itunes:summary>Neste episódio falamos sobre os desafios em ter produtos disponíveis em várias línguas.</itunes:summary>
+      <itunes:subtitle>Neste episódio falamos sobre os desafios em ter produtos disponíveis em várias línguas.</itunes:subtitle>
+      <itunes:keywords>momentjs, l10n, html5, i18n</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>25</itunes:episode>
+    </item>
     <item>
       <guid isPermalink="false">e248ba88-a5c9-4c49-bcfa-b3761af8e4c1</guid>
       <title>Ep. 19 - Experiência com websockets </title>
