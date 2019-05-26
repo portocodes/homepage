@@ -13,7 +13,8 @@ current["schedule"].each do |item|
   description << <<-EOF
 ## #{item["start"]} #{item["title"]}
 
-#{item["summary"]}
+#{item["summary"].chomp("\n")}
+
   EOF
 end
 
