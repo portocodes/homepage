@@ -5,12 +5,10 @@ sponsors:
 schedule:
 - start: "19:00"
   title: Doors open
-  summary: |
-    Come and hang out while we struggle with our A/V setup.
+  summary: Come and hang out while we struggle with our A/V setup.
 - start: "19:25"
   title: Opening remarks
-  summary: |
-    Short introduction to the Porto Codes project.
+  summary: Short introduction to the Porto Codes project.
 - start: "19:30"
   title: Email me maybe
   speaker: punnie
@@ -22,9 +20,7 @@ schedule:
     some peculiarities you may find along the way.
 - start: "20:30"
   title: Dinner
-  summary: |
-    Join us for dinner, usually at Estambul Doner Kebap.
+  summary: Join us for dinner, usually at Estambul Doner Kebap.
 - start: "22:00"
   title: Ice cream!
-  summary: |
-    Come rain or shine, we go for ice cream at Santini.
+  summary: Come rain or shine, we go for ice cream at Santini.
