@@ -1,6 +1,13 @@
+---
 date: 2019-08-08
 id: 'rsjhnqyzlblb'
 talks:
-  - title: To be announced
-    speaker:
-    summary:
+- title: How to get over 300GB of 3D data to the web in real time.
+  speaker: tentone
+  summary: |
+    At UNO Digital we develop solutions for the oil and gas industry. One of
+    our products is world scale visualization for geospacial data, point clouds
+    and CAD models. This information is combined with asset management and
+    monitoring data from our platform to create real time visualizations of
+    production plants. In this talk we will present the challenges we faced
+    while trying to deliver over 300GB of 3D data to the web at record time.

@@ -21,27 +21,44 @@ def speaker(filename)
 
   cache(contents) do
     speaker = YAML.load(contents)
-    speaker.merge!(username: username)
-    speaker.merge!(linkedin(speaker["linkedin"])) if speaker.include?("linkedin")
-    speaker.merge!(github(speaker["github"])) if speaker.include?("github")
+    speaker = [
+      linkedin(speaker["linkedin"]),
+      twitter(speaker["twitter"]),
+      github(speaker["github"]),
+      speaker,
+      { "username" => username },
+    ].reduce(&:merge)
+
     JSON.generate(speaker)
   end.yield_self { |s| JSON.parse(s) }
 end
 
 def github(username)
+  return {} if username.nil?
+
   creds = [ENV["GITHUB_USERNAME"], ENV["GITHUB_PASSWORD"]]
 
   result = JSON.parse(open("https://api.github.com/users/#{username}", http_basic_authentication: creds).read)
 
   {
-    name: result.fetch("name"),
-    avatar: result.fetch("avatar_url"),
-    url: result.fetch("html_url"),
+    "name" => result.fetch("name"),
+    "avatar" => result.fetch("avatar_url"),
+    "url" => result.fetch("html_url"),
   }
 end
 
 def linkedin(username)
+  return {} if username.nil?
+
   {
-    url: "https://www.linkedin.com/in/#{username}/",
+    "url" => "https://www.linkedin.com/in/#{username}/",
+  }
+end
+
+def twitter(username)
+  return {} if username.nil?
+
+  {
+    "url" => "https://twitter.com/#{username}",
   }
 end

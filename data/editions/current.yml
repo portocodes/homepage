@@ -1,6 +1,6 @@
 ---
-date: 2019-06-13
-id: rsjhnqyzjbrb
+date: 2019-07-11
+id: rsjhnqyzkbpb
 location: Porto i/o Santa Catarina
 sponsors:
 - portoio
@@ -12,19 +12,28 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: 'Thriving through the hype cycle: an Ember.js story'
-  speaker: locks
+  title: To be announced
+  speaker: inundaciones
+  summary: ''
+- start: '19:40'
+  title: 'Future of computing: a summary'
+  speaker: rui-teixeira
+  summary: ''
+- start: '19:50'
+  title: Building 3D web applications using nunuStudio
+  speaker: tentone
   summary: |
-    The front-end development community has been through a fair share of hype
-    cycles in the last ten years. In this time, we have seen libraries and
-    frameworks come and go, sometimes even disappearing completely like
-    batman.js.
-
-    In this talk we will cover how the Ember.js project has managed not only
-    to keep up with the hype cycles, but to continually push the framework
-    and the web forward and bring its users along. We will close off the
-    presentation by talking how this culminates in the concept of editions,
-    the first of which is Ember Octane.
+    nunuStudio is a web based 3D editor and game engine, in this talk we will
+    discover how its possible to build and integrate a feature rich 3D
+    experience into your web application.
+- start: '20:00'
+  title: Using Percy for visual regression testing
+  speaker: locks
+  summary: ''
+- start: '20:10'
+  title: 'asdf: Extensible version manager'
+  speaker: hugopeixoto
+  summary: Replace rvm, pyenv, nvm, and more with a single tool.
 - start: '20:30'
   title: Dinner
   summary: Join us for dinner, usually at Estambul Doner Kebap.
