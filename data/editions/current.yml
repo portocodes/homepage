@@ -35,8 +35,5 @@ schedule:
   speaker: hugopeixoto
   summary: Replace rvm, pyenv, nvm, and more with a single tool.
 - start: '20:30'
-  title: Dinner
-  summary: Join us for dinner, usually at Estambul Doner Kebap.
-- start: '22:00'
-  title: Ice cream!
-  summary: Come rain or shine, we go for ice cream at Santini.
+  title: Dinner and ice cream
+  summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine, we go for ice cream at Santini.
