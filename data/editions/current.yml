@@ -12,7 +12,7 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: To be announced
+  title: Livecoding shaders with Atom - Veda.gl
   speaker: inundaciones
   summary: ''
 - start: '19:40'
