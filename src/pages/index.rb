@@ -24,7 +24,7 @@ current = File
     current.merge(
       schedule: current["schedule"].map do |i|
         i.merge(
-          summary: Kramdown::Document.new(i["summary"]).to_html,
+          summary: i["summary"]&.then { |summary| Kramdown::Document.new(summary).to_html },
           speaker: speakers[i["speaker"]],
         )
       end,

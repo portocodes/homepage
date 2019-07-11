@@ -1,8 +1,24 @@
 require 'yaml'
 
+require_relative './speaker.rb'
+
+speakers = Dir["data/speakers/*.yml"]
+  .map { |filename| speaker(filename) }
+  .map { |speaker| [speaker["username"], speaker] }
+  .to_h
+
 current = File
   .read("data/editions/current.yml")
   .yield_self(&YAML.method(:load))
+  .yield_self do |current|
+    current.merge(
+      "schedule" => current["schedule"].map do |i|
+        i.merge(
+          "speaker" => speakers[i["speaker"]]&.fetch("name"),
+        )
+      end,
+    )
+  end
 
 description = <<-EOF
 # Agenda
@@ -11,7 +27,7 @@ EOF
 
 current["schedule"].each do |item|
   description << <<-EOF
-## #{item["start"]} #{item["title"]}
+## #{item["start"]} #{item["title"]}#{", by #{item["speaker"]}" if item["speaker"]}
 
 #{item["summary"].chomp("\n")}
 
