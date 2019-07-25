@@ -1,6 +1,6 @@
 ---
-date: 2019-07-11
-id: rsjhnqyzkbpb
+date: 2019-07-25
+id: '262902590'
 location: Porto i/o Santa Catarina
 sponsors:
 - portoio
@@ -12,28 +12,10 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: Livecoding shaders with Atom - Veda.gl
-  speaker: inundaciones
-  summary: ''
-- start: '19:40'
-  title: 'Future of computing: a summary'
-  speaker: rui-teixeira
-  summary: ''
-- start: '19:50'
-  title: Building 3D web applications using nunuStudio
-  speaker: tentone
-  summary: |
-    nunuStudio is a web based 3D editor and game engine, in this talk we will
-    discover how its possible to build and integrate a feature rich 3D
-    experience into your web application.
-- start: '20:00'
-  title: Using Percy for visual regression testing
-  speaker: locks
-  summary: ''
-- start: '20:10'
-  title: 'asdf: Extensible version manager'
-  speaker: hugopeixoto
-  summary: Replace rvm, pyenv, nvm, and more with a single tool.
+  title: 'Virtual ARt Gallery: building with Augmented Reality'
+  speaker: dougsillars
+  summary: 
 - start: '20:30'
   title: Dinner and ice cream
-  summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine, we go for ice cream at Santini.
+  summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
+    we go for ice cream at Santini.
