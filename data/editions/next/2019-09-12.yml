@@ -1,0 +1,9 @@
+date: 2019-09-12
+id: 'rsjhnqyzmbqb'
+talks:
+- title: Living inside GNU Emacs
+  speaker: aadcg
+  summary: |
+    An extensible, customizable, free/libre text editor — and more. At its core
+    is an interpreter for Emacs Lisp, a dialect of the Lisp programming
+    language with extensions to support text editing.
