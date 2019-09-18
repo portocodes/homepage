@@ -1,6 +1,6 @@
 ---
-date: 2019-09-12
-id: rsjhnqyzmbqb
+date: 2019-10-10
+id: rsjhnqyznbnb
 location: Porto i/o Santa Catarina
 sponsors:
 - portoio
@@ -12,21 +12,23 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: Living inside GNU Emacs
-  speaker: aadcg
+  title: Elm
+  speaker: decioferreira
   summary: |
-    Today's technological world is both exciting and alarming.
+    Elm is a functional language for reliable webapps, with a very strong
+    emphasis on usability, performance, and robustness.
 
-    Exciting because we have the tools to solve the challenging problems of our
-    overpopulated planet. The vision of a connected, peaceful and fair world
-    feels closer than ever.
+    Elm compiles to JavaScript, and is most well known for:
 
-    Alarming because tech companies provide tons of malware that people greet
-    without questioning - exchanging their freedom for a fake sense of pleasure
-    and a fake sense of productivity.
+    - No runtime errors in practice. No null. No undefined is not a function.
+    - Friendly error messages that help you add features more quickly.
+    - Well-architected code that stays well-architected as your app grows.
+    - Automatically enforced semantic versioning for all Elm packages.
 
-    In this talk, I will show that GNU Emacs is the perfect environment for a
-    focused and free life in a world full of corrupted people and bullshit.
+    By the end of this talk I hope you will be able to create your own web
+    application in Elm, understand how it compares with other projects like
+    React as a tool for creating websites and web apps, but also understand the
+    core ideas and patterns that make Elm nice to use.
 - start: '20:30'
   title: Dinner and ice cream
   summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
