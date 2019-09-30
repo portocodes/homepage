@@ -11,6 +11,7 @@ Dir['data/speakers/*.yml']
   previous
   speak
   slides
+  hacktoberfest2019
 ].each do |page|
   if File.exists?("src/pages/#{page}.rb")
     print `ruby src/pages/#{page}.rb`
@@ -21,5 +22,6 @@ end
 
 `cp src/main.css build/main.css`
 `cp -r src/fonts build/fonts`
+`cp -r src/images build/images`
 `cp -r data/slides build/slides`
 `cp -r data/sponsors build/sponsors`
