@@ -39,6 +39,7 @@ editions = Dir["data/editions/next/*.yml"]
       date: edition["date"],
       title: edition["title"] || "Monthly meetup",
       human_date: fmt_date(edition["date"]),
+      summary: edition["summary"]&.then { |summary| Kramdown::Document.new(summary).to_html },
       talks: edition.fetch("talks", []).map do |talk|
         puts "unknown speaker #{talk["speaker"]}" if speakers[talk["speaker"]].nil?
 

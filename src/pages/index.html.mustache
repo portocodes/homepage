@@ -20,6 +20,17 @@
     </nav>
 
     <main>
+      <section id="hacktoberfest2019">
+        <p>
+          <strong>Note:</strong>
+          During the month of October, we're hosting a couple of events
+          dedicated to Hacktoberfest 2019. Join us!
+        </p>
+
+        <a href="./hacktoberfest2019.html" class="cta">
+         See details
+        </a>
+      </section>
       <section id="introduction">
         <p>
           Porto Codes is a monthly meet-up where we share technology related
@@ -62,10 +73,15 @@
           <h2>{{title}}</h2>
           <p><b>{{human_date}}</b></p>
 
+          {{{summary}}}
+
           {{#talks}}
           <p>{{title}}{{#speaker}}, by <a href="{{speaker.url}}">{{speaker.name}}</a>{{/speaker}}</p>
           {{/talks}}
 
+          <a href="https://www.meetup.com/portocodes/events/{{current.id}}/" class="cta">
+           RSVP on our meetup page
+          </a>
         {{/editions}}
       </section>
 
