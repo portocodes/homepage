@@ -31,7 +31,7 @@ episodes = Oga
     {
       title: i.xpath('title')[0].text.strip,
       url: i.xpath('link')[0].text.strip,
-      description: i.xpath('description')[0].text.strip,
+      description: i.xpath('itunes:summary')[0].text.strip,
       published: published,
       published_readable: fmt_date(published),
     }
