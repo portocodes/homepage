@@ -1,7 +1,7 @@
 date: 2019-11-14
 id: 'rsjhnqyzpbsb'
 talks:
-  - title: A serveless case study with AWS
+  - title: A serverless case study with AWS
     speaker: luismiguel
     summary: |
       A full-fledged CMS can easily keep records of tasks input by users,
