@@ -45,6 +45,7 @@ editions = Dir["data/editions/next/*.yml"]
 
         talk.merge(
           speaker: speakers[talk["speaker"]],
+          summary: talk["summary"]&.then { |summary| Kramdown::Document.new(summary).to_html },
         )
       end,
     )
