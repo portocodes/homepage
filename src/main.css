@@ -51,6 +51,10 @@ body {
   font-family: var(--base-font-family);
 }
 
+dt {
+  margin-top: 1em;
+}
+
 header, nav, main {
   max-width: 42rem;
   margin: 0px auto;
