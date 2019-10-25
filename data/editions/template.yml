@@ -1,0 +1,17 @@
+---
+location: Porto i/o Santa Catarina
+sponsors:
+- portoio
+schedule:
+- start: '19:00'
+  title: Doors open
+  summary: Come and hang out while we struggle with our A/V setup.
+- start: '19:25'
+  title: Opening remarks
+  summary: Short introduction to the Porto Codes project.
+- talks
+- start: '20:30'
+  title: Dinner and ice cream
+  summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
+    we go for ice cream at Santini.
+

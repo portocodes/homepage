@@ -1,6 +1,4 @@
 ---
-date: 2019-10-10
-id: rsjhnqyznbnb
 location: Porto i/o Santa Catarina
 sponsors:
 - portoio
@@ -12,24 +10,28 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: Elm
-  speaker: decioferreira
+  title: A serverless case study with AWS
+  speaker: luismiguel
   summary: |
-    Elm is a functional language for reliable webapps, with a very strong
-    emphasis on usability, performance, and robustness.
-
-    Elm compiles to JavaScript, and is most well known for:
-
-    - No runtime errors in practice. No null. No undefined is not a function.
-    - Friendly error messages that help you add features more quickly.
-    - Well-architected code that stays well-architected as your app grows.
-    - Automatically enforced semantic versioning for all Elm packages.
-
-    By the end of this talk I hope you will be able to create your own web
-    application in Elm, understand how it compares with other projects like
-    React as a tool for creating websites and web apps, but also understand the
-    core ideas and patterns that make Elm nice to use.
+    A full-fledged CMS can easily keep records of tasks input by users,
+    process those tasks into a queue, communicate them to a job factory, and
+    notify users of the results. We decided we didn’t want to manage a full
+    CMS just for that, going serverless was the perfect alternative.
+- start: '19:30'
+  title: How Ember.js revamped their infrastructure
+  speaker: locks
+  summary: |
+    The Ember project has many associated websites, the guides, the
+    deprecation guides, the blog, the API documentation, and the main website
+    itself. These were built over the years as needed and used a mishmash of
+    technologies (middleman, embedded Ember, standalone Ember), which made it
+    hard for both maintainers and new contributors to the project. To take
+    advantage of the Ember knowledge and skills in the community, we started
+    moving projects to Ember. In this presentation I will be covering how we
+    are using JAMstack practices to accomplish this migration.
 - start: '20:30'
   title: Dinner and ice cream
   summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
     we go for ice cream at Santini.
+id: rsjhnqyzpbsb
+date: 2019-11-14
