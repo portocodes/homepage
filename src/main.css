@@ -240,3 +240,7 @@ section#schedule li .p-summary {
   display: block;
   margin-left: 2em;
 }
+
+.hacktoberfest-directions {
+  width: 100%;
+}

@@ -12,6 +12,7 @@ Dir['data/speakers/*.yml']
   speak
   slides
   hacktoberfest2019
+  hacktoberfest2019location
 ].each do |page|
   if File.exists?("src/pages/#{page}.rb")
     print `ruby src/pages/#{page}.rb`
