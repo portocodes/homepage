@@ -28,7 +28,7 @@ current = template
 current["id"] = following["id"]
 current["date"] = following["date"]
 current["schedule"] = template["schedule"].map do |talk|
-  if talk == "talk"
+  if talk == "talks"
     (following["talks"] || []).map { |t2| { "start" => "19:30" }.merge t2 }
   else
     talk
