@@ -10,28 +10,20 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: A serverless case study with AWS
-  speaker: luismiguel
+  title: Infrastructure as code using Terraform
+  speaker: hugopeixoto
   summary: |
-    A full-fledged CMS can easily keep records of tasks input by users,
-    process those tasks into a queue, communicate them to a job factory, and
-    notify users of the results. We decided we didn’t want to manage a full
-    CMS just for that, going serverless was the perfect alternative.
-- start: '19:30'
-  title: How Ember.js revamped their infrastructure
-  speaker: locks
-  summary: |
-    The Ember project has many associated websites, the guides, the
-    deprecation guides, the blog, the API documentation, and the main website
-    itself. These were built over the years as needed and used a mishmash of
-    technologies (middleman, embedded Ember, standalone Ember), which made it
-    hard for both maintainers and new contributors to the project. To take
-    advantage of the Ember knowledge and skills in the community, we started
-    moving projects to Ember. In this presentation I will be covering how we
-    are using JAMstack practices to accomplish this migration.
+    We use git to keep track of what changes we do to our code, and why we do
+    them. Some use Chef/Salt/Puppet to keep track of server installations. I
+    use terraform to apply the same process to manage my AWS accounts, both
+    personal and professional.
+
+    This doesn't apply only to your standard cloud providers (AWS, GCP,
+    Azure). I also manage resources on Heroku, Netlify, Fastly, GitHub,
+    Gitlab, and other tools.
 - start: '20:30'
   title: Dinner and ice cream
   summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
     we go for ice cream at Santini.
-id: rsjhnqyzpbsb
-date: 2019-11-14
+id: rsjhnqyzqbqb
+date: 2019-12-19
