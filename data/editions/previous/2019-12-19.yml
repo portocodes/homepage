@@ -1,0 +1,15 @@
+---
+id: rsjhnqyzqbqb
+date: 2019-12-19
+talks:
+- title: Infrastructure as code using Terraform
+  speaker: hugopeixoto
+  summary: |
+    We use git to keep track of what changes we do to our code, and why we do
+    them. Some use Chef/Salt/Puppet to keep track of server installations. I
+    use terraform to apply the same process to manage my AWS accounts, both
+    personal and professional.
+
+    This doesn't apply only to your standard cloud providers (AWS, GCP,
+    Azure). I also manage resources on Heroku, Netlify, Fastly, GitHub,
+    Gitlab, and other tools.
