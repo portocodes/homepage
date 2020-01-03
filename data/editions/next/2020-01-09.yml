@@ -1,0 +1,9 @@
+date: 2020-01-09
+id: 'rsjhnqybccbmb'
+talks:
+- title: Porto Codes - Code for Humans and juniors
+  speaker: hugomeireles
+  summary: |
+    We are going to talk about some important practices around clean code and why
+    this was important to improve my code skills. We will make refactoring
+    improvements in a nodeJS app.
