@@ -10,7 +10,7 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: Porto Codes - Code for Humans and juniors
+  title: Code for Humans and juniors
   speaker: hugomeireles
   summary: |
     We are going to talk about some important practices around clean code and why
