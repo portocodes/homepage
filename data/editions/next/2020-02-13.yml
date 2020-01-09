@@ -3,3 +3,6 @@ date: 2020-02-12
 title: Porto Codes welcomes Braga.JS
 summary: |
   This month we will bring you a speaker from the Braga.JS community.
+talks:
+- speaker: andrefreitas
+  title: How to backfill large Postgres tables like Usain Bolt
