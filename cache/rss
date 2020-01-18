@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <atom:link href="https://feeds.simplecast.com/lc7MGv1u" rel="self" title="MP3 Audio" type="application/atom+xml"/>
-    <link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom"/>
     <generator>https://simplecast.com</generator>
     <title>Conversas em Código</title>
     <description>De uma parceria entre três programadores, surge um podcast em português sobre programação. 
@@ -10,21 +10,21 @@
 Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos temas relacionados com a área de programação, desde linguagens e bibliotecas, a metodologias e comunidades.</description>
     <copyright>© 2017 Conversas em Código</copyright>
     <language>pt-pt</language>
-    <link>https://porto.codes</link>
     <pubDate>Mon, 27 May 2019 08:00:19 +0000</pubDate>
-    <lastBuildDate>Tue, 9 Jul 2019 17:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 5 Jan 2020 14:36:34 +0000</lastBuildDate>
     <image>
       <link>https://porto.codes</link>
       <title>Conversas em Código</title>
-      <url>https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/3000x3000/1459351089artwork.jpg?aid=rss_feed</url>
+      <url>https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/3000x3000/1459351089artwork.jpg?&amp;aid=rss_feed</url>
     </image>
+    <link>https://porto.codes</link>
     <itunes:type>episodic</itunes:type>
     <itunes:summary>De uma parceria entre três programadores, surge um podcast em português sobre programação. 
 
 Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos temas relacionados com a área de programação, desde linguagens e bibliotecas, a metodologias e comunidades.</itunes:summary>
     <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/3000x3000/1459351089artwork.jpg?aid=rss_feed"/>
+    <itunes:image href="https://cdn.simplecast.com/images/07a39407-c42a-4bd8-b41b-2539e031bc2e/bba6a46b-f6f7-4977-b73e-233b107332d4/3000x3000/1459351089artwork.jpg?&amp;aid=rss_feed"/>
     <itunes:new-feed-url>https://feeds.simplecast.com/lc7MGv1u</itunes:new-feed-url>
     <itunes:keywords>programação</itunes:keywords>
     <itunes:owner>
@@ -32,9 +32,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
       <itunes:email>rokusu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology"/>
-    <itunes:category text="Technology">
-      <itunes:category text="Podcasting"/>
-    </itunes:category>
+    <itunes:category text="Technology"/>
     <item>
       <guid isPermaLink="false">8dfb4014-47cc-4b01-abad-8817e7d2fed9</guid>
       <title>Ep. 21 - Ruby 2.7 e Ruby 3.0</title>
@@ -93,7 +91,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="15924698" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/71e6c836-b1b5-44fc-9101-7b4cc44035f7/ruby_2_7_ruby_3_0_tc.mp3?aid=rss_feed"/>
+      <enclosure length="15924698" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/71e6c836-b1b5-44fc-9101-7b4cc44035f7/ruby_2_7_ruby_3_0_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 21 - Ruby 2.7 e Ruby 3.0</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
       <itunes:duration>00:18:57</itunes:duration>
@@ -131,20 +129,20 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="20355684" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/da9c8ae2-97c1-4665-8f20-cb53da311bab/internacional_tc.mp3?aid=rss_feed"/>
+      <enclosure length="20355684" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/da9c8ae2-97c1-4665-8f20-cb53da311bab/internacional_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 20 - Internacionalização, bandeiras, e inputs</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
       <itunes:duration>00:24:14</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre os desafios em ter produtos disponíveis em várias línguas.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre os desafios em ter produtos disponíveis em várias línguas.</itunes:subtitle>
-      <itunes:keywords>momentjs, l10n, html5, i18n</itunes:keywords>
+      <itunes:keywords>html5, l10n, i18n, momentjs</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>25</itunes:episode>
     </item>
     <item>
       <guid isPermaLink="false">e248ba88-a5c9-4c49-bcfa-b3761af8e4c1</guid>
-      <title>Ep. 19 - Experiência com websockets </title>
+      <title>Ep. 19 - Experiência com websockets</title>
       <description>
         <![CDATA[<h2>Shownotes</h2>
 <ul>
@@ -188,8 +186,8 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="12982870" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9db89de7-09bb-4df5-bc2c-5eb9bb325947/twilio_3_tc.mp3?aid=rss_feed"/>
-      <itunes:title>Ep. 19 - Experiência com websockets </itunes:title>
+      <enclosure length="12982870" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9db89de7-09bb-4df5-bc2c-5eb9bb325947/twilio_3_tc.mp3?&amp;aid=rss_feed"/>
+      <itunes:title>Ep. 19 - Experiência com websockets</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
       <itunes:duration>00:15:27</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre uma experiência a construir um sistema de videoconferência apoiado no twilio e em websockets.</itunes:summary>
@@ -244,13 +242,13 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="12203553" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/89e7a129-062c-40f2-8af7-f4ec5b2d6e98/site_porto_codes_1_tc.mp3?aid=rss_feed"/>
+      <enclosure length="12203553" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/89e7a129-062c-40f2-8af7-f4ec5b2d6e98/site_porto_codes_1_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 18 - Sites Estáticos e Porto Codes</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
       <itunes:duration>00:14:32</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre as nossas aventuras em desenvolver um site estático para o meetup Porto Codes.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre as nossas aventuras em desenvolver um site estático para o meetup Porto Codes.</itunes:subtitle>
-      <itunes:keywords>meetup, static site, programming, porto codes</itunes:keywords>
+      <itunes:keywords>porto codes, static site, programming, meetup</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>23</itunes:episode>
@@ -297,7 +295,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Sat, 16 Mar 2019 13:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Mar 2019 12:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
       <link>https://conversas.simplecast.com/episodes/ep-17-activitypub-a4784fd5</link>
       <content:encoded>
@@ -339,14 +337,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="35433933" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/246c67f3-9048-4a45-af8c-ea2708e10c6f/a4784fd5_tc.mp3?aid=rss_feed"/>
+      <enclosure length="35433933" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/246c67f3-9048-4a45-af8c-ea2708e10c6f/a4784fd5_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 17 - ActivityPub</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/246c67f3-9048-4a45-af8c-ea2708e10c6f/3000x3000/1552665716artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/246c67f3-9048-4a45-af8c-ea2708e10c6f/3000x3000/1552665716artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:42:10</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre protocolos de federação, e sobre as dores de cabeça de gravar multimédia.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre protocolos de federação, e sobre as dores de cabeça de gravar multimédia.</itunes:subtitle>
-      <itunes:keywords>webfinger, fosdem, porto codes, activitypub</itunes:keywords>
+      <itunes:keywords>porto codes, activitypub, webfinger, fosdem</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>22</itunes:episode>
@@ -369,7 +367,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Mon, 21 Jan 2019 21:35:00 +0000</pubDate>
+      <pubDate>Mon, 21 Jan 2019 20:35:00 +0000</pubDate>
       <author>rokusu@gmail.com (RIcardo Mendes, Hugo Peixoto)</author>
       <link>https://conversas.simplecast.com/episodes/ep-16-mustache-ab45eca6</link>
       <content:encoded>
@@ -387,10 +385,10 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="30433535" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/00e90bf3-0eef-4673-903e-9f9fae9ad850/ab45eca6_tc.mp3?aid=rss_feed"/>
+      <enclosure length="30433535" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/00e90bf3-0eef-4673-903e-9f9fae9ad850/ab45eca6_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 16 - mustache</itunes:title>
       <itunes:author>RIcardo Mendes, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/00e90bf3-0eef-4673-903e-9f9fae9ad850/3000x3000/1547910164artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/00e90bf3-0eef-4673-903e-9f9fae9ad850/3000x3000/1547910164artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:36:12</itunes:duration>
       <itunes:summary>Neste episódio falamos um pouco sobre mustache, uma linguagem de templating</itunes:summary>
       <itunes:subtitle>Neste episódio falamos um pouco sobre mustache, uma linguagem de templating</itunes:subtitle>
@@ -442,14 +440,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="10217947" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2d996693-8444-4937-b5fe-16649182fc6e/f9aec153_tc.mp3?aid=rss_feed"/>
+      <enclosure length="10217947" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2d996693-8444-4937-b5fe-16649182fc6e/f9aec153_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 15 - Hacktoberfest: blueprinter</itunes:title>
       <itunes:author>Ricardo Mendes, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2d996693-8444-4937-b5fe-16649182fc6e/3000x3000/1539210000artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2d996693-8444-4937-b5fe-16649182fc6e/3000x3000/1539210000artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:12:08</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre uma aventura no mundo do open source e do Hacktoberfest.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre uma aventura no mundo do open source e do Hacktoberfest.</itunes:subtitle>
-      <itunes:keywords>github, ruby, digital ocean, hacktoberfest, open source, open source software, blueprinter</itunes:keywords>
+      <itunes:keywords>blueprinter, ruby, open source, open source software, github, digital ocean, hacktoberfest</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>20</itunes:episode>
@@ -488,14 +486,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="4593625" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/ca23d31f-4c61-444b-a61b-81af6e1ed34e/e3eacbc5_tc.mp3?aid=rss_feed"/>
+      <enclosure length="4593625" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/ca23d31f-4c61-444b-a61b-81af6e1ed34e/e3eacbc5_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 14 - Hacktoberfest</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/ca23d31f-4c61-444b-a61b-81af6e1ed34e/3000x3000/1538763124artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/ca23d31f-4c61-444b-a61b-81af6e1ed34e/3000x3000/1538763124artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:05:27</itunes:duration>
       <itunes:summary>Neste episódio falamos um pouco sobre a iniciativa Hacktoberfest.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos um pouco sobre a iniciativa Hacktoberfest.</itunes:subtitle>
-      <itunes:keywords>open source software, open source, hacktoberfest, digital ocean, github</itunes:keywords>
+      <itunes:keywords>digital ocean, github, open source software, hacktoberfest, open source</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>19</itunes:episode>
@@ -548,7 +546,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Mon, 19 Feb 2018 14:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Feb 2018 13:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
       <link>https://conversas.simplecast.com/episodes/ep-13-utrust-bf8f509c</link>
       <content:encoded>
@@ -596,14 +594,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="41436808" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/646c7764-ebad-468d-84ba-544e0eb1ca25/bf8f509c_tc.mp3?aid=rss_feed"/>
+      <enclosure length="41436808" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/646c7764-ebad-468d-84ba-544e0eb1ca25/bf8f509c_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 13 - UTRUST</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/646c7764-ebad-468d-84ba-544e0eb1ca25/3000x3000/1518911106artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/646c7764-ebad-468d-84ba-544e0eb1ca25/3000x3000/1518911106artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:49:18</itunes:duration>
       <itunes:summary>Neste episódio recebemos o Miguel Palhas para nos falar dos desafios tecnológicos encontrados durante uma Initial Coin Offering (ICO).</itunes:summary>
       <itunes:subtitle>Neste episódio recebemos o Miguel Palhas para nos falar dos desafios tecnológicos encontrados durante uma Initial Coin Offering (ICO).</itunes:subtitle>
-      <itunes:keywords>utrust, ico, subvisual</itunes:keywords>
+      <itunes:keywords>utrust, subvisual, ico</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>18</itunes:episode>
@@ -624,7 +622,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Mon, 30 Oct 2017 09:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Oct 2017 08:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
       <link>https://conversas.simplecast.com/episodes/ep-12-elixir-69365ba6</link>
       <content:encoded>
@@ -640,14 +638,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="56036925" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/0d49ae6d-bda9-4574-8a38-877611f48cea/69365ba6_tc.mp3?aid=rss_feed"/>
+      <enclosure length="56036925" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/0d49ae6d-bda9-4574-8a38-877611f48cea/69365ba6_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 12 - Elixir</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/0d49ae6d-bda9-4574-8a38-877611f48cea/3000x3000/1500980898artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/0d49ae6d-bda9-4574-8a38-877611f48cea/3000x3000/1500980898artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:58:21</itunes:duration>
       <itunes:summary>Neste episódio abordamos a linguagem de programação Elixir e o seu ecossistema.</itunes:summary>
       <itunes:subtitle>Neste episódio abordamos a linguagem de programação Elixir e o seu ecossistema.</itunes:subtitle>
-      <itunes:keywords>erlang, phoenix, elixir</itunes:keywords>
+      <itunes:keywords>elixir, erlang, phoenix</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>17</itunes:episode>
@@ -676,14 +674,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="19093095" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e896c94-fc34-4aab-8f96-30caefcfd6bf/0e3052a5_tc.mp3?aid=rss_feed"/>
+      <enclosure length="19093095" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e896c94-fc34-4aab-8f96-30caefcfd6bf/0e3052a5_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 11 - Glimmer.js</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e896c94-fc34-4aab-8f96-30caefcfd6bf/3000x3000/1500978906artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e896c94-fc34-4aab-8f96-30caefcfd6bf/3000x3000/1500978906artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:19:52</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre Glimmer.js, uma nova biblioteca de componentes JavaScript para a web.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre Glimmer.js, uma nova biblioteca de componentes JavaScript para a web.</itunes:subtitle>
-      <itunes:keywords>web framework, javascript, glimmerjs, emberjs</itunes:keywords>
+      <itunes:keywords>emberjs, web framework, glimmerjs, javascript</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>16</itunes:episode>
@@ -750,14 +748,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="52284906" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/724561c3-397f-4a9a-98a7-bda8ad88aaa5/d31508a4_tc.mp3?aid=rss_feed"/>
+      <enclosure length="52284906" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/724561c3-397f-4a9a-98a7-bda8ad88aaa5/d31508a4_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 10 - GitMerge e FOSDEM</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/724561c3-397f-4a9a-98a7-bda8ad88aaa5/3000x3000/1491817796artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/724561c3-397f-4a9a-98a7-bda8ad88aaa5/3000x3000/1491817796artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:54:27</itunes:duration>
       <itunes:summary>Neste episódio contamos as nossas experiências das conferências GitMerge e FOSDEM.</itunes:summary>
       <itunes:subtitle>Neste episódio contamos as nossas experiências das conferências GitMerge e FOSDEM.</itunes:subtitle>
-      <itunes:keywords>conference, open source, gitmerge, fosdem, git</itunes:keywords>
+      <itunes:keywords>fosdem, git, conference, gitmerge, open source</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>15</itunes:episode>
@@ -776,7 +774,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Thu, 2 Feb 2017 09:00:00 +0000</pubDate>
+      <pubDate>Thu, 2 Feb 2017 08:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
       <link>https://conversas.simplecast.com/episodes/ep-9-subresource-integrity-fd8236de</link>
       <content:encoded>
@@ -790,14 +788,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="3833028" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/35b1e694-0402-4bad-902c-e9789ddbf5c0/fd8236de_tc.mp3?aid=rss_feed"/>
+      <enclosure length="3833028" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/35b1e694-0402-4bad-902c-e9789ddbf5c0/fd8236de_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 9 - Subresource Integrity</itunes:title>
       <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/35b1e694-0402-4bad-902c-e9789ddbf5c0/3000x3000/1485998827artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/35b1e694-0402-4bad-902c-e9789ddbf5c0/3000x3000/1485998827artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:05:46</itunes:duration>
       <itunes:summary>Neste episódio falamos de Subresource Integrity, uma funcionalidade para garantir que os recursos externos nao sofreram manipulacao</itunes:summary>
       <itunes:subtitle>Neste episódio falamos de Subresource Integrity, uma funcionalidade para garantir que os recursos externos nao sofreram manipulacao</itunes:subtitle>
-      <itunes:keywords>csp, sri, subresource integrity</itunes:keywords>
+      <itunes:keywords>subresource integrity, csp, sri</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>14</itunes:episode>
@@ -818,7 +816,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Thu, 1 Dec 2016 09:00:00 +0000</pubDate>
+      <pubDate>Thu, 1 Dec 2016 08:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
       <link>https://conversas.simplecast.com/episodes/ep-8-ruby-24-984a4ad3</link>
       <content:encoded>
@@ -834,10 +832,10 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="21271746" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/dade57b7-041d-4fae-9607-da99f5321d2d/984a4ad3_tc.mp3?aid=rss_feed"/>
+      <enclosure length="21271746" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/dade57b7-041d-4fae-9607-da99f5321d2d/984a4ad3_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 8 - Ruby 2.4</itunes:title>
       <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/dade57b7-041d-4fae-9607-da99f5321d2d/3000x3000/1480382713artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/dade57b7-041d-4fae-9607-da99f5321d2d/3000x3000/1480382713artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:24:16</itunes:duration>
       <itunes:summary>Neste episódio abordamos as novas funcionalidades e mudanças planeadas para o Ruby 2.4.</itunes:summary>
       <itunes:subtitle>Neste episódio abordamos as novas funcionalidades e mudanças planeadas para o Ruby 2.4.</itunes:subtitle>
@@ -878,7 +876,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Tue, 22 Nov 2016 09:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Nov 2016 08:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
       <link>https://conversas.simplecast.com/episodes/ep-7-dicas-ssh-759fccbc</link>
       <content:encoded>
@@ -910,14 +908,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="15203122" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/d9c9cf81-00d8-4a3f-8c3c-6507d1eb7366/759fccbc_tc.mp3?aid=rss_feed"/>
+      <enclosure length="15203122" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/d9c9cf81-00d8-4a3f-8c3c-6507d1eb7366/759fccbc_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 7 - Dicas SSH</itunes:title>
       <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/d9c9cf81-00d8-4a3f-8c3c-6507d1eb7366/3000x3000/1479769811artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/d9c9cf81-00d8-4a3f-8c3c-6507d1eb7366/3000x3000/1479769811artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:17:45</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre algumas funcionalidades menos conhecidas relacionadas com SSH.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre algumas funcionalidades menos conhecidas relacionadas com SSH.</itunes:subtitle>
-      <itunes:keywords>tunnel, ssh, authorized_keys, multiplexing, sshuttle, openssh</itunes:keywords>
+      <itunes:keywords>openssh, ssh, authorized_keys, multiplexing, tunnel, sshuttle</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
@@ -1006,14 +1004,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="35786318" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2ceac53c-8a78-4b6e-be84-b0d29d2de343/2137fd36_tc.mp3?aid=rss_feed"/>
+      <enclosure length="35786318" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2ceac53c-8a78-4b6e-be84-b0d29d2de343/2137fd36_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 6 - HTTP/2</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2ceac53c-8a78-4b6e-be84-b0d29d2de343/3000x3000/1465064517artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2ceac53c-8a78-4b6e-be84-b0d29d2de343/3000x3000/1465064517artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:42:17</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre as mudanças que o HTTP/2 traz, e divagamos também um pouco sobre conferências.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre as mudanças que o HTTP/2 traz, e divagamos também um pouco sobre conferências.</itunes:subtitle>
-      <itunes:keywords>rubyconf, rails, https, ember, curl, http2, nginx, rack</itunes:keywords>
+      <itunes:keywords>rails, rubyconf, https, curl, rack, ember, nginx, http2</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>11</itunes:episode>
@@ -1062,14 +1060,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="5657668" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e6b6056-d82d-4869-a3d2-802f4f53315d/523e63dc_tc.mp3?aid=rss_feed"/>
+      <enclosure length="5657668" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e6b6056-d82d-4869-a3d2-802f4f53315d/523e63dc_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 5.5 - RubyConf Portugal</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e6b6056-d82d-4869-a3d2-802f4f53315d/3000x3000/1463380739artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9e6b6056-d82d-4869-a3d2-802f4f53315d/3000x3000/1463380739artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:06:21</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre a RubyConf Portugal, que irá acontecer novamente este ano.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre a RubyConf Portugal, que irá acontecer novamente este ano.</itunes:subtitle>
-      <itunes:keywords>rubyconf, conference, ruby, portugal, braga</itunes:keywords>
+      <itunes:keywords>ruby, portugal, conference, rubyconf, braga</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>10</itunes:episode>
@@ -1148,10 +1146,10 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="21803798" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a383af89-cf9c-4611-b32f-7e28ec9a5d71/44381a9d_tc.mp3?aid=rss_feed"/>
+      <enclosure length="21803798" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a383af89-cf9c-4611-b32f-7e28ec9a5d71/44381a9d_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 5 - Meteor</itunes:title>
       <itunes:author>Luís Ferreira, Ricardo Mendes</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a383af89-cf9c-4611-b32f-7e28ec9a5d71/3000x3000/1462236232artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a383af89-cf9c-4611-b32f-7e28ec9a5d71/3000x3000/1462236232artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:39:19</itunes:duration>
       <itunes:summary>Este mês damos o salto para o web development em Meteor com o nosso convidado Gabriel Poça.</itunes:summary>
       <itunes:subtitle>Este mês damos o salto para o web development em Meteor com o nosso convidado Gabriel Poça.</itunes:subtitle>
@@ -1186,14 +1184,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="5602935" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9eaa7b4f-b8d3-4074-818b-3b847da46033/8b8cf4ae_tc.mp3?aid=rss_feed"/>
+      <enclosure length="5602935" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9eaa7b4f-b8d3-4074-818b-3b847da46033/8b8cf4ae_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 4.5 - Let's Encrypt</itunes:title>
       <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9eaa7b4f-b8d3-4074-818b-3b847da46033/3000x3000/1460914284artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/9eaa7b4f-b8d3-4074-818b-3b847da46033/3000x3000/1460914284artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:09:09</itunes:duration>
       <itunes:summary>Neste episódio falamos de Let's Encrypt, uma nova autoridade de certificação SSL/TLS.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos de Let's Encrypt, uma nova autoridade de certificação SSL/TLS.</itunes:subtitle>
-      <itunes:keywords>https, tls, encrypt, ssl</itunes:keywords>
+      <itunes:keywords>https, encrypt, tls, ssl</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>8</itunes:episode>
@@ -1226,14 +1224,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="5934538" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/38bdcdf5-c5e3-4373-8320-440f4ae22724/eb4051f3_tc.mp3?aid=rss_feed"/>
+      <enclosure length="5934538" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/38bdcdf5-c5e3-4373-8320-440f4ae22724/eb4051f3_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 4 - TypeScript</itunes:title>
       <itunes:author>Ricardo Mendes, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/38bdcdf5-c5e3-4373-8320-440f4ae22724/3000x3000/1460912789artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/38bdcdf5-c5e3-4373-8320-440f4ae22724/3000x3000/1460912789artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:10:14</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre TypeScript, uma variante tipada de JavaScript.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre TypeScript, uma variante tipada de JavaScript.</itunes:subtitle>
-      <itunes:keywords>glimmer, angular, typescript, ember</itunes:keywords>
+      <itunes:keywords>typescript, ember, angular, glimmer</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>7</itunes:episode>
@@ -1250,7 +1248,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Mon, 14 Mar 2016 21:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Mar 2016 20:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Hugo Peixoto, Ricardo Mendes)</author>
       <link>https://conversas.simplecast.com/episodes/ep-314-goad-f2709ea2</link>
       <content:encoded>
@@ -1262,14 +1260,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="4077401" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/1f68dde9-896b-4a25-a04d-4d1c623bbd71/f2709ea2_tc.mp3?aid=rss_feed"/>
+      <enclosure length="4077401" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/1f68dde9-896b-4a25-a04d-4d1c623bbd71/f2709ea2_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 3.14 - Goad</itunes:title>
       <itunes:author>Hugo Peixoto, Ricardo Mendes</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/1f68dde9-896b-4a25-a04d-4d1c623bbd71/3000x3000/1460912862artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/1f68dde9-896b-4a25-a04d-4d1c623bbd71/3000x3000/1460912862artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:06:38</itunes:duration>
       <itunes:summary>Neste episódio falamos de Goad, uma ferramenta para testes de carga distribuídos</itunes:summary>
       <itunes:subtitle>Neste episódio falamos de Goad, uma ferramenta para testes de carga distribuídos</itunes:subtitle>
-      <itunes:keywords>goad, aws lambda, aws, go</itunes:keywords>
+      <itunes:keywords>goad, go, aws lambda, aws</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>6</itunes:episode>
@@ -1287,7 +1285,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Tue, 1 Mar 2016 22:00:00 +0000</pubDate>
+      <pubDate>Tue, 1 Mar 2016 20:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Ricardo Mendes, Hugo Peixoto)</author>
       <link>https://conversas.simplecast.com/episodes/ep-3-electron-368eebdf</link>
       <content:encoded>
@@ -1300,14 +1298,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="6667788" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/e6b21714-ba80-4549-b432-71d1d80572db/368eebdf_tc.mp3?aid=rss_feed"/>
+      <enclosure length="6667788" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/e6b21714-ba80-4549-b432-71d1d80572db/368eebdf_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 3 - Electron</itunes:title>
       <itunes:author>Ricardo Mendes, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/e6b21714-ba80-4549-b432-71d1d80572db/3000x3000/1460912848artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/e6b21714-ba80-4549-b432-71d1d80572db/3000x3000/1460912848artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:11:48</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre Electron, uma tecnologia para desenvolver aplicações desktop multi-plaforma (OS X, Win, Linux).</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre Electron, uma tecnologia para desenvolver aplicações desktop multi-plaforma (OS X, Win, Linux).</itunes:subtitle>
-      <itunes:keywords>github, ember, ember hearth, electron, atom</itunes:keywords>
+      <itunes:keywords>ember hearth, atom, electron, ember, github</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>5</itunes:episode>
@@ -1322,7 +1320,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Mon, 15 Feb 2016 20:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Feb 2016 19:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Luís Ferreira, Ricardo Mendes)</author>
       <link>https://conversas.simplecast.com/episodes/ep-25-no-estimates-b2ed3eb8</link>
       <content:encoded>
@@ -1332,10 +1330,10 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="4850318" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2c470f76-6cf2-4d35-b0e1-52e4f64c9136/b2ed3eb8_tc.mp3?aid=rss_feed"/>
+      <enclosure length="4850318" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2c470f76-6cf2-4d35-b0e1-52e4f64c9136/b2ed3eb8_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 2.5 - No Estimates</itunes:title>
       <itunes:author>Luís Ferreira, Ricardo Mendes</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2c470f76-6cf2-4d35-b0e1-52e4f64c9136/3000x3000/1459351157artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/2c470f76-6cf2-4d35-b0e1-52e4f64c9136/3000x3000/1459351157artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:05:19</itunes:duration>
       <itunes:summary>No estimates</itunes:summary>
       <itunes:subtitle>No estimates</itunes:subtitle>
@@ -1393,7 +1391,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 <p><a href="http://www.vimgolf.com/">vimgolf</a></p>
 </li>
 <li>
-<p><a href="https://en.wikipedia.org/wiki/Quine_(computing)">Quine</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Quine_%28computing%29">Quine</a></p>
 </li>
 <li>
 <p><a href="http://www.ioccc.org/">ioccc</a></p>
@@ -1413,7 +1411,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Mon, 1 Feb 2016 09:00:00 +0000</pubDate>
+      <pubDate>Mon, 1 Feb 2016 08:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
       <link>https://conversas.simplecast.com/episodes/ep-2-wax-on-wax-off-d5f5d9e6</link>
       <content:encoded>
@@ -1462,7 +1460,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 <p><a href="http://www.vimgolf.com/">vimgolf</a></p>
 </li>
 <li>
-<p><a href="https://en.wikipedia.org/wiki/Quine_(computing)">Quine</a></p>
+<p><a href="https://en.wikipedia.org/wiki/Quine_%28computing%29">Quine</a></p>
 </li>
 <li>
 <p><a href="http://www.ioccc.org/">ioccc</a></p>
@@ -1482,10 +1480,10 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="21476737" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/cbf7322e-ff88-4e23-b81d-97c14837c903/d5f5d9e6_tc.mp3?aid=rss_feed"/>
+      <enclosure length="21476737" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/cbf7322e-ff88-4e23-b81d-97c14837c903/d5f5d9e6_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 2 - Wax On Wax Off</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/cbf7322e-ff88-4e23-b81d-97c14837c903/3000x3000/1460912697artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/cbf7322e-ff88-4e23-b81d-97c14837c903/3000x3000/1460912697artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:35:29</itunes:duration>
       <itunes:summary>Neste episódio abordamos técnicas e exercícios para melhorar capacidades de programação.</itunes:summary>
       <itunes:subtitle>Neste episódio abordamos técnicas e exercícios para melhorar capacidades de programação.</itunes:subtitle>
@@ -1513,7 +1511,7 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </description>
-      <pubDate>Fri, 15 Jan 2016 09:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Jan 2016 08:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira)</author>
       <link>https://conversas.simplecast.com/episodes/ep-15-administrate-4ae51953</link>
       <content:encoded>
@@ -1533,14 +1531,14 @@ Apropriado para ouvintes de todas as idades e níveis, serão abordados diversos
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="5375113" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a748b781-da29-4f11-900f-14e14d165443/4ae51953_tc.mp3?aid=rss_feed"/>
+      <enclosure length="5375113" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a748b781-da29-4f11-900f-14e14d165443/4ae51953_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 1.5 - Administrate</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a748b781-da29-4f11-900f-14e14d165443/3000x3000/1459351052artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/a748b781-da29-4f11-900f-14e14d165443/3000x3000/1459351052artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:08:45</itunes:duration>
       <itunes:summary>Neste episódio falamos sobre a gem administrate.</itunes:summary>
       <itunes:subtitle>Neste episódio falamos sobre a gem administrate.</itunes:subtitle>
-      <itunes:keywords>ruby, ruby on rails, administrate</itunes:keywords>
+      <itunes:keywords>administrate, ruby on rails, ruby</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>2</itunes:episode>
@@ -1595,14 +1593,14 @@ Vamos explicar um pouco da história desta linguagem, algumas das suas caracter�
 </ul>
 ]]>
       </content:encoded>
-      <enclosure length="35022999" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/f7883ae5-1597-4992-ba6d-0e24064afd99/03fdf01c_tc.mp3?aid=rss_feed"/>
+      <enclosure length="35022999" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/f7883ae5-1597-4992-ba6d-0e24064afd99/03fdf01c_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 1 - Rust, uma linguagem de sistemas para os tempos modernos</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
-      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/f7883ae5-1597-4992-ba6d-0e24064afd99/3000x3000/1459351120artwork.jpg?aid=rss_feed"/>
+      <itunes:image href="https://cdn.simplecast.com/images/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/f7883ae5-1597-4992-ba6d-0e24064afd99/3000x3000/1459351120artwork.jpg?&amp;aid=rss_feed"/>
       <itunes:duration>00:59:17</itunes:duration>
       <itunes:summary>Neste episódio inaugural decidimos abordar a linguagem de programação Rust.</itunes:summary>
       <itunes:subtitle>Neste episódio inaugural decidimos abordar a linguagem de programação Rust.</itunes:subtitle>
-      <itunes:keywords>programação, rust, porto codes, porto, braga</itunes:keywords>
+      <itunes:keywords>rust, porto, braga, porto codes, programação</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
@@ -1614,14 +1612,14 @@ Vamos explicar um pouco da história desta linguagem, algumas das suas caracter�
         <![CDATA[<p>Neste episódio inaugural falamos um pouco do porquê do projeto, e conhecemos os três anfitriões.</p>
 ]]>
       </description>
-      <pubDate>Sun, 1 Nov 2015 01:00:00 +0000</pubDate>
+      <pubDate>Sun, 1 Nov 2015 00:00:00 +0000</pubDate>
       <author>rokusu@gmail.com (Ricardo Mendes, Luís Ferreira, Hugo Peixoto)</author>
       <link>https://conversas.simplecast.com/episodes/ep-0-uma-breve-introducao-2032f541</link>
       <content:encoded>
         <![CDATA[<p>Neste episódio inaugural falamos um pouco do porquê do projeto, e conhecemos os três anfitriões.</p>
 ]]>
       </content:encoded>
-      <enclosure length="5087770" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/6807e5a2-8468-4d87-b8d2-a004f73cbe09/2032f541_tc.mp3?aid=rss_feed"/>
+      <enclosure length="5087770" type="audio/mpeg" url="https://cdn.simplecast.com/audio/07a394/07a39407-c42a-4bd8-b41b-2539e031bc2e/6807e5a2-8468-4d87-b8d2-a004f73cbe09/2032f541_tc.mp3?&amp;aid=rss_feed"/>
       <itunes:title>Ep. 0 - Uma breve introdução</itunes:title>
       <itunes:author>Ricardo Mendes, Luís Ferreira, Hugo Peixoto</itunes:author>
       <itunes:duration>00:07:04</itunes:duration>
