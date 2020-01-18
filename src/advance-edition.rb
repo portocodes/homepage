@@ -1,17 +1,22 @@
-require 'yaml'
+require './src/edition'
 
-template = File
-  .read("data/editions/template.yml")
-  .then(&YAML.method(:load))
+template =
+  "data/editions/template.yml"
+    .then(&Edition.method(:read))
 
-current = File
-  .read("data/editions/current.yml")
-  .then(&YAML.method(:load))
+current =
+  "data/editions/current.yml"
+    .then(&Edition.method(:read))
+
+following =
+  Dir["data/editions/next/*.yml"]
+    .min
+    .then(&Edition.method(:read))
 
 previous = {
   "id" => current["id"],
   "date" => current["date"],
-  "talks" => current["schedule"].select {|t|t["speaker"]}.map do |talk|
+  "talks" => current["schedule"].select { |t| t["speaker"] }.map do |talk|
     {
       "title" => talk["title"],
       "speaker" => talk["speaker"],
@@ -19,10 +24,6 @@ previous = {
     }
   end,
 }
-
-following = File
-  .read(Dir["data/editions/next/*.yml"].min)
-  .then(&YAML.method(:load))
 
 current = template
 current["id"] = following["id"]
