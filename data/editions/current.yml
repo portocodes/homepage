@@ -10,15 +10,11 @@ schedule:
   title: Opening remarks
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
-  title: Code for Humans and juniors
-  speaker: hugomeireles
-  summary: |
-    We are going to talk about some important practices around clean code and why
-    this was important to improve my code skills. We will make refactoring
-    improvements in a nodeJS app.
+  speaker: andrefreitas
+  title: How to backfill large Postgres tables like Usain Bolt
 - start: '20:30'
   title: Dinner and ice cream
   summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
     we go for ice cream at Santini.
-id: rsjhnqybccbmb
-date: 2020-01-09
+id: rsjhnqybcdbrb
+date: 2020-02-13
