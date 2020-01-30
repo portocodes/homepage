@@ -12,6 +12,9 @@ schedule:
 - start: '19:30'
   speaker: andrefreitas
   title: How to backfill large Postgres tables like Usain Bolt
+- start: '20:00'
+  speaker: tba
+  title: TBA
 - start: '20:30'
   title: Dinner and ice cream
   summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
