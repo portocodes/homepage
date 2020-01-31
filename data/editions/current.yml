@@ -11,7 +11,12 @@ schedule:
   summary: Short introduction to the Porto Codes project.
 - start: '19:30'
   speaker: andrefreitas
-  title: How to backfill large Postgres tables like Usain Bolt
+  title: Tooling for updating large tables in Postgres
+  summary: |
+    In this talk André will present tooling that will help you update large
+    tables in Postgres with observability on the progress, pause/resume work,
+    optimization of databases updates throughput and having atomic operations
+    while not locking all the table but just the rows you want to update.
 - start: '20:00'
   speaker: tba
   title: TBA
