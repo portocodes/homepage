@@ -18,8 +18,14 @@ schedule:
     optimization of databases updates throughput and having atomic operations
     while not locking all the table but just the rows you want to update.
 - start: '20:00'
-  speaker: tba
-  title: TBA
+  speaker: joseresende
+  title: The bees and the IoT
+  summary: |
+    Bees are essential to the human life, but spoiler alert... they're dying!
+    Ohh no! In this talk we are documenting the process of using IoT to monitor
+    hives and the subsequent problems.
+
+    Long live the bees 🐝!
 - start: '20:30'
   title: Dinner and ice cream
   summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
