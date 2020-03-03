@@ -32,17 +32,18 @@
           experiences. We meet on the second Thursday of each month.
         </p>
 
+      </section>
+
+      <section id="schedule">
         <p>
           The next event is on <b>Thursday, {{current.human_date}}</b> at
-          <b>19:00</b> at <b>{{current.location}}</b>.
+          <b>{{current.schedule.first.start}}</b> at <b>{{current.location}}</b>.
         </p>
 
         <a href="https://www.meetup.com/portocodes/events/{{current.id}}/" class="cta">
          RSVP on our meetup page
         </a>
-      </section>
 
-      <section id="schedule">
         {{#current}}
         <h1>Schedule</h1>
 

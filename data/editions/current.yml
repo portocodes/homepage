@@ -1,66 +1,36 @@
 ---
-location: Porto i/o Santa Catarina
+location: Subvisual, Polo de Negócios de Braga
 sponsors:
-- portoio
+- subvisual
 - bragajs
 schedule:
-- start: '19:00'
-  title: Doors open
-  summary: Come and hang out while we struggle with our A/V setup.
-- start: '19:25'
+- start: '18:30'
   title: Opening remarks
-  summary: Short introduction to the Porto Codes project.
-- start: '19:30'
-  speaker: andrefreitas
-  title: Tooling for updating large tables in Postgres
+  summary: Short introduction to the Braga.JS and Porto Codes.
+- start: '19:00'
+  speaker: locks
+  title: 'Thriving through the hype cycle: an Ember.js story'
   summary: |
-    In this talk André will present tooling that will help you update large
-    tables in Postgres with observability on the progress, pause/resume work,
-    optimization of databases updates throughput and having atomic operations
-    while not locking all the table but just the rows you want to update.
-- start: '20:00'
-  speaker: joseresende
-  title: The bees and the IoT
-  summary: |
-    Bees are essential to the human life, but spoiler alert... they're dying!
-    Ohh no! In this talk we are documenting the process of using IoT to monitor
-    hives and the subsequent problems.
+    The front-end development community has been through a fair share of hype
+    cycles in the last ten years. In this time, we have seen libraries and
+    frameworks come and go, sometimes even disappearing completely like
+    batman.js.
 
-    Long live the bees &#x1f41d;!
+    In this talk we will cover how the Ember.js project has managed not only to
+    keep up with the hype cycles, but to continually push the framework and the
+    web forward and bring its users along. We will close off the presentation
+    by talking how this culminates in the concept of editions, the first of
+    which is Ember Octane.
+- start: '19:45'
+  speaker: miguelcosta
+  title: Using Kafka with a Microservices Architecture
+  summary: |
+    A Microservices Architecture can be a mishmash if we aren't careful to keep
+    all the services decoupled from one another. Some concepts of Domain-driven
+    design are powerful mechanisms to implement scalable services, and Apache
+    Kafka provides us many features to support and implement these concepts.
 - start: '20:30'
-  title: Dinner and ice cream
-  summary: Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine,
-    we go for ice cream at Santini.
-id: rsjhnqybcdbrb
-date: 2020-02-13
-other:
-- title: C++ user group
-  date: 2020-02-12
-  url: "https://www.meetup.com/Porto-C-User-Group/events/268114270/"
-- title: 'I love Free Software Day'
-  date: 2020-02-14
-  url: "https://fsfe.org/campaigns/ilovefs"
-- title: JAMstack
-  date: 2020-02-17
-  url: "https://www.meetup.com/JAMstack-Porto/events/268056384/"
-- title: "Porto Testers Meetup"
-  date: 2020-02-18
-  url: "https://www.meetup.com/Porto-Testers-Meetup-MoT/events/268624629/"
-- title: "Porto.Vue #3"
-  date: 2020-02-19
-  url: "https://www.meetup.com/Porto-Vue/events/268630861/"
-- title: "0xOPOSEC"
-  date: 2020-02-20
-  url: "https://www.meetup.com/0xOPOSEC/events/268511733/"
-- title: "Porto Mapping Community"
-  date: 2020-02-20
-  url: "https://www.meetup.com/Porto-Mapping-Community/events/267683914/"
-- title: "Date with data"
-  date: 2020-02-22
-  url: "https://datewithdata.pt/"
-- title: "Fullstack Porto - Machine Learning"
-  date: 2020-02-27
-  url: "https://www.meetup.com/Fullstack-Porto/events/268450784/"
-- title: "Open Data Day 2020"
-  date: 2020-03-07
-  url: "https://opendataday.org/"
+  title: Dinner, maybe?
+  summary: Join us for dinner, probably at Taberna Belga 2.
+id: rsjhnqybcfbqb
+date: 2020-03-12
