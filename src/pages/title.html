@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>porto.codes</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+:root {
+  --pink: #c5395a;
+  --beige: #f6d5c5;
+
+  --header-font-family: Fredoka One, Arial, sans-serif;
+  --logo-font-family: Fredoka One;
+  --base-font-family: Open Sans, Droid Sans, Arial, sans-serif;
+
+  --parent-bg-color: var(--pink);
+  --fg-color: black;
+
+  --logo-color: white;
+  --logo-highlight-color: var(--beige);
+}
+
+@font-face {
+  font-family: 'Fredoka One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fredoka One'), local('FredokaOne-Regular'),
+    url('./fonts/fredoka-one-v6-latin-regular.woff2') format('woff2'),
+    url('./fonts/fredoka-one-v6-latin-regular.woff') format('woff');
+}
+
+html {
+  width: 1920px;
+  height: 1080px;
+  background-color: white;
+  overflow: hidden;
+}
+
+body {
+  background-color: var(--parent-bg-color);
+  color: var(--fg-color);
+  margin: 0px;
+  padding: 0px;
+  font-family: var(--base-font-family);
+  overflow: hidden;
+  color: white;
+  font-size: 3em;
+  width: 1920px;
+  height: 1080px;
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows: 30% 10% 20% 10% 30%;
+  grid-template-areas:
+   ". . logo"
+   "avatar title title"
+   "avatar speaker speaker"
+   "avatar date date"
+   ". . link";
+}
+
+body * { justify-self: center; }
+
+body #presentation-portocodes {
+  grid-area: logo;
+  align-self: center;
+  justify-self: center;
+}
+
+body #presentation-avatar {
+  grid-area: avatar;
+  align-self: center;
+  height: 400px;
+  width: 400px;
+  border: 25px solid rgba(0, 0, 0, 50%);
+}
+body #presentation-title {
+  font-weight: bold;
+  grid-area: title;
+  justify-self: start;
+  align-self: end;
+}
+body #presentation-speaker {
+  grid-area: speaker;
+  justify-self: start;
+  align-self: center;
+}
+body #presentation-date {
+  grid-area: date;
+  justify-self: start;
+  align-self: start;
+}
+
+body #presentation-link {
+  grid-area: link;
+  justify-self: start;
+  align-self: center;
+}
+
+body #presentation-portocodes {
+  text-align: center;
+  font-family: var(--logo-font-family);
+  text-transform: uppercase;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: var(--logo-color);
+  display: block;
+}
+
+body #presentation-portocodes span {
+  display: block;
+}
+
+body #presentation-portocodes span::first-letter {
+  color: var(--logo-highlight-color);
+}
+
+body #presentation-avatar img {
+  display: block;
+  height: 400px;
+  width: 400px;
+}
+
+body #presentation {
+  display: flex;
+}
+    </style>
+  </head>
+  <body>
+    <div id="presentation-portocodes">
+      <span>Porto</span> <span>Codes</span>
+    </div>
+
+    <div id="presentation-avatar">
+      <img src="./images/avatar.jpg" />
+    </div>
+
+    <div id="presentation-title">
+      Encrypted vs Private communications
+    </div>
+
+    <div id="presentation-speaker">
+      <div>Artur Goulão Ferreira</div>
+      <div>@arturferreira</div>
+    </div>
+
+    <div id="presentation-date">
+      January 2019
+    </div>
+
+    <div id="presentation-link">
+      <div>https://porto.codes</div>
+      <div>@portocodes</div>
+    </div>
+  </body>
+</html>

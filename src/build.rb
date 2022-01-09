@@ -12,6 +12,7 @@ Dir['data/speakers/*.yml']
   previous
   speak
   slides
+  title
   hacktoberfest2019
   hacktoberfest2019location
 ].each do |page|
