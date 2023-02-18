@@ -1,36 +1,36 @@
 ---
-location: Subvisual, Polo de Negócios de Braga
+location: Devexperts, Praça do Bom Sucesso, Porto
 sponsors:
 - subvisual
 - bragajs
 schedule:
-- start: '18:30'
-  title: Opening remarks
-  summary: Short introduction to the Braga.JS and Porto Codes.
 - start: '19:00'
-  speaker: locks
-  title: 'Thriving through the hype cycle: an Ember.js story'
+  title: Introduction
+  summary:  A/V setup, small introduction to the Porto Codes project, and a warm up to the night's presentation.
+- start: '19:30'
+  speaker: dmitryderbenev
+  title: 'Implementing Grading System Soup-To-Nuts'
   summary: |
-    The front-end development community has been through a fair share of hype
-    cycles in the last ten years. In this time, we have seen libraries and
-    frameworks come and go, sometimes even disappearing completely like
-    batman.js.
-
-    In this talk we will cover how the Ember.js project has managed not only to
-    keep up with the hype cycles, but to continually push the framework and the
-    web forward and bring its users along. We will close off the presentation
-    by talking how this culminates in the concept of editions, the first of
-    which is Ember Octane.
-- start: '19:45'
-  speaker: miguelcosta
-  title: Using Kafka with a Microservices Architecture
+     Sooner or later each software development company approaches the point
+     where it requires a grading system. The process of creating and
+     implementing such systems requires a lot of effort and can easily fail at
+     any stage because of various circumstances. My presentation will help
+     engineering managers and C-level managers understand the basic pros and
+     cons of such systems and give them algorithms for choosing between
+     different approaches. From an individual contributor’s perspective, it
+     might be useful for a better understanding of why companies have such
+     systems and how they are created.
+- start: '20:00'
+  speaker: pkoch
+  title: Choreography and Diligence
   summary: |
-    A Microservices Architecture can be a mishmash if we aren't careful to keep
-    all the services decoupled from one another. Some concepts of Domain-driven
-    design are powerful mechanisms to implement scalable services, and Apache
-    Kafka provides us many features to support and implement these concepts.
+     In this talk, pkoch will be highlighting the trade-offs of microservices
+     and proposing instead using packages as boundaries.
 - start: '20:30'
   title: Dinner, maybe?
-  summary: Join us for dinner, probably at Taberna Belga 2.
-id: rsjhnqybcfbqb
-date: 2020-03-12
+  summary:  |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly. Afterwards it is customary to go
+    for ice cream at Santini and continue the conversation.
+id: 291706615
+date: 2023-03-02

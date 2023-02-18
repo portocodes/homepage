@@ -38,7 +38,7 @@ def github(username)
 
   creds = [ENV["GITHUB_USERNAME"], ENV["GITHUB_PASSWORD"]]
 
-  result = JSON.parse(open("https://api.github.com/users/#{username}", http_basic_authentication: creds).read)
+  result = JSON.parse(URI.open("https://api.github.com/users/#{username}", http_basic_authentication: creds).read)
 
   {
     "name" => result.fetch("name"),
