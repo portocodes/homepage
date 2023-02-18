@@ -1,0 +1,87 @@
+2012:
+  - august
+  - august
+2013:
+  - march
+2014:
+  - june
+  - october
+  - november
+  - november
+  - december
+2015:
+  - january
+  - february
+  - march
+  - april
+  - may
+  - june
+  - july
+  - august
+  - september
+  - october
+  - october
+  - november
+  - december
+2016:
+  - january
+  - february
+  - march
+  - april presented
+  - may
+  - july
+  - august
+  - september
+  - november
+  - december
+2017:
+  - january presented
+  - february
+  - march
+  - april
+  - may
+  - june
+  - july
+  - august
+  - september presented
+  - october
+  - november presented
+  - december
+2018:
+  - january
+  - february
+  - march
+  - april
+  - april
+  - may
+  - june
+  - july
+  - august
+  - september presented
+  - october
+  - november
+  - december presented
+2019:
+  - january
+  - february
+  - march
+  - april
+  - may
+  - june presented
+  - july presented
+  - july
+  - august
+  - september
+  - october
+  - october
+  - october
+  - november presented
+  - december presented
+2020:
+  - january
+  - february
+2021: []
+2022:
+  - october
+2023:
+  - january

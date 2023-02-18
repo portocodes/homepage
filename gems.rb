@@ -7,3 +7,4 @@ gem 'httparty'
 gem 'kramdown'
 gem 'mustache'
 gem 'oga'
+gem 'webrick', require: false
