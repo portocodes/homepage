@@ -1,36 +1,9 @@
 ---
-location: Devexperts, Praça do Bom Sucesso, Porto
-sponsors:
-- subvisual
-- bragajs
+location: Estambul Donar Kebap & Pizza
 schedule:
-- start: '19:00'
-  title: Introduction
-  summary:  A/V setup, small introduction to the Porto Codes project, and a warm up to the night's presentation.
 - start: '19:30'
-  speaker: dmitryderbenev
-  title: 'Implementing Grading System Soup-To-Nuts'
+  title: Dinner
   summary: |
-     Sooner or later each software development company approaches the point
-     where it requires a grading system. The process of creating and
-     implementing such systems requires a lot of effort and can easily fail at
-     any stage because of various circumstances. My presentation will help
-     engineering managers and C-level managers understand the basic pros and
-     cons of such systems and give them algorithms for choosing between
-     different approaches. From an individual contributor’s perspective, it
-     might be useful for a better understanding of why companies have such
-     systems and how they are created.
-- start: '20:00'
-  speaker: pkoch
-  title: Choreography and Diligence
-  summary: |
-     In this talk, pkoch will be highlighting the trade-offs of microservices
-     and proposing instead using packages as boundaries.
-- start: '20:30'
-  title: Dinner, maybe?
-  summary:  |
-    We will have dinner downtown, please let us know of any dietary
-    restrictions so we can plan accordingly. Afterwards it is customary to go
-    for ice cream at Santini and continue the conversation.
-id: 291706615
-date: 2023-03-02
+    This month we are meeting up at Estambul in Aliados to have dinner and chat about programming.
+id: '293403720'
+date: 2023-05-25

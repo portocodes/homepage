@@ -1,0 +1,21 @@
+---
+id: 291706615
+date: 2023-03-02
+talks:
+- title: Implementing Grading System Soup-To-Nuts
+  speaker: dmitryderbenev
+  summary: |
+    Sooner or later each software development company approaches the point
+    where it requires a grading system. The process of creating and
+    implementing such systems requires a lot of effort and can easily fail at
+    any stage because of various circumstances. My presentation will help
+    engineering managers and C-level managers understand the basic pros and
+    cons of such systems and give them algorithms for choosing between
+    different approaches. From an individual contributor’s perspective, it
+    might be useful for a better understanding of why companies have such
+    systems and how they are created.
+- title: Choreography and Diligence
+  speaker: pkoch
+  summary: |
+    In this talk, pkoch will be highlighting the trade-offs of microservices
+    and proposing instead using packages as boundaries.
