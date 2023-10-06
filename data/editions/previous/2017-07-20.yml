@@ -1,5 +1,0 @@
-id: '241082457'
-date: 2017-07-20
-talks:
-- title: Concurrent Python made (near) painless using gevent
-  speaker: rui-teixeira

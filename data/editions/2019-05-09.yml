@@ -1,0 +1,32 @@
+meetup_url: https://www.meetup.com/portocodes/events/254880068/
+title: Porto Codes
+date: 2019-05-09
+location: Significa, Rua da Torrinha 154, Porto
+sponsors: significa
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: |
+    Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Email me maybe
+  speaker: punnie
+  summary: |
+    Build your own email server! First we'll see how email works both in theory
+    and in practice, and the stuff you'll need before building your own server.
+    We'll then go through the steps to build one ourselves, hopefully see it in
+    action, and in the end we'll discuss a bit whether this is a good idea and
+    some peculiarities you may find along the way.
+- start: 20:30
+  title: Dinner
+  summary: |
+    Join us for dinner, usually at Estambul Doner Kebap.
+- start: 22:00
+  title: Ice cream!
+  summary: |
+    Come rain or shine, we go for ice cream at Santini.

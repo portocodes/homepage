@@ -1,0 +1,22 @@
+meetup_url: https://www.meetup.com/portocodes/events/233981664/
+title: Porto Codes - Setembro
+date: 2016-09-21
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:30
+  title: Real-time Desktop Capture
+  video: https://www.youtube.com/watch?v=ez0P14Lk3No
+  slides: https://speakerdeck.com/portocodes/real-time-desktop-capture
+  speaker: joaoportela
+  summary: |
+    Sometimes you need to automate desktop capture, but how do you do it? Doesn’t
+    video encoding have a big impact on performance? Aren’t most desktop capture
+    applications GUI based?
+
+    Doing desktop capture and encoding on windows with minimal performance impact
+    can certainly be a challenge. Fortunately there are plenty of technologies and
+    libraries to help us. In this talk we'll explore what’s out there and how an
+    open source project helped us deliver a high quality solution.
+- start: 20:00
+  title: Discussão / Jantar / Convívio

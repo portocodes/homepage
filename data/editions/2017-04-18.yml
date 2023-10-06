@@ -1,0 +1,18 @@
+meetup_url: https://www.meetup.com/portocodes/events/239092740/
+title: 'Porto Codes: April'
+date: 2017-04-18
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: OutSystems
+  speaker: NunoReisIT
+  summary: |
+    Nuno will be giving us a tour of how to build an application using OutSystems.
+- start: 20:00
+  title: Socializing / Dinner

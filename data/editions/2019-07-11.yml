@@ -1,0 +1,42 @@
+meetup_url: https://www.meetup.com/portocodes/events/254880599/
+title: Porto Codes
+date: 2019-07-11
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: |
+    Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Livecoding shaders with Atom - Veda.gl
+  speaker: inundaciones
+- start: 19:45
+  title: 'Future of computing: a summary'
+  speaker: rui-teixeira
+- title: Building 3D web applications using nunuStudio
+  speaker: tentone
+  summary: |
+    nunuStudio is a web based 3D editor and game engine, in this talk we will
+    discover how its possible to build and integrate a feature rich 3D
+    experience into your web application.
+- start: 20:00
+  title: Using Percy for visual regression testing
+  speaker: locks
+- start: 20:15
+  title: 'asdf: Extensible version manager'
+  speaker: hugopeixoto
+  summary: Replace rvm, pyenv, nvm, and more with a single tool.
+- start: 20:30
+  title: Dinner
+  summary: |
+    Join us for dinner, usually at Estambul Doner Kebap.
+- start: 22:00
+  title: Ice cream!
+  summary: |
+    Come rain or shine, we go for ice cream at Santini.

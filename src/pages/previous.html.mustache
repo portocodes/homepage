@@ -22,7 +22,7 @@
       <a href="./index.html">home</a>
       <a href="./speak.html">speak</a>
       <a href="./previous.html">past events</a>
-      <a href="./podcast.html">podcast</a>
+      <a href="https://conversasemcodigo.pt">podcast</a>
     </nav>
 
     <main>
@@ -46,10 +46,11 @@
         </h2>
 
         {{#summary}}
-        <p class="p-summary">{{.}}</p>
+        <p class="p-summary">{{{.}}}</p>
         {{/summary}}
 
-        {{#talks}}
+        {{#schedule}}
+          {{#talk?}}
         <h3>{{title}}, by <a href="{{speaker.url}}">{{speaker.name}}</a></h3>
 
         <div>
@@ -58,7 +59,8 @@
         </div>
 
         {{#summary}}<p class="p-summary">{{{.}}}</p>{{/summary}}
-        {{/talks}}
+          {{/talk?}}
+        {{/schedule}}
       </section>
 
       {{/editions}}

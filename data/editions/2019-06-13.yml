@@ -1,0 +1,37 @@
+meetup_url: https://www.meetup.com/portocodes/events/254880574/
+title: Porto Codes
+date: 2019-06-13
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: |
+    Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: 'Thriving through the hype cycle: an Ember.js story'
+  speaker: locks
+  summary: |
+    The front-end development community has been through a fair share of hype
+    cycles in the last ten years. In this time, we have seen libraries and
+    frameworks come and go, sometimes even disappearing completely like
+    batman.js.
+
+    In this talk we will cover how the Ember.js project has managed not only
+    to keep up with the hype cycles, but to continually push the framework
+    and the web forward and bring its users along. We will close off the
+    presentation by talking how this culminates in the concept of editions,
+    the first of which is Ember Octane.
+- start: 20:30
+  title: Dinner
+  summary: |
+    Join us for dinner, usually at Estambul Doner Kebap.
+- start: 22:00
+  title: Ice cream!
+  summary: |
+    Come rain or shine, we go for ice cream at Santini.

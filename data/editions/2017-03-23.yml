@@ -1,0 +1,24 @@
+meetup_url: https://www.meetup.com/portocodes/events/236665047/
+title: 'Porto Codes - March'
+date: 2017-03-23
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Ansible
+  speaker: ruisalgado
+  summary: |
+    An intro to the self proclaimed "radically simple" automation engine you
+    can use to provision your servers, deploy and configure your applications.
+- start: 20:00
+  title: Socializing
+- start: 21:15
+  title: Dinner, Novo Paris
+  summary: |
+    While dinner is usually more free-form, this edition we are meeting up with
+    our friends from DevOps Porto (https://www.meetup.com/devopsporto/events/237902785/).

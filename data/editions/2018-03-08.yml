@@ -1,0 +1,35 @@
+meetup_url: https://www.meetup.com/portocodes/events/246639941/
+title: Porto Codes
+date: 2018-03-08
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: "Not talking about polymer"
+  speaker: inoce1e
+  summary: |
+    A simple "hands on" introduction to web components on a modern browser and
+    Polymer, one of the libraries that builds on top the web components.
+- start: 19:30
+  title: An Introduction to Smart Contracts
+  speaker: naps62
+  summary: |
+    Let's talk blockchain! But not the whole money thing. Smart Contracts are
+    the real juice.
+
+    I will walk you through what a Smart Contract is and why you should care.
+    We will discuss how they differ from traditional computing methods, and
+    what makes this so revolutionary.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

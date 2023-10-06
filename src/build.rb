@@ -1,14 +1,8 @@
-require_relative './speaker.rb'
-
-Dir['data/speakers/*.yml']
-  .each { |filename| speaker(filename) }
-
 `rm -rf build/`
 `mkdir -p build/`
 
 %w[
   index
-  podcast
   previous
   speak
   slides
@@ -16,7 +10,7 @@ Dir['data/speakers/*.yml']
   hacktoberfest2019
   hacktoberfest2019location
 ].each do |page|
-  if File.exists?("src/pages/#{page}.rb")
+  if File.exist?("src/pages/#{page}.rb")
     print `ruby src/pages/#{page}.rb`
   else
     `cp src/pages/#{page}.html build/#{page}.html`

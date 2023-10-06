@@ -1,0 +1,25 @@
+meetup_url: https://www.meetup.com/portocodes/events/228895584/
+title: Porto Codes
+date: 2016-04-20
+location: OneBiller, Rua Roberto Ivens 277, Matosinhos
+sponsors: onebiller
+schedule:
+- start: 19:00
+  title: Início do meetup
+  summary: |
+    Aparemente Abril é realmente águas mil, por isso venham abrigar-se na
+    OneBiller, local escolhido para o meetup deste mês, e passar um bom serão
+    na companhia de outros entusiastas tecnológicos.
+- start: 19:30
+  title: Demonstração Let's Encrypt
+  slides: https://speakerdeck.com/portocodes/lets-encrypt
+  speaker: hugopeixoto
+- start: 20:30
+  title: Jantar
+  summary: |
+    Para o jantar está delineado encomendar pizzas para evitar potenciais
+    chuvadas. Quem preferir/tiver que optar por alternativas que avise à
+    chegada ao meetup.
+- start: 20:00
+  title: Indigo World
+  speaker: paulofreitas

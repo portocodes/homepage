@@ -1,0 +1,39 @@
+meetup_url: https://www.meetup.com/portocodes/events/258154088/
+title: Porto Codes meet JAMstack
+date: 2019-11-14
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: |
+    Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: |
+    Small introduction to the Porto Codes project.
+- start: 19:30
+  title: A serverless case study with AWS
+  speaker: luismiguel
+  summary: |
+    A full-fledged CMS can easily keep records of tasks input by users,
+    process those tasks into a queue, communicate them to a job factory, and
+    notify users of the results. We decided we didn’t want to manage a full
+    CMS just for that, going serverless was the perfect alternative.
+- start: 20:00
+  title: How Ember.js revamped their infrastructure
+  speaker: locks
+  summary: |
+    The Ember project has many associated websites, the guides, the
+    deprecation guides, the blog, the API documentation, and the main website
+    itself. These were built over the years as needed and used a mishmash of
+    technologies (middleman, embedded Ember, standalone Ember), which made it
+    hard for both maintainers and new contributors to the project. To take
+    advantage of the Ember knowledge and skills in the community, we started
+    moving projects to Ember. In this presentation I will be covering how we
+    are using JAMstack practices to accomplish this migration.
+- start: 20:30
+  title: Dinner and ice cream
+  summary: |
+    Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine, we
+    go for ice cream at Santini.

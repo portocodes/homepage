@@ -1,0 +1,25 @@
+meetup_url: https://www.meetup.com/portocodes/events/252098843/
+title: Porto Codes
+date: 2018-12-13
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Building a command line tool in Rust
+  speaker: locks
+- start: 20:00
+  title: OpenPGP technical details
+  speaker: hugopeixoto
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

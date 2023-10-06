@@ -1,0 +1,44 @@
+meetup_url: https://www.meetup.com/portocodes/events/246590149/
+title: Porto Codes
+date: 2018-02-08
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Laravel, PHP for Artisans
+  speaker: fiskolini
+  summary: |
+    Laravel is a PHP application framework with expressive and elegant syntax,
+    that attempts to take the pain out of development by easing common tasks
+    used in the majority of web projects, such as authentication, routing,
+    sessions, and caching.
+
+    Laravel is accessible, yet powerful, providing powerful tools needed for
+    large, robust applications. A superb inversion of control container,
+    expressive migration system, and tightly integrated unit testing support
+    give you the tools you need to build any application with which you are
+    tasked.
+- start: 20:00
+  title: Let's Go - Por que e quando você deveria considerar usar
+  speaker: renatosuero
+  summary: |
+    Uma introdução sobre a linguagem criada pela Google, uma linguagem moderna
+    que tem ajudado grandes empresas a resolver seus problemas e tem softwares
+    interessantes como Docker, Kubernetes, Hashicorp tools, etc... escritos em
+    Go.
+
+    O objetivo da talk é instigar o conhecimento na linguagem para assim saber
+    quando ela pode te ajudar.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

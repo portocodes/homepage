@@ -1,0 +1,22 @@
+meetup_url: https://www.meetup.com/portocodes/events/246515606/
+title: 'Porto Codes: January'
+date: 2018-01-11
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Getting Started with Spring Boot
+  speaker: jm85martins
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

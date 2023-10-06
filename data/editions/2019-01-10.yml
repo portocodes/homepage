@@ -1,0 +1,41 @@
+meetup_url: https://www.meetup.com/portocodes/events/254879996/
+title: Porto Codes
+date: 2019-01-10
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Encrypted vs Private communications
+  speaker: artur
+  summary: |
+    Is TLS-based communication really private? What apps do we use today that
+    are private or just encrypted? Most of today's best practices of security
+    are not enough for ensure that a system can be private, most
+    implementations are not aware of third party leakage, like audio encoding,
+    rely too heavily on common standards from the web. Other that try to mimic
+    Signal, end up with what is called dumb-encryption, also known as "I'll do
+    my own cypher algorithm". What are the insurances and caveats that can be
+    present in a system need privacy on a M2M or P2P level? Something to find
+    out in this talk!
+
+    About Artur:
+
+    Founded a Swiss based blockchain payments startup in 2017 and is it's
+    current CTO and Payments expert. Partner at a Swiss-based Cybersecurity
+    company focused on post-quantum private communications. Excels and is
+    deeply involved in development and R&D of software-related systems. Has a
+    background in Computer Science from Instituto Superior Técnico (IST) and
+    MIT.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

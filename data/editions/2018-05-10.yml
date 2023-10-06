@@ -1,0 +1,29 @@
+meetup_url: https://www.meetup.com/portocodes/events/248705592/
+title: Porto Codes
+date: 2018-05-10
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Meet and greet
+  summary: |
+    Say hi to everyone, and get a small introduction to the Porto Codes
+    community :)
+- start: 19:30
+  title: Building a Testing Culture
+  speaker: ordepdev
+  summary: |
+    We live surrounded by bad practices, stress, and fear of missing a delivery
+    timeline. We all work or worked, on projects with those characteristics. If
+    we don't enforce a shared culture of testing, no matter what, the quality
+    of the software that we produce will suffer. With this talk/topic, I want
+    to share the problems and solutions that will enable us to create a shared
+    testing culture across our team and company.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

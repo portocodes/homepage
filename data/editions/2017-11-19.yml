@@ -1,0 +1,34 @@
+meetup_url: https://www.meetup.com/portocodes/events/243675088/
+title: 'Porto Codes: October'
+date: 2017-11-19
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Tacit
+  summary: |
+    An introduction to Tacit, a CSS Framework for Dummies, Without Classes.
+  speaker: filfreire
+- start: 20:00
+  title: Introduction to Open Source contributing
+  speaker: locks
+  summary: |
+    In keeping with the Hacktoberfest (https://hacktoberfest.digitalocean.com)
+    theme, we will be doing an introduction to contributing to Open Source
+    projects.
+
+    Bring your questions and optionally your laptop if you want to get some
+    commits in for that fancy t-shirt.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

@@ -1,0 +1,17 @@
+meetup_url: https://www.meetup.com/portocodes/events/236664800/
+title: 'Porto Codes: January'
+date: 2017-01-19
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:30
+  title: Building static websites with Ember.js
+  speaker: locks
+  summary: |
+    With the advent of server-side rendering for client-side frameworks like
+    Angular/React/Ember, you can now use familiar tooling to develop your
+    static websites. In my presentation I will be showing how to leverage
+    ember-cli-staticboot and Ember's ecosystem to quickly put together a
+    website.
+- start: 20:00
+  title: Dinner / Socializing

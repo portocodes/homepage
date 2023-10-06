@@ -1,0 +1,26 @@
+meetup_url: https://www.meetup.com/portocodes/events/223116626/
+date: 2015-06-18
+title: "Porto.rb: Junho"
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: Short introduction to the Porto Codes project.
+- start: 19:30
+  title: Apey-eye
+  video: https://www.youtube.com/watch?v=j6Ytn5o1uEk
+  speaker: filipeperdigaosousa
+- start: 19:50
+  title: Polymer/hoodie
+  video: https://www.youtube.com/watch?v=tHLlK7Hzxvo
+  speaker: feego
+- start: 20:15
+  title: Jantar
+- start: 21:00
+  title: a11y for the uninitiated
+  video: https://www.youtube.com/watch?v=Cx2j98Rfnn8
+  speaker: zamith

@@ -1,0 +1,48 @@
+meetup_url: https://www.meetup.com/portocodes/events/254880027/
+title: Porto Codes
+date: 2019-03-14
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: |
+    Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Home automation for tinkerers
+  slides: /slides/2019-03-14.pdf
+  speaker: abiliocosta
+  summary: |
+    Home Automation seems to finally be spreading and
+    growing, with a lot of new products getting to the
+    market with affordable prices. Unfortunately, many of
+    those products use their own proprietary interfaces, so
+    we end up with isolated products that don't talk to
+    each other, and that rely on cloud-based services
+    (which may be unreliable or slow due to network
+    conditions).
+
+    Fortunately, there are many ways to make some of these
+    proprietary products work locally, interact with each
+    other and centralize them, allowing us to control and
+    manage them from a single service, instead of using a
+    different app for each device. In this talk, we will
+    discuss some of the ways to do that using open-source
+    software like Home Assistant. We will also take a look
+    at some of the most common technologies used in Home
+    Automation, and even how to get rid of proprietary
+    firmware and use open-source ones!
+- start: 20:30
+  title: Dinner and socializing
+  summary: |
+    Join us for dinner, usually at Estambul Doner Kebap. Please let us know of
+    any dietary restrictions so we can plan accordingly.
+- start: 22:00
+  title: Ice cream!
+  summary: |
+    Come rain or shine, we go for ice cream at Santini.

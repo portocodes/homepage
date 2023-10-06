@@ -1,0 +1,43 @@
+meetup_url: https://www.meetup.com/portocodes/events/289194405/
+title: 'Porto Codes: Hacktoberfest by ANSOL and Significa'
+date: 2022-10-29
+location: Significa, Rua da Torrinha 154, Porto
+sponsors: significa
+summary: |
+  Hacktoberfest is DigitalOcean’s annual event that encourages people to
+  contribute to open source throughout October. Much of modern tech
+  infrastructure relies on open-source projects built and maintained by
+  passionate people who often don’t have the staff or budgets to do much more
+  than keep the project alive. Hacktoberfest is all about giving back to those
+  projects, sharpening skills, and celebrating all things open source,
+  especially the people that make open source so special.
+
+  Join us at Significa's office and let's work on our favorite open source
+  projects. We will pitch some local open source projects and spend the day
+  hacking together.
+
+  Sign up at https://hacktoberfest.com and bring your computer with you.
+schedule:
+- start: 15:00
+  title: Doors open
+- start: 15:15
+  title: Introduction to Hacktoberfest and the event
+  summary: |
+    We will explain the purpose behind the Hacktoberfest initiative, how you
+    can participate, and what you can get back from your contributions.
+
+    We will also cover how the event is going to work and what you can expect
+    of the day.
+- start: 15:30
+  title: Contributing session
+  summary: |
+    Everyone is encouraged to work on bug fixes, translations, documentation,
+    testing, or anything else related to open source projects.
+- start: 18:50
+  title: Final remarks
+  summary: |
+     We will say a final few words and tidy up the place
+- start: 19:00
+  title: Dinner
+  summary: |
+     We'll find a place to have some dinner, probably Istanbul at Aliados

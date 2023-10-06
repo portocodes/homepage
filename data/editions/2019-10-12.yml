@@ -1,0 +1,40 @@
+meetup_url: https://www.meetup.com/portocodes/events/265208621/
+title: Porto Codes presents Hacktoberfest
+date: 2019-10-12
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+summary: |
+  Hacktoberfest is a month-long celebration of open source software run by
+  DigitalOcean and DEV. Hacktoberfest is open to everyone in our global
+  community. To participate, you must submit four pull requests to public
+  GitHub repositories.
+
+  Join us in Porto i/o Santa Catarina and let's work on our favorite open
+  source projects. We will pitch some local open source projects and spend the
+  day hacking together.
+
+  Sign up at https://hacktoberfest.digitalocean.com and bring your computer
+  with you.
+schedule:
+- start: 10:00
+  title: Doors open
+- start: 10:15
+  title: Introduction to Hacktoberfest and the event
+  summary: |
+    We will explain the purpose behind the Hacktoberfest initiative, how you
+    can participate, and what you can get back from your contributions.
+
+    We will also cover how the event is going to work and what you can expect
+    of the day.
+- start: 10:30
+  title: Presentation of open source projects
+  summary: |
+    We will continue with a brief presentation about open source projects that
+    we have curated beforehand that you can contribute to, with an emphasis on
+    projects run by the local community.
+- start: 13:00
+  title: Lunch
+- start: 16:50
+  title: Final remarks
+  summary: |
+    We will say a final few words and hand out a couple prizes.

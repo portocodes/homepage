@@ -1,0 +1,36 @@
+meetup_url: https://www.meetup.com/portocodes/events/291706615/
+title: Porto Codes
+date: 2023-03-02
+location: Devexperts, Edifício península, 1° andar, Sala 101, Praça do Bom Sucesso 127-131, Porto
+sponsors: devexperts
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Implementing Grading System Soup-To-Nuts
+  speaker: dmitryderbenev
+  summary: |
+    Sooner or later each software development company approaches the point
+    where it requires a grading system. The process of creating and
+    implementing such systems requires a lot of effort and can easily fail at
+    any stage because of various circumstances. My presentation will help
+    engineering managers and C-level managers understand the basic pros and
+    cons of such systems and give them algorithms for choosing between
+    different approaches. From an individual contributor’s perspective, it
+    might be useful for a better understanding of why companies have such
+    systems and how they are created.
+- start: 20:00
+  title: Choreography and Diligence
+  speaker: pkoch
+  summary: |
+    In this talk, pkoch will be highlighting the trade-offs of microservices
+    and proposing instead using packages as boundaries.
+- start: 20:30
+  title: Snacks / Drinks / Socializing
+  summary: |
+    This month Devexperts will sponsor snacks and drinks (vegetarian and
+    non-alcoholic options included), so we won't be leaving for dinner, we can
+    continue the conversation at the venue.

@@ -1,7 +1,0 @@
-id: '1550937097'
-date: 2018-12-13
-talks:
-- title: Building a command line tool in Rust
-  speaker: locks
-- title: OpenPGP technical details
-  speaker: hugopeixoto

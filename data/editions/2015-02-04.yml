@@ -1,0 +1,27 @@
+meetup_url: https://www.meetup.com/portocodes/events/220087634/
+date: 2015-02-04
+title: Presentation Night
+location: OneBiller, Rua Heroís de França 237
+sponsors: onebiller
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: Short introduction to the Porto Codes project.
+- start: 19:30
+  title: Rails performance
+  video: https://www.youtube.com/watch?v=YxzPtevYrCI
+  speaker: guiferrpereira
+  summary: |
+    This will be the first presentation by Guilherme to the group. He will talk
+    about performance in Rails applications.
+- start: 20:00
+  title: Crystal programming language
+  video: https://www.youtube.com/watch?v=FuvfNLQgUKA
+  speaker: zamith
+  summary: |
+    Minho.rb organizer, Zamith is no stranger to presentations. He will reprise
+    his role from last week's Minho.rb where he presented the Ruby-inspired
+    programming language, Crystal.

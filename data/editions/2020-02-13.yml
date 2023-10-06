@@ -1,0 +1,36 @@
+meetup_url: https://www.meetup.com/portocodes/events/259065597/
+title: Porto Codes & Braga.JS
+date: 2020-02-13
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: |
+    Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: |
+    Small introduction to the Porto Codes project.
+- start: 19:30
+  title: Tooling for updating large tables in Postgres
+  speaker: andrefreitas
+  summary: |
+    In this talk André will present tooling that will help you update large
+    tables in Postgres with observability on the progress, pause/resume work,
+    optimization of databases updates throughput and having atomic operations
+    while not locking all the table but just the rows you want to update.
+- start: 20:00
+  title: The bees and the IoT
+  speaker: joseresende
+  summary: |
+    Bees are essential to the human life, but spoiler alert... they're dying!
+    Ohh no! In this talk we are documenting the process of using IoT to monitor
+    hives and the subsequent problems.
+
+    Long live the bees &#x1f41d;!
+- start: 20:30
+  title: Dinner and ice cream
+  summary: |
+    Join us for dinner, usually at Estambul Doner Kebap. Come rain or shine, we
+    go for ice cream at Santini.

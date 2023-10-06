@@ -1,0 +1,26 @@
+meetup_url: https://www.meetup.com/portocodes/events/235182984/
+title: 'Porto Codes ~ November'
+date: 2016-11-17
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:30
+  title: Moving from PostgreSQL to RethinkDB
+  video: https://www.youtube.com/watch?v=JI09SzESW3A
+  slides: http://slides.com/guiferrpereira/deck-2#/
+  speaker: guiferrpereira
+  summary: |
+    Nowadays, we need to ensure that applications are operating 24/7, and
+    PostgreSQL does not support master-master replication (only through third
+    parties, with some limitations).
+
+    With this in mind, I will talk about migrating an application from
+    PostgreSQL to RethinkDB. In a technical talk, I will present the issues I
+    encountered, as well as a performance analysis between both databases.
+
+    Relevant links:
+
+    * https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis
+    * http://jepsen.io/
+- start: 20:00
+  title: Discussão / Jantar / Convívio

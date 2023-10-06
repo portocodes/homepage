@@ -1,0 +1,28 @@
+meetup_url: https://www.meetup.com/portocodes/events/252098782/
+title: Porto Codes
+date: 2018-11-08
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: How to push data to Frontends with SSE
+  speaker: andrefreitas
+  summary: |
+    Realtime in web applications is a challenge that developers face, and one
+    hard decision is what technology/architecture to use. In this talk you will
+    have an hands on building a Streaming API in NodeJS for your frontend. This
+    is possible with SSE and HTTP2, and is so simple that you will question if
+    you really need to pay Pusher or other service to push data.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

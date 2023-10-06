@@ -1,0 +1,20 @@
+meetup_url: https://www.meetup.com/portocodes/events/218785732/
+title: 'Malta Fixe Ep. III: A Vingança'
+date: 2014-12-10
+location: Rua da galeria de Paris 42, Porto
+sponsors:
+summary: |
+  The limit of attendants for the presentations is presently 10. If more people
+  show up they may have to stand around, or lean against a wall :P
+
+  We will then head to a restaurant. If anyone has a specific idea please
+  share. We should probably make reservations before hand this time.
+schedule:
+- start: 20:00
+  title: Docker
+  speaker: hugopeixoto
+- start: 20:30
+  title: Porto.rb
+  speaker: locks
+- start: 21:00
+  title: Dinner

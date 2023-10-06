@@ -1,0 +1,39 @@
+meetup_url: https://www.meetup.com/portocodes/events/254880648/
+title: Porto Codes
+date: 2019-09-12
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: |
+    Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Living inside GNU Emacs
+  speaker: aadcg
+  summary: |
+    Today's technological world is both exciting and alarming.
+
+    Exciting because we have the tools to solve the challenging problems of our
+    overpopulated planet. The vision of a connected, peaceful and fair world
+    feels closer than ever.
+
+    Alarming because tech companies provide tons of malware that people greet
+    without questioning - exchanging their freedom for a fake sense of pleasure
+    and a fake sense of productivity.
+
+    In this talk, I will show that GNU Emacs is the perfect environment for a
+    focused and free life in a world full of corrupted people and bullshit.
+- start: 20:30
+  title: Dinner
+  summary: |
+    Join us for dinner, usually at Estambul Doner Kebap.
+- start: 22:00
+  title: Ice cream!
+  summary: |
+    Come rain or shine, we go for ice cream at Santini.

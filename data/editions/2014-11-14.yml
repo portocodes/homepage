@@ -1,0 +1,17 @@
+meetup_url: https://www.meetup.com/portocodes/events/218462542/
+title: Intro To Ember.js
+date: 2014-11-14
+location: Rua da Galeria de Paris 42
+sponsors:
+summary: |
+  Free workshop on getting started with the framework for creating ambitious
+  web applications.
+schedule:
+- start: 20:00
+  title: Ember.js concepts and community
+- start: 21:00
+  title: Pizza break
+- start: 21:30
+  title: Building something using ember-cli
+- start:
+  title: Last 30mins, Recap + Ember 2.0

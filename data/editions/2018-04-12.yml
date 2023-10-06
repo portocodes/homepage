@@ -1,0 +1,27 @@
+meetup_url: https://www.meetup.com/portocodes/events/248503245/
+title: Porto Codes
+date: 2018-04-12
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Not talking about Polymer
+  speaker: inoce1e
+  summary: |
+    A simple "hands on" introduction to web components on a modern browser and
+    Polymer, one of the libraries that builds on top the web components.
+- title: WordPress de um fork a 30% da internet
+  speaker: pereirinha
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

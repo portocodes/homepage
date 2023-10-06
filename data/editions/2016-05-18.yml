@@ -1,0 +1,34 @@
+meetup_url: https://www.meetup.com/portocodes/events/227936762/
+title: Porto Codes
+date: 2016-05-18
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Início do meetup
+- start: 19:30
+  title: Good ol' PHP
+  slides: https://speakerdeck.com/portocodes/good-ol-php
+  video: https://youtube.com/watch?v=Z6tkrA1JvoE
+  speaker: rapzo
+  summary: |
+    Rui Lima led us through a journey through time, going into the history and
+    evolution of PHP since version 5.3 to 7.0. The concept of
+    [PSRs](http://www.php-fig.org/psr/) (PHP Standard Recommendations),
+    [composer](https://getcomposer.org/) (PHP dependency manager), and the
+    features that version introduced.
+- start: 20:00
+  title: Moving from PostgreSQL to RethinkDB
+  speaker: guiferrpereira
+  summary: |
+    Nowadays, we need to ensure that applications are operating 24/7, and
+    PostgreSQL (http://www.postgresql.org/) does not support master-master
+    replication (only through third parties, with some limitations).
+
+    With this in mind, I will talk about migrating an application from
+    PostgreSQL (http://www.postgresql.org/) to RethinkDB
+    (https://www.rethinkdb.com/). In a technical talk, I will present the
+    issues I encountered, as well as a performance analysis between both
+    databases.
+- start: 20:30
+  title: Jantar / Convívio

@@ -1,0 +1,17 @@
+meetup_url: https://www.meetup.com/portocodes/events/224338469/
+title: "Porto.rb: Outubro"
+date: 2015-10-22
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Início do meetup, discussão de um episódio do RubyTapas
+- start: 19:30
+  title: Cassandro, o exótico
+  speaker: paulobrito
+- start: 20:15
+  title: Developers & Designers
+  video: https://www.youtube.com/watch?v=nhs-s-UDsvI
+  speaker: mariamonteiro
+- start: 21:00
+  title: Jantar

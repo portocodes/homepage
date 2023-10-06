@@ -1,0 +1,45 @@
+meetup_url: https://www.meetup.com/portocodes/events/244523592/
+title: 'Porto Codes: November'
+date: 2017-11-23
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Vue js - The whole picture
+  speaker: bmfteixeira
+  summary: |
+    Bruno is a frontend developer at Pixelmatters and loves Vue.js! He will
+    show Vue.js power on building large web apps based on the framework's
+    progressiveness, scalability and robustness. Why is Vue.js growing soo much
+    on the JS environment? It's time to see the whole picture!
+- start: 20:00
+  title: The Dream of Styleguide Driven Development
+  speaker: SaraVieira
+  summary: |
+    React is awesome! We probably all here agree on that. You have heard of all
+    types of driven development but react emerged a new type, styleguide driven
+    development became a reality with components. This type of development
+    focuses on Developer/Designer collaboration and on assertive components.
+    With the use of React, CSS Modules, Flow and Snapshot testing we were able
+    to almost remove style regressions. In this talk you get a glimpse of you
+    can start styleguide driven development and how you can sell this dream to
+    your project managers.
+- start: 20:15
+  title: Up and running with ReasonML
+  speaker: thatportugueseguy
+  summary: |
+    This will be an introductory talk where we’ll go into what ReasonML is and
+    works, it’s benefits, and what we need to know to start hacking with it.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

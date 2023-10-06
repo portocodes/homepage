@@ -1,9 +1,0 @@
-id: 'rsjhnqyzgbpb'
-date: 2019-04-11
-talks:
-- title: Playing around with Flutter
-  speaker: rapzo
-  summary: |
-    What is this new [flutter](https://flutter.dev/) thing? What is
-    [Dart](https://www.dartlang.org) and where has it been all my life? Let's
-    check this things out while building a tiny project.

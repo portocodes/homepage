@@ -1,0 +1,19 @@
+meetup_url: https://www.meetup.com/portocodes/events/239324104/
+title: 'Porto Codes: June'
+date: 2017-06-22
+location: Euronext, Av. da Boavista 3433, Porto
+sponsors: euronext
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: BDD, Why Not?
+  speaker: jorgemcomachado
+- start: 20:00
+  title: Coffee Break
+- start: 20:30
+  title: Cinder, creative coding with C++
+  speaker: inundaciones

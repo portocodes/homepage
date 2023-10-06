@@ -1,0 +1,16 @@
+meetup_url: https://www.meetup.com/portocodes/events/223568015/
+date: 2015-09-23
+title: "Porto.rb: Setembro"
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Doors open
+  summary: Come and hang out while we struggle with our A/V setup.
+- start: 19:25
+  title: Opening remarks
+  summary: Short introduction to the Porto Codes project.
+- start: 19:30
+  title: Apresentações de alumni da Creators School
+- start: 21:00
+  title: Jantar na Fast Good

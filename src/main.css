@@ -129,7 +129,7 @@ section h1 {
   font-weight: 100;
 }
 
-section h2 {
+section h2, section .h2 {
   font-family: var(--header-font-family);
   font-size: 1.0em;
   font-weight: normal;

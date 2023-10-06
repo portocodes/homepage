@@ -23,7 +23,7 @@
       <a href="./index.html">home</a>
       <a href="./speak.html">speak</a>
       <a href="./previous.html">past events</a>
-      <a href="./podcast.html">podcast</a>
+      <a href="https://conversasemcodigo.pt">podcast</a>
     </nav>
 
     <main>
@@ -50,17 +50,17 @@
         </p>
       </section>
 
+      {{#current}}
       <section id="schedule">
         <p>
           The next event is on <b>Thursday, {{current.human_date}}</b> at
           <b>{{current.schedule.first.start}}</b> at <b>{{current.location}}</b>.
         </p>
 
-        <a href="https://www.meetup.com/portocodes/events/{{current.id}}/" class="cta">
+        <a href="{{current.meetup_url}}" class="cta">
          RSVP on our meetup page
         </a>
 
-        {{#current}}
         <h1>Schedule</h1>
 
         <ol>
@@ -75,30 +75,32 @@
           </li>
           {{/schedule}}
         </ol>
-        {{/current}}
       </section>
+      {{/current}}
 
       <section id="upcoming">
         <h1>Upcoming events</h1>
 
-        {{#editions}}
+        {{#next_events}}
           <h2>{{title}}</h2>
           <p><b>{{human_date}}</b></p>
 
           {{{summary}}}
 
-          {{#talks}}
+          {{#schedule}}
+          {{#talk?}}
           <p>{{title}}{{#speaker}}, by <a href="{{speaker.url}}">{{speaker.name}}</a>{{/speaker}}</p>
           {{{summary}}}
-          {{/talks}}
+          {{/talk?}}
+          {{/schedule}}
 
-          <a href="https://www.meetup.com/portocodes/events/{{id}}/" class="cta">
+          <a href="{{meetup_url}}" class="cta">
            RSVP on our meetup page
           </a>
-        {{/editions}}
-        {{^editions}}
+        {{/next_events}}
+        {{^next_events}}
           <p>No additional events planned yet! We always need more speakers, so get in touch with us below.</p>
-        {{/editions}}
+        {{/next_events}}
       </section>
 
       <section id="speak">

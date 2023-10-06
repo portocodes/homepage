@@ -1,0 +1,29 @@
+meetup_url: https://www.meetup.com/portocodes/events/239323934/
+title: 'Porto Codes: May'
+date: 2017-05-25
+location: Blip.PT, Avenida Camilo 94, Porto
+sponsors: blip
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: Dealing with Timezones and Daylight Savings
+  speaker: cutajarj
+  summary: |
+    How many times, as a developer, have you had to deal with a timezone or
+    daylight savings bug? Join us as we describe various problems, examples and
+    solutions to timekeeping in global applications.
+- start: 20:00
+  title: Coffee Break
+- start: 20:30
+  title: Functional Programming in Modern C++
+  speaker: miguelpoeira
+  summary: |
+    In this talk I'll try to show you how you can write functional-oriented
+    code with modern C ++. Typically, C ++ is known as a language where you
+    need to reinvent the wheel every time you start a new project. From simple
+    examples to more complex metaprogramming, I'll try to convince you
+    otherwise.

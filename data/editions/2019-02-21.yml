@@ -1,0 +1,38 @@
+meetup_url: https://www.meetup.com/portocodes/events/254880012/
+title: Porto Codes
+date: 2019-02-21
+location: Porto i/o Santa Catarina, Rua de António Pedro 24, Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: React Best Practices
+  slides: https://docs.google.com/presentation/d/1ynnEYb3APaYOrkn-QhBbV9XEx1TkOa27wI7DxEjMjUk/edit#slide=id.g4604bf8a18_0_0
+  speaker: luiscardoso
+  summary: |
+    React is one of the most used libraries for web development. However,
+    because it's so widely used, the library evolves fast and sometimes we
+    don't get the most out of it or we are not familiar with new patterns and
+    best practices. This talk gives an overview of the current best practices
+    and caveats to watch out for.
+
+    About Luís Cardoso:
+
+    I've been a Frontend Engineer at Feedzai for 7 years. I'm on the company
+    almost from it's beginning and I had a big role on what is the Frontend at
+    Feedzai today (for good and bad). Some of the things I've been involved
+    with: maintaining a large SPA, recruiting, architecture decisions and
+    several initiatives inside the company. In my free time I'm an amateur
+    photographer.
+- start: 20:30
+  title: Dinner + Santini (icecream)
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for icecream at Santini and continue the
+    conversation.

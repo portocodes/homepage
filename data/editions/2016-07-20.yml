@@ -1,0 +1,27 @@
+meetup_url: https://www.meetup.com/portocodes/events/232428165/
+title: 'Porto Codes: Julho'
+date: 2016-07-20
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Início do meetup
+- start: 19:30
+  title: Introduction to Swift
+  video: https://www.youtube.com/watch?v=G80JHxJ_YZ8
+  slides: https://speakerdeck.com/portocodes/introduction-to-swift
+  speaker: jaimeazevedo
+  summary: |
+    When talking about programming languages, Swift is the new kid in Apple’s
+    block. In this session we are introducing Swift from an iOS developer's
+    perspective and how it helps build more reliable code compared to its
+    ancestor Objective-C while crushing some myths along the way.
+
+    But, is it mature enough? XCode. Using Swift in production and in building
+    apps where Obj-c meets Swift.
+
+    Now in version 2.2, we will also talk about where we are going and how open
+    sourcing Swift enables for new interactions with the developer community
+    such as language improvement and other applications of the language.
+- start: 20:00
+  title: Discussão / Jantar / Convívio

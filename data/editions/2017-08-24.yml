@@ -1,0 +1,28 @@
+meetup_url: https://www.meetup.com/portocodes/events/242192769/
+title: 'Porto Codes: August'
+date: 2017-08-24
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: React Native
+  speaker: joaoanes
+  summary: |
+    In this talk, we’re gonna talk mobile development without using strictly
+    native tools - and yes, these sorts of platforms usually result in apps
+    that don’t quite nail the native look&feel, residing in an uncanny valley
+    for applications. However, this one’s a little different.
+
+    We're talking about React Native, a mobile development framework, created,
+    developed and endorsed by Facebook you can plug right in your existing
+    native code to gain developer superpowers: Hot Reloading, instant deploys
+    without an AppStore round-trip, UI expressed in React components and many
+    more! Facebook says it'll replace mobile development as we know it - so
+    let’s see how true that might be!
+- start: 20:30
+  title: Dinner + Santini

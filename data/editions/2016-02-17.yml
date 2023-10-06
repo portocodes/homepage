@@ -1,0 +1,22 @@
+meetup_url: https://www.meetup.com/portocodes/events/228396049/
+title: Porto Codes
+date: 2016-02-17
+location: Porto i/o Downtown, R. de Cândido dos Reis 81, 4050-152 Porto
+sponsors: portoio
+schedule:
+- start: 19:00
+  title: Início do meetup
+- start: 19:30
+  title: React On Rails
+  video: https://www.youtube.com/watch?v=gXClAD7_w6g
+  speaker: PedroBrochado
+- start: 20:00
+  title: More React, and probably less Rails
+  video: https://www.youtube.com/watch?v=h1hw5AYRngs
+  speaker: naps62
+- start: 20:30
+  title: Mutation Testing
+  video: https://www.youtube.com/watch?v=qsuDFXFiqcA
+  speaker: pfac
+- start: 21:00
+  title: Jantar
