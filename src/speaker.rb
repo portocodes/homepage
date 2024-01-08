@@ -20,7 +20,7 @@ def speaker(filename)
   contents = File.read(filename)
 
   cache(contents) do
-    speaker = YAML.load(contents)
+    speaker = YAML.load(contents, permitted_classes: [Date])
     speaker = [
       linkedin(speaker["linkedin"]),
       twitter(speaker["twitter"]),
