@@ -54,7 +54,7 @@ class Edition < OpenStruct
   end
 
   def self.parse(yml)
-    self.load(YAML.load(yml))
+    self.load(YAML.load(yml, permitted_classes: [Date]))
   end
 
   def self.load(edition)
