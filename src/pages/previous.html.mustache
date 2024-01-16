@@ -45,9 +45,9 @@
           {{human_date}}
         </h2>
 
-        {{#summary}}
+        {{#summary_html}}
         <p class="p-summary">{{{.}}}</p>
-        {{/summary}}
+        {{/summary_html}}
 
         {{#schedule}}
           {{#talk?}}
@@ -58,7 +58,7 @@
           {{#slides}}<a href="{{.}}">slides</a>{{/slides}}
         </div>
 
-        {{#summary}}<p class="p-summary">{{{.}}}</p>{{/summary}}
+        {{#summary_html}}<p class="p-summary">{{{.}}}</p>{{/summary_html}}
           {{/talk?}}
         {{/schedule}}
       </section>

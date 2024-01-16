@@ -32,12 +32,10 @@ end
 
 # Represents an entry in the meetup schedule
 class ScheduleEntry < OpenStruct
-  def self.load(obj)
-    obj['summary'] = obj['summary']&.markdown_to_html
+  def self.load(obj, speakers)
+    obj['summary_html'] = obj['summary']&.markdown_to_html
     obj['start'] = obj['start']&.to_hour
-    obj['speaker'] = obj['speaker']&.then do |s|
-      { url: '', name: s }
-    end
+    obj['speaker'] = speakers[obj['speaker']]
 
     new(obj)
   end
@@ -49,19 +47,19 @@ end
 
 # Represents a meetup edition
 class Edition < OpenStruct
-  def self.read(filename)
-    parse(File.read(filename))
+  def self.read(filename, speakers)
+    parse(File.read(filename), speakers)
   end
 
-  def self.parse(yml)
-    self.load(YAML.load(yml, permitted_classes: [Date]))
+  def self.parse(yml, speakers)
+    self.load(YAML.load(yml, permitted_classes: [Date]), speakers)
   end
 
-  def self.load(edition)
+  def self.load(edition, speakers)
     edition['human_date'] = edition['date']&.human
-    edition['summary'] = edition['summary']&.markdown_to_html
+    edition['summary_html'] = edition['summary']&.markdown_to_html
     edition['schedule'] = edition['schedule']&.map do |entry|
-      ScheduleEntry.load(entry)
+      ScheduleEntry.load(entry, speakers)
     end
 
     new(edition)

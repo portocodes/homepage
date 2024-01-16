@@ -66,11 +66,13 @@
         <ol>
           {{#schedule}}
           <li>
-            <time class="dt-start" datetime="{{date}} {{start}}">{{start}}</time>
-            <p>{{title}}{{#speaker}}, by <a href="{{url}}">{{name}}</a>{{/speaker}}</p>
+            <div class='p-headline'>
+              <time class="dt-start" datetime="{{date}} {{start}}">{{start}}</time>
+              <span class='p-title'>{{title}}</span>{{#speaker}}, by <a href="{{url}}">{{name}}</a>{{/speaker}}</span>
+            </div>
 
             <div class="p-summary">
-              {{{summary}}}
+              {{{summary_html}}}
             </div>
           </li>
           {{/schedule}}
@@ -85,12 +87,12 @@
           <h2>{{title}}</h2>
           <p><b>{{human_date}}</b></p>
 
-          {{{summary}}}
+          {{{summary_html}}}
 
           {{#schedule}}
           {{#talk?}}
           <p>{{title}}{{#speaker}}, by <a href="{{speaker.url}}">{{speaker.name}}</a>{{/speaker}}</p>
-          {{{summary}}}
+          {{{summary_html}}}
           {{/talk?}}
           {{/schedule}}
 

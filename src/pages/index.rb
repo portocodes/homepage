@@ -1,9 +1,15 @@
 require 'mustache'
-require_relative '../edition'
+require_relative '../edition.rb'
+require_relative '../speaker.rb'
+
+speakers = Dir["data/speakers/*.yml"]
+  .map { |filename| speaker(filename) }
+  .map { |speaker| [speaker["username"], speaker] }
+  .to_h
 
 next_events =
   Dir['data/editions/????-??-??.yml']
-  .map { |filename| Edition.read(filename) }
+  .map { |filename| Edition.read(filename, speakers) }
   .select { |edition| Date.today <= edition.date }
   .sort_by(&:date)
 

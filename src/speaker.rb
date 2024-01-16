@@ -6,7 +6,7 @@ require 'digest'
 def cache(contents)
   cache_filename = File.join("cache", Digest::SHA256.hexdigest(contents))
 
-  if !File.exists?(cache_filename)
+  if !File.exist?(cache_filename)
     File.write(cache_filename, yield)
   end
 

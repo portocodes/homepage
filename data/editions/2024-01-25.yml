@@ -1,0 +1,37 @@
+meetup_url: https://www.meetup.com/portocodes/events/298414908
+title: Porto Codes
+date: 2024-01-25
+location: Significa, Rua da Torrinha 154, Porto
+sponsors: significa
+schedule:
+- start: 19:00
+  title: Introduction
+  summary: |
+    Small introduction to the Porto Codes project, and a warm up to the night's
+    presentation.
+- start: 19:30
+  title: "An introduction to FastAPI"
+  speaker: helenalopes
+  summary: |
+    FastAPI is a recent Python web framework for building APIs that has been
+    gaining a lot of popularity lately. It is based on open standards like
+    OpenAPI or JSON Schema and supports asynchronous programming or Python type
+    annotations. I hope to inspire you to use it, just as I was inspired by the
+    FastAPI creator.
+- start: 20:00
+  title: "Simplifying the Cloud: A Beginner's Guide to Fly.io"
+  speaker: franciscomarques
+  summary: |
+     This talk introduces Fly.io, a simple platform transforming the deployment
+     of global applications for small organisations. This platform goes against
+     the growing trend of the complexity seen in popular infrastructure
+     abstractions, by making global container deployments straightforward and
+     effortless, even for beginners.
+- start: 20:30
+  title: Dinner + Ice cream
+  summary: |
+    We will have dinner downtown, please let us know of any dietary
+    restrictions so we can plan accordingly.
+
+    Afterwards it is customary to go for ice cream and continue the
+    conversation.

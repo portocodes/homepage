@@ -159,14 +159,18 @@ section ol {
   padding: 0px;
 }
 
-section#schedule li {
-  display: flex;
-  flex-wrap: wrap;
+section#schedule li .p-headline {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+section#schedule li .p-title {
+  font-weight: bold;
 }
 
 section#schedule li time {
+  display: inline;
   text-align: center;
-  display: block;
   width: 4em;
   margin: 1em 0em;
   min-width: 4em;
